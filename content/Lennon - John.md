@@ -1,0 +1,17 @@
+Title:  Lennon, John
+
+Tags:   authors
+
+AKA:    John Lennon
+
+Seq:    10.53
+
+Level:  3 - Article
+
+Class:  author
+
+Link:   https://en.wikipedia.org/wiki/John_Lennon
+
+Timestamp: 20230209212848
+
+Index:  Lennon, John; 

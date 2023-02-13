@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Decomposition</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --highlight-color: Gainsboro
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --highlight-color: DimGray
+  }
+}
+a {
+    color: var(--link-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+h1 { font-size: 2.0em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h2 { font-size: 1.8em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h3 { font-size: 1.6em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h4 { font-size: 1.4em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h5 { font-size: 1.2em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+h6 { font-size: 1.0em; margin-top: 0.7em; margin-bottom: 0.0em; font-weight: 600; font-style: normal;  }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+</style>
+</head>
+<body>
+
+
+<p>2 <a href="https://ntnk.app/fundamental">Fundamental</a>&nbsp;&#8593;</p><h3 id="decomposition">2.8 Decomposition</h3>
+<p>Large and complex things should be broken down into smaller, more manageable things. This can be done progressively, and recursively, at multiple levels. </p>
+
+<p>It&#8217;s best if the number of things in each group is somewhere in the range of 3 - 15, with 7 being a sweet spot. The human brain seems fairly good at dealing with sets of this size. </p>
+
+<p>This idea can be applied to system functionality, to software architectures, to work statements (where it results in a <a href="https://en.wikipedia.org/wiki/Work_breakdown_structure" class="reflink" target="ref">work breakdown structure</a>), and to project staffing. </p>
+
+<p>Decomposition is particularly powerful when done in conjunction with <a href="https://ntnk.app/cohesion">Cohesion</a> and <a href="https://ntnk.app/loosecoupling">Loose Coupling</a>. </p>
+
+<p>One famous example of decomposition was performed by the <a href="http://www.nytimes.com/2003/12/09/news/earliest-days-takeoff-how-the-wright-brothers-did-what-no-one-else-could.html?pagewanted=all" class="reflink" target="ref">Wright Brothers</a> when they broke down the problem of human flight into three separate domains: lift, control and propulsion. </p>
+
+<p>Another common example of decomposition in modern web applications is evident in the popular <a href="https://en.wikipedia.org/wiki/Model–view–controller" class="reflink" target="ref">MVC</a> pattern, in which application logic is subdivided into three separate areas: model, view and controller. </p>
+
+<p>In Agile, it is common to have three levels of requirements decomposition, starting with <a href="http://www.scaledagileframework.com/epic/" class="reflink" target="ref">epics</a>, proceeding to <a href="https://www.symphonious.net/2006/05/18/features-vs-stories/" class="reflink" target="ref">features</a>, and then to <a href="https://www.mountaingoatsoftware.com/agile/user-stories" class="reflink" target="ref">user stories</a>. </p>
+
+<p>Note, however, that detailed decomposition of requirements need not be done initially, and can often be profitably deferred until a feature is a high enough priority to be approaching scheduled implementation into code. </p>
+
+<hr />
+
+<h5 id="words-from-others-on-this-topic">Words from Others on this Topic</h5>
+
+<figure class="notenik-quote-attrib"><blockquote><p>The bulleted list of requirements is by far the most cost-effective and beneficial approach. It is simple to create; it is simple to read, regardless of background; and, when stored in a spreadsheet, database, or requirements management tool and augmented with annotations, it has incredible benefits to project management. </p></blockquote><figcaption><p>&#8211; <a href="https://ntnk.app/davisalanm">Alan M. Davis</a>, <em><a href="https://ntnk.app/justenoughrequirementsmanagementwheresoftwaredevelopmentmeetsmarketing">Just Enough  <br>Requirements Management: Where Software  <br>Development Meets Marketing</a></em>, 2005 </p></figcaption></figure>
+
+
+<hr />
+<p>Next: <a href="https://ntnk.app/bibliography">Bibliography</a></p></body>
+</html>
