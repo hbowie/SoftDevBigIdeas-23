@@ -1,14 +1,16 @@
-Title: Make Problems Visible
+Title:  Make Problems Visible
 
-Index: problems
-Index: problem-solving
-Index: code reviews
-Index: automated testing
-Index: user demos
-Index: lean
-Index: visibility
-Index: Toyota
-Index: Fackler, Martin
+Seq:    6.6
+
+Idea Number: 44
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160505222456
+
+Index:  problems; problem-solving; code reviews; automated testing; user demos; lean; visibility; Toyota; Fackler, Martin; 
 
 Body:
 

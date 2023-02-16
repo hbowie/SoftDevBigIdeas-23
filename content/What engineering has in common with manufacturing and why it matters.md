@@ -1,33 +1,23 @@
-Title: What engineering has in common with manufacturing and why it matters 
+Title:  What engineering has in common with manufacturing and why it matters
 
+Tags:   works
 
-AKA: cockburn-2006 
+AKA:    cockburn-2006
 
-Tags: works 
+Seq:    16.21.3
 
-Seq:  10.18.3 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Cockburn, Alistair
 
 Work Type: Article
 
-Publisher: 
-
 Pub Date: Sep 6 2006
 
-Work Rights:  
+Link:   https://alistair.cockburn.us/What+engineering+has+in+common+with+manufacturing+and+why+it+matters
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://alistair.cockburn.us/What+engineering+has+in+common+with+manufacturing+and+why+it+matters 
-
-Index: Cockburn, Alistair;  
-
-Body:  
-
+Index:  Cockburn, Alistair; 

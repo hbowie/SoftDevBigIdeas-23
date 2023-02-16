@@ -1,6 +1,18 @@
-Title: Take a Long-Term Economic Perspective
+Title:  Take a Long-Term Economic Perspective
 
-Index: economic
+Tags:   ideas
+
+Seq:    3.4
+
+Idea Number: 23
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160606160141
+
+Index:  economic; 
 
 Body:
 
@@ -18,7 +30,7 @@ In the grander scheme of things, however, all of the following economic factors 
 
 5. Developing unique software for a particular customer is generally only economically beneficial if that software genuinely aids that customer in differentiating themselves from their competitors in the marketplace.
 
-6. While features that are fashioned carefully to support existing business processes are often requested and appreciated by current customers, in the long term such software can be costly to maintain, if it must be reworked each time processes and customers and business trends change. It is often much more cost-effective to [simplify and generalize][simplify] the design so that it can be used more flexibly by a broader range of customers across a wider spectrum of business processes.
+6. While features that are fashioned carefully to support existing business processes are often requested and appreciated by current customers, in the long term such software can be costly to maintain, if it must be reworked each time processes and customers and business trends change. It is often much more cost-effective to [[Simplify and Generalize]] the design so that it can be used more flexibly by a broader range of customers across a wider spectrum of business processes.
 
 7. The costs of supporting a piece of software over its entire life span are often much greater than the initial development costs. What often gets ignored are the costs of sustaining a set of features over a decade or two or three, including data storage, backup and archival costs, as well as the cost of maintaining the software.
 

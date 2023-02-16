@@ -1,33 +1,29 @@
-Title: Facts and Fallacies of Software Engineering 
+Title:  Facts and Fallacies of Software Engineering
 
+Tags:   works
 
-AKA: glass-2003 
+AKA:    glass-2003
 
-Tags: works 
+Seq:    16.36.1
 
-Seq:  10.33.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Glass, Robert L.
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 2003
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: Pearson Education, Inc
 
+Pub Date: 2003
+
 Work ID: 321117425
 
-Link: https://amzn.to/29LclFr 
+Link:   https://amzn.to/29LclFr
 
-Index: Glass, Robert L.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Glass, Robert L.; 

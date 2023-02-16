@@ -1,8 +1,14 @@
 Title:  Leadership
 
-Index:  leadership; management; 
+Seq:    3
+
+Level:  2 - Section
+
+Class:  section
 
 Timestamp: 20230209172459
+
+Index:  leadership; management; 
 
 Body:
 

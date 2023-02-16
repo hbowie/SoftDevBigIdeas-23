@@ -1,35 +1,25 @@
-Title: Multitasking: Switching costs 
+Title:  Multitasking: Switching costs
+
+Tags:   works
 
 Work Major Title: American Psychological Association
 
+AKA:    apa-multitask-2006
 
-AKA: apa-multitask-2006 
+Seq:    16.2.1
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.2.1 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: American Pschological Association
 
 Work Type: Article
 
-Publisher: 
-
 Pub Date: 2006
 
-Work Rights:  
+Link:   https://www.apa.org/research/action/multitask.aspx
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://www.apa.org/research/action/multitask.aspx 
-
-Index: American Pschological Association;  
-
-Body:  
-
+Index:  American Pschological Association; 

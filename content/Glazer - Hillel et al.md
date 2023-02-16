@@ -1,18 +1,17 @@
-Title: Glazer, Hillel et al. 
+Title:  Glazer, Hillel et al.
 
-AKA: Hillel et al. Glazer 
+Tags:   authors
 
-Tags: authors 
+AKA:    Hillel et al. Glazer
 
-Seq: 10.34 
+Seq:    16.37
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Hillel_Et_Al_Glazer  
+Link:   https://en.wikipedia.org/wiki/Hillel_Et_Al_Glazer
 
-Index: Glazer, Hillel et al. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Glazer, Hillel et al.; 

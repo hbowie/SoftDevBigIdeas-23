@@ -1,33 +1,29 @@
-Title: Just Enough Requirements Management: Where Software Development Meets Marketing 
+Title:  Just Enough Requirements Management: Where Software Development Meets Marketing
 
+Tags:   works
 
-AKA: davis-2005 
+AKA:    davis-2005
 
-Tags: works 
+Seq:    16.23.2
 
-Seq:  10.20.2 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Davis, Alan M.
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 2005
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: Alan M. Davis
 
+Pub Date: 2005
+
 Work ID: 932633641
 
-Link: https://amzn.to/2a66ate 
+Link:   https://amzn.to/2a66ate
 
-Index: Davis, Alan M.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Davis, Alan M.; 

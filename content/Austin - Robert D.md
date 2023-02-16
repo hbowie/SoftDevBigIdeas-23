@@ -1,18 +1,17 @@
-Title: Austin, Robert D. 
+Title:  Austin, Robert D.
 
-AKA: Robert D. Austin 
+Tags:   authors
 
-Tags: authors 
+AKA:    Robert D. Austin
 
-Seq: 10.5 
+Seq:    16.5
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Robert_Daustin  
+Link:   https://en.wikipedia.org/wiki/Robert_Daustin
 
-Index: Austin, Robert D. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Austin, Robert D.; 

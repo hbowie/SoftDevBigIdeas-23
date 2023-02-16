@@ -1,18 +1,17 @@
-Title: American Pschological Association 
+Title:  American Pschological Association
 
-AKA: American Pschological Association 
+Tags:   authors
 
-Tags: authors 
+AKA:    American Pschological Association
 
-Seq: 10.2 
+Seq:    16.2
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/American_Pschological_Association  
+Link:   https://en.wikipedia.org/wiki/American_Pschological_Association
 
-Index: American Pschological Association 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  American Pschological Association; 

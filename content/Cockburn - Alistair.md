@@ -1,18 +1,17 @@
-Title: Cockburn, Alistair 
+Title:  Cockburn, Alistair
 
-AKA: Alistair Cockburn 
+Tags:   authors
 
-Tags: authors 
+AKA:    Alistair Cockburn
 
-Seq: 10.18 
+Seq:    16.21
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Alistair_Cockburn  
+Link:   https://en.wikipedia.org/wiki/Alistair_Cockburn
 
-Index: Cockburn, Alistair 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Cockburn, Alistair; 

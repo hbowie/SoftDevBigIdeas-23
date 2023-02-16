@@ -1,33 +1,25 @@
-Title: Manifesto for Agile Software Development 
+Title:  Manifesto for Agile Software Development
 
+Tags:   works
 
-AKA: beck-et-al-2001 
+AKA:    beck-et-al-2001
 
-Tags: works 
+Seq:    16.9.1
 
-Seq:  10.9.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Beck, Kent et al.
 
 Work Type: Web Page
 
-Publisher: 
+Work Rights: Copyright
 
 Pub Date: 2001
 
-Work Rights:  Copyright
+Link:   https://www.agilemanifesto.org
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://www.agilemanifesto.org 
-
-Index: Beck, Kent et al.;  
-
-Body:  
-
+Index:  Beck, Kent et al.; 

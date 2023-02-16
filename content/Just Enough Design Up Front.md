@@ -1,22 +1,16 @@
-Title: Just Enough Design Up Front
+Title:  Just Enough Design Up Front
 
-Index: BDUF
-Index: Case Western Reserve University
-Index: Constantine, Larry
-Index: Gall, John
-Index: Gehry, Frank
-Index: JEDUF
-Index: Lockwood, Lucy
-Index: Poppendieck, Mary and Tom
-Index: Reeves, Jack W.
-Index: YAGNI (https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-Index: architectural runway
-Index: architecture
-Index: code as design
-Index: cowboy development
-Index: design
-Index: refactoring (https://en.wikipedia.org/wiki/Code_refactoring)
+Seq:    5.10
 
+Idea Number: 37
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160606174015
+
+Index:  BDUF; Case Western Reserve University; Constantine, Larry; Gall, John; Gehry, Frank; JEDUF; Lockwood, Lucy; Poppendieck, Mary and Tom; Reeves, Jack W.; YAGNI (https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it); architectural runway; architecture; code as design; cowboy development; design; refactoring (https://en.wikipedia.org/wiki/Code_refactoring); 
 
 Body:
 

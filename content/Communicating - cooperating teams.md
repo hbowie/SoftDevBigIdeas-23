@@ -1,35 +1,25 @@
-Title: Communicating, cooperating teams 
+Title:  Communicating, cooperating teams
+
+Tags:   works
 
 Work Major Title: Agile Software Development
 
+AKA:    cockburn-2001
 
-AKA: cockburn-2001 
+Seq:    16.21.1
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.18.1 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Cockburn, Alistair
 
 Work Type: Book
 
-Publisher: 
-
 Pub Date: Jan 7 2001
 
-Work Rights:  
+Link:   https://athena.ecs.csus.edu/~buckley/CSc233/ACockburn_Communicating_Cooperting_Teams_Ch3.pdf
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://a.cockburn.us/1586 
-
-Index: Cockburn, Alistair;  
-
-Body:  
-
+Index:  Cockburn, Alistair; 

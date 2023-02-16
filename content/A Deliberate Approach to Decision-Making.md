@@ -1,14 +1,16 @@
-Title: A Deliberate Approach to Decision-Making
+Title:  A Deliberate Approach to Decision-Making
 
-Index: Argyris, Chris
-Index: Cockburn, Alistair
-Index: Poppendieck, Mary and Tom
-Index: Schön, Donald
-Index: concurrent development
-Index: decisions
-Index: factory
-Index: last responsible moment
-Index: manufacturing
+Seq:    6.2
+
+Idea Number: 40
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160607173946
+
+Index:  Argyris, Chris; Cockburn, Alistair; Poppendieck, Mary and Tom; Schön, Donald; concurrent development; decisions; factory; last responsible moment; manufacturing; 
 
 Body:
 

@@ -1,21 +1,16 @@
-Title: Plan Thoughtfully But Be Prepared for Change
+Title:  Plan Thoughtfully But Be Prepared for Change
 
-Index: Agile Manifesto
-Index: Berkun, Scott
-Index: Eisenhower, Dwight D.
-Index: Kennedy, Michael N.
-Index: MVP (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: Miller, Henry
-Index: Minimal Viable Product (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: Robertson, James and Suzanne
-Index: capacity allocation (http://www.scaledagileframework.com/team-backlog/)
-Index: change
-Index: elephant
-Index: horse
-Index: innovation
-Index: planning
-Index: rabbit
-Index: roadmap (http://www.scaledagileframework.com/roadmap/)
+Seq:    5.5
+
+Idea Number: 32
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160603150616
+
+Index:  Agile Manifesto; Berkun, Scott; Eisenhower, Dwight D.; Kennedy, Michael N.; MVP (http://www.disciplinedagiledelivery.com/defining-mvp/); Miller, Henry; Minimal Viable Product (http://www.disciplinedagiledelivery.com/defining-mvp/); Robertson, James and Suzanne; capacity allocation (http://www.scaledagileframework.com/team-backlog/); change; elephant; horse; innovation; planning; rabbit; roadmap (http://www.scaledagileframework.com/roadmap/); 
 
 Body:
 

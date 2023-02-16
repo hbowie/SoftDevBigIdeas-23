@@ -1,18 +1,17 @@
-Title: Elssamadisy, Amr 
+Title:  Elssamadisy, Amr
 
-AKA: Amr Elssamadisy 
+Tags:   authors
 
-Tags: authors 
+AKA:    Amr Elssamadisy
 
-Seq: 10.28 
+Seq:    16.31
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Amr_Elssamadisy  
+Link:   https://en.wikipedia.org/wiki/Amr_Elssamadisy
 
-Index: Elssamadisy, Amr 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Elssamadisy, Amr; 

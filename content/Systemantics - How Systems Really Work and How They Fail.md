@@ -1,33 +1,31 @@
-Title: Systemantics: How Systems Really Work and How They Fail 
+Title:  Systemantics: How Systems Really Work and How They Fail
 
+Tags:   works
 
-AKA: gall-1975 
+AKA:    gall-1975
 
-Tags: works 
+Seq:    16.33.1
 
-Seq:  10.30.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Gall, John
 
 Work Type: Book
 
+Work Rights: Copyright
+
+Work Rights Holder: John Gall
+
 Publisher: Pocket
 
 Pub Date: 1975
 
-Work Rights:  Copyright
-
-Work Rights Holder: John Gall
-
 Work ID: 0812906748
 
-Link: https://amzn.to/2EeFHbS 
+Link:   https://amzn.to/2EeFHbS
 
-Index: Gall, John;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Gall, John; 

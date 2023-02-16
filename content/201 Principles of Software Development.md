@@ -1,33 +1,29 @@
-Title: 201 Principles of Software Development 
+Title:  201 Principles of Software Development
 
+Tags:   works
 
-AKA: davis-1995 
+AKA:    davis-1995
 
-Tags: works 
+Seq:    16.23.1
 
-Seq:  10.20.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Davis, Alan M.
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 1995
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: McGraw-Hill, Inc.
 
+Pub Date: 1995
+
 Work ID: 70158401
 
-Link: https://amzn.to/29GkBWB 
+Link:   https://amzn.to/29GkBWB
 
-Index: Davis, Alan M.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Davis, Alan M.; 

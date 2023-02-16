@@ -1,17 +1,14 @@
 Title:  Glossary
 
-Index: glossary
-Index: dictionary
-Index: definitions
-Index: architecture
-Index: customer
-Index: developer
-Index: feature
-Index: iteration
-Index: process
-Index: product
-Index: project
-Index: sprint
+Seq:    13.4
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160613162637
+
+Index:  glossary; dictionary; definitions; architecture; customer; developer; feature; iteration; process; product; project; sprint; 
 
 Body:
 
@@ -37,7 +34,3 @@ Some guidance on what I mean by a few terms that might otherwise cause some conf
 <dt>sprint</dt>
 <dd>A short, regular cycle (usually 1 - 4 weeks) for producing working software; also known as an “iteration.”</dd>
 </dl>
-
-
-
-

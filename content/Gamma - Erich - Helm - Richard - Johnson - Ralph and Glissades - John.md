@@ -1,18 +1,17 @@
-Title: Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John 
+Title:  Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John
 
-AKA: Gamma, Erich; Helm, Richard; Johnson, Ralph, Glissades and John 
+Tags:   authors
 
-Tags: authors 
+AKA:    Gamma, Erich, Helm, Richard, Johnson, Ralph, Glissades and John
 
-Seq: 10.31 
+Seq:    16.34
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Gamma_Erich_Helm_Richard_Johnson_Ralph_Glissades_And_John  
+Link:   https://en.wikipedia.org/wiki/Gamma_Erich_Helm_Richard_Johnson_Ralph_Glissades_And_John
 
-Index: Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John; 

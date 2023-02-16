@@ -1,33 +1,25 @@
-Title: A Guide to the CMM: Understanding the Capability Maturity Model for Software 
+Title:  A Guide to the CMM: Understanding the Capability Maturity Model for Software
 
+Tags:   works
 
-AKA: dymond-1995 
+AKA:    dymond-1995
 
-Tags: works 
+Seq:    16.28.1
 
-Seq:  10.25.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Dymond, Ken
 
 Work Type: Book
 
-Publisher: 
-
 Pub Date: 1995
-
-Work Rights:  
-
-Work Rights Holder: 
 
 Work ID: 964600803
 
-Link: https://amzn.to/2a6tDdu 
+Link:   https://amzn.to/2a6tDdu
 
-Index: Dymond, Ken;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Dymond, Ken; 

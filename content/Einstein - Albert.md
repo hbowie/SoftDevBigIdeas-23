@@ -1,18 +1,17 @@
-Title: Einstein, Albert 
+Title:  Einstein, Albert
 
-AKA: Albert Einstein 
+Tags:   authors
 
-Tags: authors 
+AKA:    Albert Einstein
 
-Seq: 10.26 
+Seq:    16.29
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Albert_Einstein  
+Link:   https://en.wikipedia.org/wiki/Albert_Einstein
 
-Index: Einstein, Albert 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Einstein, Albert; 

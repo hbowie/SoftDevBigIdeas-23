@@ -1,35 +1,25 @@
-Title: The "Toyota Way" Is Translated for a New Generation of Foreign Managers 
+Title:  The "Toyota Way" Is Translated for a New Generation of Foreign Managers
+
+Tags:   works
 
 Work Major Title: The New York Times
 
+AKA:    nytimes-2007
 
-AKA: nytimes-2007 
+Seq:    16.32.1
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.29.1 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Fackler, Martin
 
 Work Type: unknown
 
-Publisher: 
-
 Pub Date: 39128
 
-Work Rights:  
+Link:   https://www.nytimes.com/2007/02/15/business/worldbusiness/15toyota.html
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://www.nytimes.com/2007/02/15/business/worldbusiness/15toyota.html 
-
-Index: Fackler, Martin;  
-
-Body:  
-
+Index:  Fackler, Martin; 

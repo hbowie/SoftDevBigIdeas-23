@@ -2,7 +2,7 @@ Title:  Kay, Alan
 
 AKA:    Alan Kay
 
-Seq:    10.47
+Seq:    16.50
 
 Level:  3 - Article
 

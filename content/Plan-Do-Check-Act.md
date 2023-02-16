@@ -1,6 +1,12 @@
 Title:  Plan-Do-Check-Act
 
-Level:  1 - Book
+Seq:    2.15
+
+Idea Number: 16
+
+Level:  3 - Article
+
+Class:  article
 
 Timestamp: 20160613181854
 
@@ -10,7 +16,7 @@ Body:
 
 How do we learn what works?
 
-One way is to [use things already proven to work][reuse].
+One way is to [[Use Things Already Known to Work]].
 
 But most significant development efforts will also involve some innovation. And when we try new things, they may not always work as well as we first thought they might.
 
@@ -99,15 +105,15 @@ Note that this step requires the project leaders to admit that they don't alread
 
 As part of the plan step, it is important to formulate a testable hypothesis that can be proven or disproven.
 
-Note that the plan-do-check-act cycle can be used to evaluate [alternatives][].
+Note that the plan-do-check-act cycle can be used to [[Consider Alternatives]].
 
 ## Do
 
 You must test in such a way that you can clearly see how well your plan is working.
 
-As <a href="http://en.wikipedia.org/wiki/Wernher_Von_Braun" class="reflink" target="ref">Wernher Von Braun</a>, famed rocket scientist, once said:
+As [[Wernher von Braun]], famed rocket scientist, once said:
 
-> One test result is worth one thousand expert opinions.
+{:include-quote-body:One Test Result}
 
 ## Check
 

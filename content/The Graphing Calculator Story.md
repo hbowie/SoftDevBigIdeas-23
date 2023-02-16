@@ -1,33 +1,27 @@
-Title: The Graphing Calculator Story 
+Title:  The Graphing Calculator Story
 
+Tags:   works
 
-AKA: avitzur-2004 
+AKA:    avitzur-2004
 
-Tags: works 
+Seq:    16.7.1
 
-Seq:  10.7.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Avitzur, Ron
 
 Work Type: Web Page
 
+Work Rights: Copyright
+
 Publisher: Pacific Tech
 
 Pub Date: 2004
 
-Work Rights:  Copyright
+Link:   https://www.pacifict.com/Story/
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://www.pacifict.com/Story/ 
-
-Index: Avitzur, Ron;  
-
-Body:  
-
+Index:  Avitzur, Ron; 

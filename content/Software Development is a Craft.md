@@ -1,22 +1,16 @@
-Title: Software Development is a Craft
+Title:  Software Development is a Craft
 
-Index: craftsmanship
-Index: factory
-Index: design
-Index: specifications
-Index: Jobs, Steve
-Index: liberal arts
-Index: humanities
-Index: Austin, Robert D.
-Index: Devin, Lee
-Index: artful making
-Index: industrial making
-Index: Knuth, Donald
-Index: Thompson, Ken
-Index: Richie, Dennis
-Index: Lohr, Steve
-Index: Humphrey, Watts
-Index: Weinberg, Gerald
+Seq:    7.2
+
+Idea Number: 48
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160531192600
+
+Index:  craftsmanship; factory; design; specifications; Jobs, Steve; liberal arts; humanities; Austin, Robert D.; Devin, Lee; artful making; industrial making; Knuth, Donald; Thompson, Ken; Richie, Dennis; Lohr, Steve; Humphrey, Watts; Weinberg, Gerald; 
 
 Body:
 

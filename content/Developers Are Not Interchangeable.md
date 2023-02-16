@@ -1,11 +1,16 @@
-Title: Developers Are Not Interchangeable
+Title:  Developers Are Not Interchangeable
 
-Index: interchangeable
-Index: developer
-Index: Brooks, Fred
-Index: Dreyfus Model of Skill Acquisition
-Index: Spolsky, Joel
-Index: Humphrey, Watts
+Seq:    4.3
+
+Idea Number: 27
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160503173327
+
+Index:  interchangeable; developer; Brooks, Fred; Dreyfus Model of Skill Acquisition; Spolsky, Joel; Humphrey, Watts; 
 
 Body:
 

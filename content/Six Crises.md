@@ -1,33 +1,25 @@
-Title: Six Crises 
+Title:  Six Crises
 
+Tags:   works
 
-AKA: nixon-1962 
+AKA:    nixon-1962
 
-Tags: works 
+Seq:    16.30.1
 
-Seq:  10.27.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Eisenhower, Dwight D.
 
 Work Type: Book
 
-Publisher: 
-
 Pub Date: 1962
-
-Work Rights:  
-
-Work Rights Holder: 
 
 Work ID: B00AHE24LM
 
-Link: https://amzn.to/29hURiI 
+Link:   https://amzn.to/29hURiI
 
-Index: Eisenhower, Dwight D.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Eisenhower, Dwight D.; 

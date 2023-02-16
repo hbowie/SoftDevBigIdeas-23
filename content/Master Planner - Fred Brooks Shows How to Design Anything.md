@@ -1,35 +1,25 @@
-Title: Master Planner: Fred Brooks Shows How to Design Anything 
+Title:  Master Planner: Fred Brooks Shows How to Design Anything
+
+Tags:   works
 
 Work Major Title: Wired Magazine
 
+AKA:    brooks-2010
 
-AKA: brooks-2010 
+Seq:    16.17.2
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.15.2 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Brooks, Fred
 
 Work Type: Interview
 
-Publisher: 
-
 Pub Date: Jul 2010
 
-Work Rights:  
+Link:   https://www.wired.com/magazine/2010/07/ff_fred_brooks/
 
-Work Rights Holder: 
+Timestamp: 20230209224721
 
-Work ID: 
-
-Link: https://www.wired.com/magazine/2010/07/ff_fred_brooks/ 
-
-Index: Brooks, Fred;  
-
-Body:  
-
+Index:  Brooks, Fred; 

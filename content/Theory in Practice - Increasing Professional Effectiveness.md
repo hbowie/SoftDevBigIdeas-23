@@ -1,15 +1,14 @@
-Title: Theory in Practice: Increasing Professional Effectiveness 
+Title:  Theory in Practice: Increasing Professional Effectiveness
 
+Tags:   works
 
-AKA: argyris-schon-1974 
+AKA:    argyris-schon-1974
 
-Tags: works 
+Seq:    16.3.1
 
-Seq:  10.3.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Argyris, Chris and Schön, Donald
 
@@ -19,15 +18,10 @@ Publisher: Jossey-Bass
 
 Pub Date: 1974
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 1555424465
 
-Link: https://amzn.to/29lfsk2 
+Link:   https://amzn.to/29lfsk2
 
-Index: Argyris, Chris and Schön, Donald;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Argyris, Chris and Schön, Donald; 

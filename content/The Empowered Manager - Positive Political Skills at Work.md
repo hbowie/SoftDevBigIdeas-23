@@ -1,15 +1,14 @@
-Title: The Empowered Manager: Positive Political Skills at Work 
+Title:  The Empowered Manager: Positive Political Skills at Work
 
+Tags:   works
 
-AKA: block-1987 
+AKA:    block-1987
 
-Tags: works 
+Seq:    16.12.1
 
-Seq:  10.11.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Block, Peter
 
@@ -19,15 +18,10 @@ Publisher: Jossey-Bass Publishers
 
 Pub Date: 1987
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 1555420192
 
-Link: https://amzn.to/1r5BRta 
+Link:   https://amzn.to/1r5BRta
 
-Index: Block, Peter;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Block, Peter; 

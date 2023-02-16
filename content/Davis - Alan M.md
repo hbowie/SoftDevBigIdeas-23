@@ -1,18 +1,17 @@
-Title: Davis, Alan M. 
+Title:  Davis, Alan M.
 
-AKA: Alan M. Davis 
+Tags:   authors
 
-Tags: authors 
+AKA:    Alan M. Davis
 
-Seq: 10.20 
+Seq:    16.23
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Alan_Mdavis  
+Link:   https://en.wikipedia.org/wiki/Alan_Mdavis
 
-Index: Davis, Alan M. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Davis, Alan M.; 

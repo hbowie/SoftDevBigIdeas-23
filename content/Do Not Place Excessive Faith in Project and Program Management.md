@@ -1,13 +1,16 @@
-Title: Do Not Place Excessive Faith in Project and Program Management
+Title:  Do Not Place Excessive Faith in Project and Program Management
 
-Index: program management
-Index: project management
-Index: Earned Value Management
-Index: EVM
-Index: DeMarco, Tom
-Index: Lister, Timothy
-Index: Austin, Robert D.
-Index: gremlins
+Seq:    7.4
+
+Idea Number: 50
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160712164210
+
+Index:  program management; project management; Earned Value Management; EVM; DeMarco, Tom; Lister, Timothy; Austin, Robert D.; gremlins; 
 
 Body:
 
@@ -45,6 +48,3 @@ Mechanistic and organic analogies are flawed because they are too simplistic. Ka
 <a href="http://en.wikipedia.org/wiki/Robert_D._Austin" class="reflink" target="ref">Robert D. Austin</a> from the book <cite><a href="bibliography.html#austin-1996">Measuring and Managing Performance in Organizations</a></cite> Copyright &copy; 1996 by Robert D. Austin
 </p>
 </blockquote>
-
-
-

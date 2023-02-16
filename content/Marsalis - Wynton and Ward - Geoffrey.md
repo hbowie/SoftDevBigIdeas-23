@@ -2,9 +2,9 @@ Title:  Marsalis, Wynton and Ward, Geoffrey
 
 Tags:   authors
 
-AKA:    Marsalis, Wynton, Ward and Geoffrey
+AKA:    Wynton Marsalis and Geoffrey Ward
 
-Seq:    10.59
+Seq:    16.62
 
 Level:  3 - Article
 

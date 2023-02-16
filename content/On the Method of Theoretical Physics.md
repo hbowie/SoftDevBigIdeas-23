@@ -1,33 +1,21 @@
-Title: On the Method of Theoretical Physics 
+Title:  On the Method of Theoretical Physics
 
+Tags:   works
 
-AKA: einstein-1933 
+AKA:    einstein-1933
 
-Tags: works 
+Seq:    16.29.1
 
-Seq:  10.26.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Einstein, Albert
 
 Work Type: Lecture
 
-Publisher: 
-
 Pub Date: 1933
 
-Work Rights:  
+Timestamp: 20230209224009
 
-Work Rights Holder: 
-
-Work ID: 
-
-Link:  
-
-Index: Einstein, Albert;  
-
-Body:  
-
+Index:  Einstein, Albert; 

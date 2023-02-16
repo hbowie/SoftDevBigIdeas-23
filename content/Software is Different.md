@@ -1,18 +1,16 @@
-Title: Software is Different
+Title:  Software is Different
 
-Index: software
-Index: manufacturing
-Index: engineering
-Index: architecture
-Index: hardware
-Index: design
-Index: gates
-Index: malleability
-Index: rework
-Index: Humphrey, Watts
-Index: Lohr, Steve
-Index: Sayre, David
-Index: IBM
+Seq:    7.1
+
+Idea Number: 47
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160606150011
+
+Index:  software; manufacturing; engineering; architecture; hardware; design; gates; malleability; rework; Humphrey, Watts; Lohr, Steve; Sayre, David; IBM; 
 
 Body:
 

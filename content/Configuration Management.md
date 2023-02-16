@@ -1,15 +1,16 @@
-Title: Configuration Management
+Title:  Configuration Management
 
-Index: configuration management (https://en.wikipedia.org/wiki/Configuration_management)
-Index: change management
-Index: version control
-Index: CM (https://en.wikipedia.org/wiki/Configuration_management)
-Index: separation of duties (https://en.wikipedia.org/wiki/Separation_of_duties)
-Index: SoD (https://en.wikipedia.org/wiki/Separation_of_duties)
-Index: DevOps
-Index: Kim, Gene
-Index: Behr, Kevin
-Index: Spafford, George
+Seq:    6.4
+
+Idea Number: 42
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160601214652
+
+Index:  configuration management (https://en.wikipedia.org/wiki/Configuration_management); change management; version control; CM (https://en.wikipedia.org/wiki/Configuration_management); separation of duties (https://en.wikipedia.org/wiki/Separation_of_duties); SoD (https://en.wikipedia.org/wiki/Separation_of_duties); DevOps; Kim, Gene; Behr, Kevin; Spafford, George; 
 
 Body:
 
@@ -52,4 +53,3 @@ Chris seems excited. &#8220;Brent, if it&#8217;s okay with you and everyone else
 <a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
 </p>
 </blockquote>
-

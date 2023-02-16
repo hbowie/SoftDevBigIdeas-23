@@ -1,18 +1,17 @@
-Title: Daylight 
+Title:  Daylight
 
-AKA: Daylight 
+Tags:   authors
 
-Tags: authors 
+AKA:    Daylight
 
-Seq: 10.21 
+Seq:    16.24
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Daylight  
+Link:   https://en.wikipedia.org/wiki/Daylight
 
-Index: Daylight 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Daylight; 

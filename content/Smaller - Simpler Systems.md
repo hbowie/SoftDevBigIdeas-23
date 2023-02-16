@@ -1,6 +1,6 @@
 Title:  Smaller, Simpler Systems
 
-Seq:    10.19.1.1
+Seq:    16.22.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Larry Constantine and Lucy Lockwood]], *[[Software for Use: A 
 Body:
 
 Developers who return again and again to their work, simplifying it and making it more general-purpose, produce smaller, simpler systems that deliver more to users.
+

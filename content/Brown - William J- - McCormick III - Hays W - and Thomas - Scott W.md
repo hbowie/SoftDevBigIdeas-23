@@ -1,18 +1,17 @@
-Title: Brown, William J., McCormick III, Hays W. and Thomas, Scott W. 
+Title:  Brown, William J., McCormick III, Hays W. and Thomas, Scott W.
 
-AKA: Brown, William J., McCormick III, Hays W., Thomas and Scott W. 
+Tags:   authors
 
-Tags: authors 
+AKA:    William J. Brown - Hays W. McCormick III - Scott W. Thomas
 
-Seq: 10.16 
+Seq:    16.18
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Brown_William_Jmc_Cormick_Iii_Hays_Wthomas_And_Scott_W  
+Link:   https://en.wikipedia.org/wiki/Brown_William_Jmc_Cormick_Iii_Hays_Wthomas_And_Scott_W
 
-Index: Brown, William J., McCormick III, Hays W. and Thomas, Scott W. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Brown, William J., McCormick III, Hays W. and Thomas, Scott W.; 

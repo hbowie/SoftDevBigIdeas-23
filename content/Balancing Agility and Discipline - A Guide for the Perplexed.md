@@ -1,15 +1,14 @@
-Title: Balancing Agility and Discipline: A Guide for the Perplexed 
+Title:  Balancing Agility and Discipline: A Guide for the Perplexed
 
+Tags:   works
 
-AKA: boehm-turner-2003 
+AKA:    boehm-turner-2003
 
-Tags: works 
+Seq:    16.13.1
 
-Seq:  10.12.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Boehm, Barry and Turner, Richard
 
@@ -19,15 +18,10 @@ Publisher: Addison-Wesley/Pearson Education
 
 Pub Date: 2003
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 321186125
 
-Link: https://amzn.to/1XwagPL 
+Link:   https://amzn.to/1XwagPL
 
-Index: Boehm, Barry and Turner, Richard;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Boehm, Barry and Turner, Richard; 

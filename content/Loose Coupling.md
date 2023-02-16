@@ -1,6 +1,14 @@
 Title:  Loose Coupling
 
-Level:  1 - Book
+Tags:   ideas
+
+Seq:    2.10
+
+Idea Number: 11
+
+Level:  3 - Article
+
+Class:  article
 
 Timestamp: 20160613161708
 
@@ -8,7 +16,7 @@ Index:  coupling; encapsulation (https://en.wikipedia.org/wiki/Encapsulation_(co
 
 Body:
 
-When performing [decomposition][], it is best to group elements so as to minimize coupling between groups.
+When performing [[decomposition]], it is best to group elements so as to minimize coupling between groups.
 
 Coupling can be thought of as communication between groups, or knowledge of what's going on within other groups, or dependencies of one group on another.
 
@@ -20,14 +28,14 @@ Loose coupling tends to maximize the freedom of each group to handle its own wor
 
 Loose coupling frequently offers a way to make internal improvements to one object or group without necessitating concomitant changes to other objects/groups that communicate with the first, thus minimizing the "ripple effects" of changes.
 
-When decomposing the staff of developers needed on large projects, the idea of loose coupling results in the formation of relatively small, self-managed [teams][] that contain all the resources they need to work relatively independently.
+When decomposing the staff of developers needed on large projects, the idea of loose coupling results in the formation of relatively small, self-managed [[build great teams|teams]] that contain all the resources they need to work relatively independently.
 
 <a href="https://en.wikipedia.org/wiki/Robustness_principle" class="reflink" target="ref">Postel’s Law</a> can be thought of as another means of supporting loose coupling:
 
 > Be conservative in what you do; be liberal in what you accept from others.
 
-This admonition, for both software interfaces and human ones, encourages us to stick to the straight and narrow in our own behavior, but be tolerant of minor quirks in others. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/reflections-on-postels-law.html" class="reflink" target="ref">Reflections on Postel’s Law</a>.&rdquo;
+This admonition, for both software interfaces and human ones, encourages us to stick to the straight and narrow in our own behavior, but be tolerant of minor quirks in others.
+
+In other words, minimize the chances that minor changes, or small misbehaviors, from a second group will cause a failure of the first group. 
 
 
-[decomposition]: decomposition.html
-[teams]: build-great-teams.html

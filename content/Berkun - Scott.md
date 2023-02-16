@@ -1,18 +1,17 @@
-Title: Berkun, Scott 
+Title:  Berkun, Scott
 
-AKA: Scott Berkun 
+Tags:   authors
 
-Tags: authors 
+AKA:    Scott Berkun
 
-Seq: 10.10 
+Seq:    16.10
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Scott_Berkun  
+Link:   https://en.wikipedia.org/wiki/Scott_Berkun
 
-Index: Berkun, Scott 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Berkun, Scott; 

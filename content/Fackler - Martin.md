@@ -1,18 +1,17 @@
-Title: Fackler, Martin 
+Title:  Fackler, Martin
 
-AKA: Martin Fackler 
+Tags:   authors
 
-Tags: authors 
+AKA:    Martin Fackler
 
-Seq: 10.29 
+Seq:    16.32
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Martin_Fackler  
+Link:   https://en.wikipedia.org/wiki/Martin_Fackler
 
-Index: Fackler, Martin 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Fackler, Martin; 

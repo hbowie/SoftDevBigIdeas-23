@@ -1,7 +1,16 @@
-Title: Pick the Right Sort of Customer Proxy
+Title:  Pick the Right Sort of Customer Proxy
 
-Index: customer proxy
-Index: product owner
+Seq:    5.2
+
+Idea Number: 29
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160808154019
+
+Index:  customer proxy; product owner; 
 
 Body:
 

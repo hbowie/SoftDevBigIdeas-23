@@ -1,6 +1,6 @@
 Title:  Think like a Communicator
 
-Seq:    10.37.1.1
+Seq:    16.40.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Paul Heckel]], *[[The Elements of Friendly Software Design]]*,
 Body:
 
 In short, the software designer must learn to think like a communicator and to practice an artistic craft as well as an engineering one.
+

@@ -1,11 +1,16 @@
-Title: Developers are Always Growing
+Title:  Developers are Always Growing
 
-Index: growth
-Index: Dreyfus Model of Skill Acquisition
-Index: technical skills
-Index: mastery
-Index: teams
-Index: developer
+Seq:    4.2
+
+Idea Number: 26
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160531203216
+
+Index:  growth; Dreyfus Model of Skill Acquisition; technical skills; mastery; teams; developer; 
 
 Body:
 

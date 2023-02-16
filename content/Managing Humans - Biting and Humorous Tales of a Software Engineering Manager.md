@@ -2,9 +2,9 @@ Title:  Managing Humans: Biting and Humorous Tales of a Software Engineering Man
 
 Tags:   works
 
-AKA:    lopp-2007
+AKA:    lopp-2007, Managing Humans
 
-Seq:    10.58.1
+Seq:    16.61.1
 
 Level:  4 - Subsection
 

@@ -1,33 +1,23 @@
-Title: Agile Adoption Patterns: A Roadmap to Organizational Success 
+Title:  Agile Adoption Patterns: A Roadmap to Organizational Success
 
+Tags:   works
 
-AKA: elssamadisy-2008 
+AKA:    elssamadisy-2008
 
-Tags: works 
+Seq:    16.31.1
 
-Seq:  10.28.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Elssamadisy, Amr
-
-Work Type: 
 
 Publisher: Addison-Wesley Professional
 
 Pub Date: 2008
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 321514521
 
-Link:  
+Timestamp: 20230209224009
 
-Index: Elssamadisy, Amr;  
-
-Body:  
-
+Index:  Elssamadisy, Amr; 

@@ -1,33 +1,23 @@
-Title: What is Design Thinking? 
+Title:  What is Design Thinking?
 
+Tags:   works
 
-AKA: daylight-2014 
+AKA:    daylight-2014
 
-Tags: works 
+Seq:    16.24.1
 
-Seq:  10.21.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Daylight
 
 Work Type: Video
 
-Publisher: 
-
 Pub Date: 2014
 
-Work Rights:  
+Link:   https://vimeo.com/90355541
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://vimeo.com/90355541 
-
-Index: Daylight;  
-
-Body:  
-
+Index:  Daylight; 

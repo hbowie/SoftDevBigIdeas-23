@@ -1,7 +1,16 @@
-Title: Agree on Terms of Engagement
+Title:  Agree on Terms of Engagement
 
-Index: terms of engagement
-Index: customer
+Seq:    5.1
+
+Idea Number: 28
+
+Level:  3 - Article
+
+Class:  section
+
+Timestamp: 20160615175844
+
+Index:  terms of engagement; customer; 
 
 Body:
 

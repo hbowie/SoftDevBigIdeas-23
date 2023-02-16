@@ -1,33 +1,29 @@
-Title: AntiPatterns and Patterns in Software Configuration Management 
+Title:  AntiPatterns and Patterns in Software Configuration Management
 
+Tags:   works
 
-AKA: brown-et-al-1999 
+AKA:    brown-et-al-1999
 
-Tags: works 
+Seq:    16.18.1
 
-Seq:  10.16.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Brown, William J., McCormick III, Hays W. and Thomas, Scott W.
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 1999
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: William J. Brown, Hays W. Skip McCormick III, Scott W. Thomas
 
+Pub Date: 1999
+
 Work ID: 471329290
 
-Link: https://amzn.to/29zi3ZS 
+Link:   https://amzn.to/29zi3ZS
 
-Index: Brown, William J., McCormick III, Hays W. and Thomas, Scott W.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Brown, William J., McCormick III, Hays W. and Thomas, Scott W.; 

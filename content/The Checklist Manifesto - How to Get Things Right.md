@@ -1,33 +1,23 @@
-Title: The Checklist Manifesto: How to Get Things Right 
+Title:  The Checklist Manifesto: How to Get Things Right
 
+Tags:   works
 
-AKA: gawande-2011 
+AKA:    gawande-2011
 
-Tags: works 
+Seq:    16.35.1
 
-Seq:  10.32.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Gawande, Atul
-
-Work Type: 
 
 Publisher: Picador
 
 Pub Date: 2011
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 312430000
 
-Link:  
+Timestamp: 20230209224009
 
-Index: Gawande, Atul;  
-
-Body:  
-
+Index:  Gawande, Atul; 

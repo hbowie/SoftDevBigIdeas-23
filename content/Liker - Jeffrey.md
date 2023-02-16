@@ -4,13 +4,13 @@ Tags:   authors
 
 AKA:    Jeffrey Liker
 
-Seq:    10.56
+Seq:    16.59
 
 Level:  3 - Article
 
 Class:  author
 
-Link:   https://en.wikipedia.org/wiki/Jeffrey_Liker
+Link:   https://liker.engin.umich.edu
 
 Timestamp: 20230209212848
 

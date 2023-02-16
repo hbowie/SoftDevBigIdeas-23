@@ -1,15 +1,18 @@
-Title: Have Wonderful Arguments
+Title:  Have Wonderful Arguments
 
-Index: arguments
-Index: Conversational Capacity (http://www.weberconsultinggroup.net/conversational-capacity/)
-Index: debate
-Index: Jobs, Steve
-Index: Mossberg, Walt
-Index: Nirvana antipattern
-Index: Watson, Thomas J. Jr.
-Index: Weber, Craig
-Index: micromanagement
-Index: IBM
+Tags:   ideas
+
+Seq:    2.13
+
+Idea Number: 14
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160811191534
+
+Index:  arguments; Conversational Capacity (http://www.weberconsultinggroup.net/conversational-capacity/); debate; Jobs, Steve; Mossberg, Walt; Nirvana antipattern; Watson, Thomas J. Jr.; Weber, Craig; micromanagement; IBM; 
 
 Body:
 
@@ -17,27 +20,13 @@ I'm not suggesting that your development team or your leadership team should arg
 
 On the other hand, if you're not having spirited debates about at least some topics, then you're probably not working as effectively as you could be. One set of authors described this as the "Nirvana AntiPattern":
 
-<blockquote>
-<p>
-The typical, and primary, root cause of [the Nirvana] AntiPattern is the misguided notion that conflict is bad, and therefore should be avoided at all costs. In reality, conflict in the form of tension ... is a necessary part of any difficult task that involves intelligent people who care about their work.</p>
-
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/William_J._Brown" class="reflink" target="ref">William J. Brown</a>, <a href="http://en.wikipedia.org/wiki/Hays_W._McCormick_III" class="reflink" target="ref">Hays W. McCormick III</a> and <a href="http://en.wikipedia.org/wiki/Scott_W._Thomas" class="reflink" target="ref">Scott W. Thomas</a> from the book <cite><a href="bibliography.html#brown-et-al-1999">AntiPatterns and Patterns in Software Configuration Management</a></cite> Copyright &copy; 1999 by William J. Brown, Hays W. Skip McCormick III, Scott W. Thomas
-</p>
-</blockquote>
+{:include-quote:The Nirvana Antipattern}
 
 Just because such dialogue is effective doesn't mean it will be easy, though. Here's the way a past president of IBM described the individuals he favored for such discussions:
 
-<blockquote>
-<p>
-I never hesitated to promote someone I didn&#8217;t like. The comfortable assistant, the nice guy you like to go on fishing trips with, is a great pitfall. Instead I looked for those sharp, scratchy, harsh, almost unpleasant guys who see and tell you about things as they really are. If you can get enough of them around you and have patience enough to hear them out, there is no limit to where you can go.</p>
+{:include-quote:Smart, Scratchy Guys}
 
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Thomas_J._Watson%2C_Jr" class="reflink" target="ref">Thomas J. Watson, Jr</a>
-</p>
-</blockquote>
-
-Author and consultant <a href="http://www.weberconsultinggroup.net/craig-weber/" class="reflink" target="ref">Craig Weber</a> makes the point that successful teams need to build what he calls <cite><a href="bibliography.html#weber-2013">Conversational Capacity</a></cite>, and that one way to do so is to incorporate a four-step process into their important discussions. From the perspective of one participant, often a leader, it goes like this:
+Author and consultant [Craig Weber](https://www.weberconsultinggroup.net/craig-weber/) makes the point that successful teams need to build what he calls <cite>[[Conversational Capacity: The Secret to Building Successful Teams That Perform When the Pressure Is On|Conversational Capacity]]</cite>, and that one way to do so is to incorporate a four-step process into their important discussions. From the perspective of one participant, often a leader, it goes like this:
 
 <blockquote>
 <ol>
@@ -66,35 +55,6 @@ I believe it is far better to have leaders and others passionately engaged in di
 
 ----
 
-<blockquote>
-<p>
-Jobs: What I do all day is meet with teams of people and work on ideas and solve problems to make new products, to make new marketing programs, whatever it is. </p>
+##### Words from Others on this Topic
 
-<p>
-Mossberg: And are people willing to tell you you&#8217;re wrong? </p>
-
-<p>
-Jobs: (laughs) Yeah. </p>
-
-<p>
-Mossberg: I mean, other than snarky journalists, I mean people that work for… </p>
-
-<p>
-Jobs: Oh, yeah, no we have wonderful arguments. </p>
-
-<p>
-Mossberg: And do you win them all? </p>
-
-<p>
-Jobs: Oh no I wish I did. No, you see you can&#8217;t. If you want to hire great people and have them stay working for you, you have to let them make a lot of decisions and you have to, you have to be run by ideas, not hierarchy. The best ideas have to win, otherwise good people don&#8217;t stay. </p>
-
-<p>
-Mossberg: But you must be more than a facilitator who runs meetings. You obviously contribute your own ideas. </p>
-
-<p>
-Jobs: I contribute ideas, sure. Why would I be there if I didn&#8217;t? </p>
-
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Steve_Jobs" class="reflink" target="ref">Steve Jobs</a> from <cite><a href="bibliography.html#jobs-2010">D8 Conference</a></cite>, &#8220;Conversation with Walt Mossberg&#8221; (06/07/2010)
-</p>
-</blockquote>
+{:include-quote:We have wonderful arguments}

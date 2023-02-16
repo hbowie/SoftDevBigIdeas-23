@@ -1,18 +1,17 @@
-Title: Heckel, Paul 
+Title:  Heckel, Paul
 
-AKA: Paul Heckel 
+Tags:   authors
 
-Tags: authors 
+AKA:    Paul Heckel
 
-Seq: 10.37 
+Seq:    16.40
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Paul_Heckel  
+Link:   https://en.wikipedia.org/wiki/Paul_Heckel
 
-Index: Heckel, Paul 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Heckel, Paul; 

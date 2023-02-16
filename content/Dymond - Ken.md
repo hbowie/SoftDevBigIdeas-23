@@ -1,18 +1,17 @@
-Title: Dymond, Ken 
+Title:  Dymond, Ken
 
-AKA: Ken Dymond 
+Tags:   authors
 
-Tags: authors 
+AKA:    Ken Dymond
 
-Seq: 10.25 
+Seq:    16.28
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Ken_Dymond  
+Link:   https://en.wikipedia.org/wiki/Ken_Dymond
 
-Index: Dymond, Ken 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Dymond, Ken; 

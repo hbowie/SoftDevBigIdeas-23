@@ -1,10 +1,16 @@
-Title: Remain Open to Fresh Learning
+Title:  Remain Open to Fresh Learning
 
-Index: learning
-Index: Agile Manifesto
-Index: Poppendieck, Mary and Tom
-Index: waterfall development
-Index: Bezos, Jeff
+Seq:    6.7
+
+Idea Number: 45
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160505162157
+
+Index:  learning; Agile Manifesto; Poppendieck, Mary and Tom; waterfall development; Bezos, Jeff; 
 
 Body:
 
@@ -47,4 +53,3 @@ What trait signified someone who was <em>wrong</em> a lot of the time? Someone o
 [pop]: http://www.poppendieck.com/people.htm
 
 [beck-et-al-2001]: bibliography.html#beck-et-al-2001
-

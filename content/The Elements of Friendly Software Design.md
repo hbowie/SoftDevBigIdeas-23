@@ -1,33 +1,29 @@
-Title: The Elements of Friendly Software Design 
+Title:  The Elements of Friendly Software Design
 
+Tags:   works
 
-AKA: heckel-1994 
+AKA:    heckel-1994
 
-Tags: works 
+Seq:    16.40.1
 
-Seq:  10.37.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Heckel, Paul
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 1994
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: Paul Heckel
 
+Pub Date: 1994
+
 Work ID: 446380407
 
-Link: https://amzn.to/29GKUMd 
+Link:   https://amzn.to/29GKUMd
 
-Index: Heckel, Paul;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Heckel, Paul; 

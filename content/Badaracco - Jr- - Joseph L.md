@@ -1,18 +1,17 @@
-Title: Badaracco, Jr., Joseph L. 
+Title:  Badaracco, Jr., Joseph L.
 
-AKA: Badaracco, Jr. and Joseph L. 
+Tags:   authors
 
-Tags: authors 
+AKA:    Badaracco, Jr. and Joseph L.
 
-Seq: 10.8 
+Seq:    16.8
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Badaracco_Jr_And_Joseph_L  
+Link:   https://en.wikipedia.org/wiki/Badaracco_Jr_And_Joseph_L
 
-Index: Badaracco, Jr., Joseph L. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Badaracco, Jr., Joseph L.; 

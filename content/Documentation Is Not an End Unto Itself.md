@@ -1,14 +1,16 @@
-Title: Documentation Is Not an End Unto Itself
+Title:  Documentation Is Not an End Unto Itself
 
-Index: documentation
-Index: Victorian Novel
-Index: wikis
-Index: Javadoc
-Index: approvals
-Index: change management
-Index: version control
-Index: zombies
-Index: DeMarco, Tom
+Seq:    7.3
+
+Idea Number: 49
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160603144307
+
+Index:  documentation; Victorian Novel; wikis; Javadoc; approvals; change management; version control; zombies; DeMarco, Tom; 
 
 Body:
 

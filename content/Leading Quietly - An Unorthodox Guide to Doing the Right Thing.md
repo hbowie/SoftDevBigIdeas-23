@@ -1,33 +1,29 @@
-Title: Leading Quietly: An Unorthodox Guide to Doing the Right Thing 
+Title:  Leading Quietly: An Unorthodox Guide to Doing the Right Thing
 
+Tags:   works
 
-AKA: badaracco-2002 
+AKA:    badaracco-2002
 
-Tags: works 
+Seq:    16.8.1
 
-Seq:  10.8.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Badaracco, Jr., Joseph L.
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 2002
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: Joseph L. Badaracco, Jr
 
+Pub Date: 2002
+
 Work ID: 1578514878
 
-Link: https://amzn.to/29yaIg6 
+Link:   https://amzn.to/29yaIg6
 
-Index: Badaracco, Jr., Joseph L.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Badaracco, Jr., Joseph L.; 

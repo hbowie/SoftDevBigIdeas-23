@@ -1,33 +1,31 @@
-Title: Measuring and Managing Performance in Organizations 
+Title:  Measuring and Managing Performance in Organizations
 
+Tags:   works
 
-AKA: austin-1996 
+AKA:    austin-1996
 
-Tags: works 
+Seq:    16.5.1
 
-Seq:  10.5.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Austin, Robert D.
 
 Work Type: Book
 
+Work Rights: Copyright
+
+Work Rights Holder: Robert D. Austin
+
 Publisher: Dorset House Publishing Company
 
 Pub Date: 1996
 
-Work Rights:  Copyright
-
-Work Rights Holder: Robert D. Austin
-
 Work ID: 932633366
 
-Link: https://amzn.to/1Xw9sKN 
+Link:   https://amzn.to/1Xw9sKN
 
-Index: Austin, Robert D.;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Austin, Robert D.; 

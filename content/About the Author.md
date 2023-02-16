@@ -1,8 +1,10 @@
 Title:  About the Author
 
-Level:  1 - Book
+Seq:    13.1
 
-Work Type: Book
+Level:  3 - Article
+
+Class:  article
 
 Timestamp: 20160815192618
 

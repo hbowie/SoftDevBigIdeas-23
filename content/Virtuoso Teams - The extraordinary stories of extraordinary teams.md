@@ -1,33 +1,29 @@
-Title: Virtuoso Teams: The extraordinary stories of extraordinary teams 
+Title:  Virtuoso Teams: The extraordinary stories of extraordinary teams
 
+Tags:   works
 
-AKA: boynton-fischer-2009 
+AKA:    boynton-fischer-2009
 
-Tags: works 
+Seq:    16.15.1
 
-Seq:  10.14.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Boynton, Andy and Fischer, Bill
 
 Work Type: Book
 
+Work Rights: Copyright
+
 Publisher: FT Press
 
 Pub Date: 2009
 
-Work Rights:  Copyright
-
-Work Rights Holder: 
-
 Work ID: 273721836
 
-Link: https://amzn.to/2av1nG8 
+Link:   https://amzn.to/2av1nG8
 
-Index: Boynton, Andy and Fischer, Bill;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Boynton, Andy and Fischer, Bill; 

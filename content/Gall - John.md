@@ -1,18 +1,17 @@
-Title: Gall, John 
+Title:  Gall, John
 
-AKA: John Gall 
+Tags:   authors
 
-Tags: authors 
+AKA:    John Gall
 
-Seq: 10.30 
+Seq:    16.33
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/John_Gall  
+Link:   https://en.wikipedia.org/wiki/John_Gall
 
-Index: Gall, John 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Gall, John; 

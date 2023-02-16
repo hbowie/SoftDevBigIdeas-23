@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Configuration Management</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="css/styles.css" type="text/css" />
+</head>
+<body>
+<h1 id="configuration-management">Configuration Management</h1>
+<p>As with many safety and quality practices, <a href="https://en.wikipedia.org/wiki/Configuration_management" class="reflink" target="ref">configuration management</a> is often most visible by its absence. </p>
+
+<p>As in&#8230; </p>
+
+<blockquote>
+
+<p>What do you mean, you can&#8217;t find the source code? </p>
+</blockquote>
+
+<p>Or&#8230; </p>
+
+<blockquote>
+
+<p>You know that nasty bug we discovered last week? </p>
+
+<p>Well, that&#8217;s been fixed now. </p>
+
+<p>Unfortunately, we&#8217;ve also somehow lost the last three enhancements we made. </p>
+</blockquote>
+
+<p>While the following list of suggested CM practices is not exhaustive, it&#8217;s a good place to start. </p>
+
+<ol>
+<li><p>Make sure you have multiple backups of your source code &#8211; in development as well as in production. </p></li>
+<li><p>Use a version control system that automatically maintains prior versions of all of your programs and modules. </p></li>
+<li><p>For each release of your application, maintain a complete list of all the application&#8217;s components, with the version level of each. </p></li>
+<li><p>Always create executables to be released via an automated build process using configuration-controlled source code. </p></li>
+<li><p>Maintain records that always allow you to trace back from any given change in the source code to the original request that provided the rationale for the change. </p></li>
+<li><p>Always maintain some <a href="https://en.wikipedia.org/wiki/Separation_of_duties" class="reflink" target="ref">separation of duties</a> (SoD) between the developers and the folks responsible for implementing a release to production. </p></li>
+</ol>
+
+<hr />
+
+<blockquote>
+<p>
+Chris seems excited. &#8220;Brent, if it&#8217;s okay with you and everyone else, I&#8217;d like to invite you to our team sprints, so that we can get environment creation integrated into the development process as early as possible. Right now, we focus mostly on having deployable code at the end of the project. I propose we change that requirement. At each three-week sprint interval, we not only need to have deployable code but also the exact environment that the code deploys into, and have that checked into version control, too.&#8221;</p>
+
+<p class="bq-footer">
+<a href="http://en.wikipedia.org/wiki/Gene_Kim">Gene Kim</a>, <a href="http://en.wikipedia.org/wiki/Kevin_Behr">Kevin Behr</a> and <a href="http://en.wikipedia.org/wiki/George_Spafford">George Spafford</a> from the book <cite><a href="bibliography.html#kim-et-al-2013">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite> (2013)
+</p>
+
+<p></blockquote> </p>
+
+<hr />
+<p>Next: <a href="consider-what-might-go-wrong.html">Consider What Might Go Wrong</a></p></body>
+</html>

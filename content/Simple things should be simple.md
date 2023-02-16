@@ -1,6 +1,6 @@
 Title:  Simple things should be simple
 
-Seq:    10.43.1.2
+Seq:    16.46.1.2
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Alan Kay]], as quoted in *[[The Simplicity Shift: Innovative D
 Body:
 
 Simple things should be simple and complex things should be possible.
+

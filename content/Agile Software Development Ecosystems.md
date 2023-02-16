@@ -1,33 +1,29 @@
-Title: Agile Software Development Ecosystems 
+Title:  Agile Software Development Ecosystems
 
+Tags:   works
 
-AKA: highsmith-2002 
+AKA:    highsmith-2002
 
-Tags: works 
+Seq:    16.41.2
 
-Seq:  10.38.2 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Highsmith, Jim
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 2002
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: Pearson Education, Inc.
 
+Pub Date: 2002
+
 Work ID: 201760436
 
-Link: https://amzn.to/29zt0rb 
+Link:   https://amzn.to/29zt0rb
 
-Index: Highsmith, Jim;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Highsmith, Jim; 

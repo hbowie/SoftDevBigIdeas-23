@@ -1,18 +1,17 @@
-Title: Highsmith, Jim 
+Title:  Highsmith, Jim
 
-AKA: Jim Highsmith 
+Tags:   authors
 
-Tags: authors 
+AKA:    Jim Highsmith
 
-Seq: 10.38 
+Seq:    16.41
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Jim_Highsmith  
+Link:   https://en.wikipedia.org/wiki/Jim_Highsmith
 
-Index: Highsmith, Jim 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Highsmith, Jim; 

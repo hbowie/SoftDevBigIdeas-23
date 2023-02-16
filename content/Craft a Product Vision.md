@@ -1,20 +1,16 @@
-Title: Craft a Product Vision
+Title:  Craft a Product Vision
 
-Index: Adams, Ansel
-Index: Brooks, Fred
-Index: Burgess, Mark
-Index: Chesterton, G. K.
-Index: Chief Engineer's Concept Paper
-Index: Cockburn, Alistair
-Index: Jobs, Steve
-Index: Lewis, Bob
-Index: cohesion
-Index: concept
-Index: conceptual integrity
-Index: feature bloat
-Index: product vision (https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
-Index: scope creep (https://en.wikipedia.org/wiki/Scope_creep)
-Index: vision (https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
+Seq:    5.3
+
+Idea Number: 30
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160505164846
+
+Index:  Adams, Ansel; Brooks, Fred; Burgess, Mark; Chesterton, G. K.; Chief Engineer's Concept Paper; Cockburn, Alistair; Jobs, Steve; Lewis, Bob; cohesion; concept; conceptual integrity; feature bloat; product vision (https://www.scrumalliance.org/community/articles/2009/january/the-product-vision); scope creep (https://en.wikipedia.org/wiki/Scope_creep); vision (https://www.scrumalliance.org/community/articles/2009/january/the-product-vision); 
 
 Body:
 
@@ -125,4 +121,3 @@ The whole difference between construction and creation is exactly this: that a t
 
 
 [cohesion]: cohesion.html
-

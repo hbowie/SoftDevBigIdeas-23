@@ -1,35 +1,27 @@
-Title: Principles of Agile Software Development 
+Title:  Principles of Agile Software Development
+
+Tags:   works
 
 Work Major Title: Manifesto for Agile Software Development
 
+AKA:    beck-et-al-2001-p
 
-AKA: beck-et-al-2001-p 
+Seq:    16.9.2
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.9.2 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Beck, Kent et al.
 
 Work Type: Web Page
 
-Publisher: 
+Work Rights: Copyright
 
 Pub Date: 2001
 
-Work Rights:  Copyright
+Link:   https://agilemanifesto.org/principles.html
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://www.agilemanifesto.org/principles.html 
-
-Index: Beck, Kent et al.;  
-
-Body:  
-
+Index:  Beck, Kent et al.; 

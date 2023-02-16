@@ -1,6 +1,14 @@
 Title:  Understand the Arc of Your Project
 
-Level:  1 - Book
+Tags:   ideas
+
+Seq:    2.17
+
+Idea Number: 18
+
+Level:  3 - Article
+
+Class:  article
 
 Timestamp: 20160802174201
 
@@ -26,20 +34,13 @@ In my experience, both of these approaches tend to have problems. The SDLC appro
 
 Watts Humphrey noted this first problem in trying to establish a firm conclusion to the requirements phase:
 
-<blockquote>
-<p>
-A common misperception is that we must start with firm requirements. There is a widespread but fallacious view that requirements are the customers&#8217; job and that development should not start until they are explicitly defined. The fact is that the demand for firm and unchanging requirements is mostly wishful thinking....</p>
-
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Watts_Humphrey" class="reflink" target="ref">Watts Humphrey</a> from the book <cite><a href="bibliography.html#humphrey-1989">Managing the Software Process</a></cite> Copyright &copy; 1998 by Addison-Wesley Publishing Company, Inc.
-</p>
-</blockquote>
+{:include-quote:Starting with firm requirements}
 
 The Agile approach, on the other hand, often suffers because it assumes too blithely that all problems can be worked out during development iterations, with little up-front analysis and design work. As a result, I've heard frustrated executives declare that Agile is "just a way of producing crap faster."
 
 Unfortunately, many software development shops tend to cycle back and forth between these two approaches, favoring one or the other based on whichever one most recently yielded disappointing results. And a series of project failures based on both approaches often leaves in its wake two teams of firmly entrenched methodology advocates, endlessly battling over which of their approaches represents the truth and the light.
 
-Models that try to get the best of both worlds are now commonly referred to as "scaled agile." Two such examples are Dean Leffingwell's <a href="http://www.scaledagileframework.com/" class="reflink" target="ref">Scaled Agile Framework</a> (SAFe) and Scott Ambler's <a href="http://www.disciplinedagiledelivery.com/" class="reflink" target="ref">Disciplined Agile Delivery</a> (DAD) model. All of these scaled agile approaches have something to offer, and can help an organization move beyond the endless Agile vs. Traditional debates. For more on this topic, see the Pagan Tuna post, &ldquo;<a href="http://www.pagantuna.com/posts/benefits-of-the-scaled-agile-framework.html" class="reflink" target="ref">Benefits of the Scaled Agile Framework</a>.&rdquo;
+Models that try to get the best of both worlds are now commonly referred to as "scaled agile." Two such examples are Dean Leffingwell's <a href="http://www.scaledagileframework.com/" class="reflink" target="ref">Scaled Agile Framework</a> (SAFe) and Scott Ambler's [Disciplined Agile Delivery](https://en.wikipedia.org/wiki/Disciplined_agile_delivery) (DAD) model. All of these scaled agile approaches have something to offer, and can help an organization move beyond the endless Agile vs. Traditional debates. For more on this topic, see the appendix "[[Benefits of the Scaled Agile Framework]]."
 
 However something important often gets lost in all of these attempts to reduce the reality of software development into the artificial confines of one model or another: the overall arc of your project.
 
@@ -53,7 +54,7 @@ We can think of each chapter of a novel as comparable to an iteration in an agil
 
 However, even though most of us wouldn't consciously mark the progress of a novel from one phase into another, we all have an instinctive understanding that a book is not an unending series of chapters, that as the story unfolds, we are proceeding along a narrative arc that should eventually bring us to a satisfying conclusion. And if that arc is interrupted, or perverted -- as it was very intentionally in Hitchcock's movie *Psycho*, for example -- then we feel that something is wrong, we may even be shocked, without the need to resort to a particular model of narrative fiction in order to reach that conclusion.
 
-Now even though we don't consciously think about these narrative stages as we're reading a novel -- and even though authors don't always consciously consider them as they're writing one -- we can construct various models of how a story typically proceeds. There are, for example, the twelve stages of a <a href="http://www.thewritersjourney.com/hero's_journey.htm" class="reflink" target="ref">hero's journey</a>, as identified by Joseph Campbell. Or we could look at the <a href="http://www.storyboardthat.com/articles/e/five-act-structure" class="reflink" target="ref">five act structure</a> used explicitly in many plays. For our purposes today, though, let's just consider the simplest of these, the <a href="https://en.wikipedia.org/wiki/Three-act_structure" class="reflink" target="ref">three act structure</a>.
+Now even though we don't consciously think about these narrative stages as we're reading a novel -- and even though authors don't always consciously consider them as they're writing one -- we can construct various models of how a story typically proceeds. There are, for example, the twelve stages of a <a href="https://en.wikipedia.org/wiki/Hero%27s_journey" class="reflink" target="ref">hero's journey</a>, as identified by Joseph Campbell. Or we could look at the <a href="http://www.storyboardthat.com/articles/e/five-act-structure" class="reflink" target="ref">five act structure</a> used explicitly in many plays. For our purposes today, though, let's just consider the simplest of these, the <a href="https://en.wikipedia.org/wiki/Three-act_structure" class="reflink" target="ref">three act structure</a>.
 
 * Act I -- Used for exposition, to establish the main characters, their relationships, the worlds they live in and, finally, the problem to be solved.
 
@@ -87,18 +88,11 @@ Some projects get stuck in perpetual Discovery mode, wandering around for months
 
 Some projects skip the Drive to Decisions phase, sweeping all the difficult decisions under the rug in the vain hope that they will somehow sort themselves out later. As Joel Spolsky has noted:
 
-<blockquote>
-<p>
-In too many programming organizations, every time there&#8217;s a design debate, nobody ever manages to make a <em>decision</em>, usually for political reasons. So the programmers only work on uncontroversial stuff. As time goes on, all the hard decisions are pushed to the end. <em>These projects are the most likely to fail.</em></p>
-
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Joel_Spolsky" class="reflink" target="ref">Joel Spolsky</a> from the book <cite><a href="bibliography.html#spolsky-2004">Joel on Software</a></cite> Copyright &copy; 2004 by Joel Spolsky
-</p>
-</blockquote>
+{:include-quote:Pushing hard design decisions to the end}
 
 And then there are the projects that try to go straight to the Deliver act in a misguided effort to complete faster.
 
-Once you begin to develop a sense of what these three acts look like, and how they work, then it becomes easier to detect and correct project narratives that are deviating from what is likely to be a successful arc. (Although it should perhaps be noted that it may be easier for an [English major][hb] to apply this wisdom than it is for someone trained in traditional project management disciplines.)
+Once you begin to develop a sense of what these three acts look like, and how they work, then it becomes easier to detect and correct project narratives that are deviating from what is likely to be a successful arc. (Although it should perhaps be noted that it may be easier for an [[About the Author|English major]] to apply this wisdom than it is for someone trained in traditional project management disciplines.)
 
 One document that can help a project navigate through these three acts successfully is a list of questions or open issues. I'm not talking about issues in a project management sense, since these are typically viewed as things that are threatening the normal progression of the project. I'm just talking about the normal list of questions that typically arise during any development project. This is typically a document that would be used by a development team or an analyst or an architect or a team lead, not by a project manager, and would not be managed with any degree of formality or management oversight.
 
@@ -118,12 +112,7 @@ If we step back and look at the overall arc of the project, though, proceeding t
 
 ----
 
-<blockquote>
-<p>As Bill Janeway said to me, it seems that Jeff [Bezos] &#8220;wanted rich discussion up front leading to Decision Time and then highly structured communication during Execution Time.&#8221;</p>
+##### Words from Others on this Topic
 
-<p class="bq-footer">
-<a href="https://en.wikipedia.org/wiki/Tim_O%27Reilly">Tim O'Reilly</a>
-</p>
-</blockquote>
+{:include-quote:Decision Time vs. Execution Time}
 
-[hb]: about-the-author.html

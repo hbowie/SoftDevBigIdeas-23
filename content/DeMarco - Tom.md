@@ -1,18 +1,17 @@
-Title: DeMarco, Tom 
+Title:  DeMarco, Tom
 
-AKA: Tom DeMarco 
+Tags:   authors
 
-Tags: authors 
+AKA:    Tom DeMarco
 
-Seq: 10.22 
+Seq:    16.25
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Tom_De_Marco  
+Link:   https://en.wikipedia.org/wiki/Tom_De_Marco
 
-Index: DeMarco, Tom 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  DeMarco, Tom; 

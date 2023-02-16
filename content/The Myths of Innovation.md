@@ -1,33 +1,25 @@
-Title: The Myths of Innovation 
+Title:  The Myths of Innovation
 
+Tags:   works
 
-AKA: berkun-2007 
+AKA:    berkun-2007
 
-Tags: works 
+Seq:    16.10.1
 
-Seq:  10.10.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Berkun, Scott
 
 Work Type: Book
 
-Publisher: 
-
 Pub Date: 2007
-
-Work Rights:  
-
-Work Rights Holder: 
 
 Work ID: 596527055
 
-Link: https://amzn.to/29vxRtg 
+Link:   https://amzn.to/29vxRtg
 
-Index: Berkun, Scott;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Berkun, Scott; 

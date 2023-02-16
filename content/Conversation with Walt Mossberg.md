@@ -6,7 +6,7 @@ Work Major Title: D8 Conference
 
 AKA:    jobs-2010
 
-Seq:    10.44.7
+Seq:    16.47.7
 
 Level:  4 - Subsection
 
@@ -14,11 +14,11 @@ Class:  work
 
 Author: Jobs, Steve
 
-Work Type: unknown
+Work Type: Interview
 
 Pub Date: Jun 7, 2010
 
-Link:   https://thesmallwave.com/ideas-not-hierarchy-on-steve-jobs-supposedly
+Link:   https://youtu.be/i5f8bqYYwps
 
 Timestamp: 20230209224009
 

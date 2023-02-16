@@ -2,15 +2,13 @@ Title:  Morgan, James M. and Liker, Jeffrey K.
 
 Tags:   authors
 
-AKA:    Morgan, James M., Liker and Jeffrey K.
+AKA:    James M. Morgan and Jeffrey K. Liker, Morgan and Liker
 
-Seq:    10.62
+Seq:    16.65
 
 Level:  3 - Article
 
 Class:  author
-
-Link:   https://en.wikipedia.org/wiki/Morgan_James_Mliker_And_Jeffrey_K
 
 Timestamp: 20230209212849
 

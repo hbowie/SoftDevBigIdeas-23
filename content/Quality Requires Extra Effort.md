@@ -2,7 +2,13 @@ Title:  Quality Requires Extra Effort
 
 AKA:    quality
 
-Level:  1 - Book
+Seq:    5.4
+
+Idea Number: 31
+
+Level:  3 - Article
+
+Class:  article
 
 Timestamp: 20160614153509
 

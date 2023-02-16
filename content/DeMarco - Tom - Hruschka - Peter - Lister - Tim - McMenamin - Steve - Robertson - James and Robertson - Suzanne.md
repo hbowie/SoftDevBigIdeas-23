@@ -1,18 +1,17 @@
-Title: DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James and Robertson, Suzanne 
+Title:  DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James and Robertson, Suzanne
 
-AKA: DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James, Robertson and Suzanne 
+Tags:   authors
 
-Tags: authors 
+AKA:    DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James, Robertson and Suzanne
 
-Seq: 10.24 
+Seq:    16.27
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/De_Marco_Tom_Hruschka_Peter_Lister_Tim_Mc_Menamin_Steve_Robertson_James_Robertson_And_Suzanne  
+Link:   https://en.wikipedia.org/wiki/De_Marco_Tom_Hruschka_Peter_Lister_Tim_Mc_Menamin_Steve_Robertson_James_Robertson_And_Suzanne
 
-Index: DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James and Robertson, Suzanne 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James and Robertson, Suzanne; 

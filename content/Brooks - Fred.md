@@ -1,18 +1,17 @@
-Title: Brooks, Fred 
+Title:  Brooks, Fred
 
-AKA: Fred Brooks 
+Tags:   authors
 
-Tags: authors 
+AKA:    Fred Brooks
 
-Seq: 10.15 
+Seq:    16.17
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Fred_Brooks  
+Link:   https://en.wikipedia.org/wiki/Fred_Brooks
 
-Index: Brooks, Fred 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Brooks, Fred; 

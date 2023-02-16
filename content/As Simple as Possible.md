@@ -1,6 +1,6 @@
 Title:  As Simple as Possible
 
-Seq:    10.26.1.1
+Seq:    16.29.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Albert Einstein]], *[[On the Method of Theoretical Physics]]*,
 Body:
 
 ...the supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.
+

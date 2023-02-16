@@ -1,15 +1,16 @@
-Title: Seek First to Understand Your Customer
+Title:  Seek First to Understand Your Customer
 
-Index: customer
-Index: Ford, Henry
-Index: faster horses
-Index: Davis, Alan M.
-Index: Liker, Jeffrey K.
-Index: Toyota
-Index: Sienna
-Index: requirements
-Index: Robertson, James and Suzanne
-Index: persona (https://en.wikipedia.org/wiki/Persona_(user_experience))
+Seq:    5.9
+
+Idea Number: 36
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160607164918
+
+Index:  customer; Ford, Henry; faster horses; Davis, Alan M.; Liker, Jeffrey K.; Toyota; Sienna; requirements; Robertson, James and Suzanne; persona (https://en.wikipedia.org/wiki/Persona_(user_experience)); 
 
 Body:
 

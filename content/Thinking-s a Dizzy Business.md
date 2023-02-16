@@ -2,7 +2,7 @@ Title:  Thinking's a Dizzy Business
 
 Tags:   critical thinking
 
-Seq:    10.36.1.1
+Seq:    16.39.1.2
 
 Level:  5 - Detail
 

@@ -1,33 +1,29 @@
-Title: Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design 
+Title:  Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design
 
+Tags:   works
 
-AKA: constantine-lockwood-1999 
+AKA:    constantine-lockwood-1999
 
-Tags: works 
+Seq:    16.22.1
 
-Seq:  10.19.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Constantine, Larry and Lockwood, Lucy
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 1999
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: the ACM Press
 
+Pub Date: 1999
+
 Work ID: 201924781
 
-Link: https://amzn.to/29w2Wgy 
+Link:   https://amzn.to/29w2Wgy
 
-Index: Constantine, Larry and Lockwood, Lucy;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Constantine, Larry and Lockwood, Lucy; 

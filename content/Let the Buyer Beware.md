@@ -1,14 +1,16 @@
-Title: Let the Buyer Beware
+Title:  Let the Buyer Beware
 
-Index: COTS
-Index: suppliers
-Index: vendors
-Index: caveat emptor
-Index: customization
-Index: purchased software
-Index: ISV
-Index: independent software vendor
-Index: Hurst, Mark
+Seq:    7.5
+
+Idea Number: 51
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160713163748
+
+Index:  COTS; suppliers; vendors; caveat emptor; customization; purchased software; ISV; independent software vendor; Hurst, Mark; 
 
 Body:
 
@@ -58,4 +60,3 @@ It&#8217;s far too rarely stated that the technology industry is not in the busi
 <a href="http://creativegood.com/mark-hurst/" class="reflink" target="ref">Mark Hurst</a> from the book <cite><a href="bibliography.html#hurst-2007">Bit Literacy: Productivity in the Age of Information and E-mail Overload</a></cite> Copyright &copy; 2007 by Good Experience, Inc.
 </p>
 </blockquote>
-

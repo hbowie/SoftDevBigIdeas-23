@@ -1,6 +1,14 @@
-Title: Version History
+Title:  Version History
 
-Index: version history
+Seq:    13.3
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160804022912
+
+Index:  version history; 
 
 Body:
 

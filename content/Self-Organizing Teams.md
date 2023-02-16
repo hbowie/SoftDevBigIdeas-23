@@ -1,19 +1,16 @@
 Title:  Self-Organizing Teams
 
-Index: organization
-Index: team organization
-Index: teams
-Index: self-organizing
-Index: hierarchy
-Index: project management
-Index: Definition of Done (https://www.agilealliance.org/glossary/definition-of-done/)
-Index: DoD (https://www.agilealliance.org/glossary/definition-of-done/)
-Index: daily standup (http://martinfowler.com/articles/itsNotJustStandingUp.html)
-Index: standup (http://martinfowler.com/articles/itsNotJustStandingUp.html)
-Index: burn down chart (https://en.wikipedia.org/wiki/Burn_down_chart)
-Index: Churchill, Winston
-Index: Badaracco, Joseph L. Jr.
+Seq:    6.1
 
+Idea Number: 39
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160614163943
+
+Index:  organization; team organization; teams; self-organizing; hierarchy; project management; Definition of Done (https://www.agilealliance.org/glossary/definition-of-done/); DoD (https://www.agilealliance.org/glossary/definition-of-done/); daily standup (http://martinfowler.com/articles/itsNotJustStandingUp.html); standup (http://martinfowler.com/articles/itsNotJustStandingUp.html); burn down chart (https://en.wikipedia.org/wiki/Burn_down_chart); Churchill, Winston; Badaracco, Joseph L. Jr.; 
 
 Body:
 

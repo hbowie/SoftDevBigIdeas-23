@@ -1,17 +1,16 @@
-Title: CMMI or Agile: Why Not Embrace Both! 
+Title:  CMMI or Agile: Why Not Embrace Both!
+
+Tags:   works
 
 Work Major Title: SEI Technical Notes
 
+AKA:    sei-2008
 
-AKA: sei-2008 
+Seq:    16.37.1
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.34.1 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Glazer, Hillel et al.
 
@@ -21,15 +20,8 @@ Publisher: Software Engineering Institute
 
 Pub Date: Nov-08
 
-Work Rights:  
+Link:   https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8533
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8533 
-
-Index: Glazer, Hillel et al.;  
-
-Body:  
-
+Index:  Glazer, Hillel et al.; 

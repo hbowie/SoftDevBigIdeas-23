@@ -1,18 +1,17 @@
-Title: Hammett, Dashiell 
+Title:  Hammett, Dashiell
 
-AKA: Dashiell Hammett 
+Tags:   authors
 
-Tags: authors 
+AKA:    Dashiell Hammett
 
-Seq: 10.36 
+Seq:    16.39
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Dashiell_Hammett  
+Link:   https://en.wikipedia.org/wiki/Dashiell_Hammett
 
-Index: Hammett, Dashiell 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Hammett, Dashiell; 

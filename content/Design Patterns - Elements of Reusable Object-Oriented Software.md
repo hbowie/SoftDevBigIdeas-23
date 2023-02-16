@@ -1,15 +1,14 @@
-Title: Design Patterns: Elements of Reusable Object-Oriented Software 
+Title:  Design Patterns: Elements of Reusable Object-Oriented Software
 
+Tags:   works
 
-AKA: gamma-et-al-1994 
+AKA:    gamma-et-al-1994
 
-Tags: works 
+Seq:    16.34.1
 
-Seq:  10.31.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John
 
@@ -19,15 +18,10 @@ Publisher: Addison-Wesley Professional
 
 Pub Date: 1994
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 201633612
 
-Link: https://amzn.to/2aqINKN 
+Link:   https://amzn.to/2aqINKN
 
-Index: Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John; 

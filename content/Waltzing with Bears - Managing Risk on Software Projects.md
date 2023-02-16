@@ -1,33 +1,23 @@
-Title: Waltzing with Bears: Managing Risk on Software Projects 
+Title:  Waltzing with Bears: Managing Risk on Software Projects
 
+Tags:   works
 
-AKA: demarco-lister-2003 
+AKA:    demarco-lister-2003
 
-Tags: works 
+Seq:    16.26.1
 
-Seq:  10.23.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: DeMarco, Tom and Lister, Timothy
 
 Work Type: Book
 
-Publisher: 
-
 Pub Date: 2003
-
-Work Rights:  
-
-Work Rights Holder: 
 
 Work ID: 932633609
 
-Link:  
+Timestamp: 20230209224009
 
-Index: DeMarco, Tom and Lister, Timothy;  
-
-Body:  
-
+Index:  DeMarco, Tom and Lister, Timothy; 

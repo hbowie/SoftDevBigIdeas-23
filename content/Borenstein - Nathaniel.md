@@ -1,18 +1,17 @@
-Title: Borenstein, Nathaniel 
+Title:  Borenstein, Nathaniel
 
-AKA: Nathaniel Borenstein 
+Tags:   authors
 
-Tags: authors 
+AKA:    Nathaniel Borenstein
 
-Seq: 10.13 
+Seq:    16.14
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Nathaniel_Borenstein  
+Link:   https://en.wikipedia.org/wiki/Nathaniel_Borenstein
 
-Index: Borenstein, Nathaniel 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Borenstein, Nathaniel; 

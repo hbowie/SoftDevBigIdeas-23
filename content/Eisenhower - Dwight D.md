@@ -1,18 +1,17 @@
-Title: Eisenhower, Dwight D. 
+Title:  Eisenhower, Dwight D.
 
-AKA: Dwight D. Eisenhower 
+Tags:   authors
 
-Tags: authors 
+AKA:    Dwight D. Eisenhower
 
-Seq: 10.27 
+Seq:    16.30
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Dwight_Deisenhower  
+Link:   https://en.wikipedia.org/wiki/Dwight_Deisenhower
 
-Index: Eisenhower, Dwight D. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Eisenhower, Dwight D.; 

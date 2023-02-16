@@ -1,18 +1,17 @@
-Title: Avitzur, Ron 
+Title:  Avitzur, Ron
 
-AKA: Ron Avitzur 
+Tags:   authors
 
-Tags: authors 
+AKA:    Ron Avitzur
 
-Seq: 10.7 
+Seq:    16.7
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Ron_Avitzur  
+Link:   https://en.wikipedia.org/wiki/Ron_Avitzur
 
-Index: Avitzur, Ron 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Avitzur, Ron; 

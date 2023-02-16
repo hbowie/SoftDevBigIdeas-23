@@ -1,33 +1,29 @@
-Title: Agile Software Development 
+Title:  Agile Software Development
 
+Tags:   works
 
-AKA: cockburn-2002 
+AKA:    cockburn-2002
 
-Tags: works 
+Seq:    16.21.2
 
-Seq:  10.18.2 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Cockburn, Alistair
 
 Work Type: Book
 
-Publisher: 
-
-Pub Date: 2002
-
-Work Rights:  Copyright
+Work Rights: Copyright
 
 Work Rights Holder: Pearson Education, Inc
 
+Pub Date: 2002
+
 Work ID: 201699699
 
-Link: https://amzn.to/29zolbU 
+Link:   https://amzn.to/29zolbU
 
-Index: Cockburn, Alistair;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Cockburn, Alistair; 

@@ -1,33 +1,23 @@
-Title: Peopleware: Productive Projects and Teams (Second Edition) 
+Title:  Peopleware: Productive Projects and Teams (Second Edition)
 
+Tags:   works
 
-AKA: demarco-1999 
+AKA:    demarco-1999
 
-Tags: works 
+Seq:    16.25.1
 
-Seq:  10.22.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: DeMarco, Tom
-
-Work Type: 
 
 Publisher: Dorset House Publishing Company, Incorporated
 
 Pub Date: 1999
 
-Work Rights:  
-
-Work Rights Holder: 
-
 Work ID: 932633439
 
-Link:  
+Timestamp: 20230209224009
 
-Index: DeMarco, Tom;  
-
-Body:  
-
+Index:  DeMarco, Tom; 

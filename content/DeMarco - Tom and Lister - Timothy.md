@@ -1,18 +1,17 @@
-Title: DeMarco, Tom and Lister, Timothy 
+Title:  DeMarco, Tom and Lister, Timothy
 
-AKA: DeMarco, Tom, Lister and Timothy 
+Tags:   authors
 
-Tags: authors 
+AKA:    Tom DeMarco and Timothy Lister
 
-Seq: 10.23 
+Seq:    16.26
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/De_Marco_Tom_Lister_And_Timothy  
+Link:   https://en.wikipedia.org/wiki/De_Marco_Tom_Lister_And_Timothy
 
-Index: DeMarco, Tom and Lister, Timothy 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  DeMarco, Tom and Lister, Timothy; 

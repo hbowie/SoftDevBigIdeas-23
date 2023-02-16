@@ -1,18 +1,17 @@
-Title: Block, Peter 
+Title:  Block, Peter
 
-AKA: Peter Block 
+Tags:   authors
 
-Tags: authors 
+AKA:    Peter Block
 
-Seq: 10.11 
+Seq:    16.12
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Peter_Block  
+Link:   https://en.wikipedia.org/wiki/Peter_Block
 
-Index: Block, Peter 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Block, Peter; 

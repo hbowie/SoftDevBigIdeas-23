@@ -1,6 +1,6 @@
 Title:  Bulleted List of Requirements
 
-Seq:    10.20.2.1
+Seq:    16.23.2.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Alan M. Davis]], *[[Just Enough Requirements Management: Where
 Body:
 
 The bulleted list of requirements is by far the most cost-effective and beneficial approach. It is simple to create; it is simple to read, regardless of background; and, when stored in a spreadsheet, database, or requirements management tool and augmented with annotations, it has incredible benefits to project management.
+

@@ -1,33 +1,25 @@
-Title: The Dain Curse 
+Title:  The Dain Curse
 
+Tags:   works
 
-AKA: hammett-1929 
+AKA:    hammett-1929
 
-Tags: works 
+Seq:    16.39.1
 
-Seq:  10.36.1 
+Level:  4 - Subsection
 
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Hammett, Dashiell
 
 Work Type: Book
 
-Publisher: 
-
 Pub Date: 1929
-
-Work Rights:  
-
-Work Rights Holder: 
 
 Work ID: 679722602
 
-Link: https://amzn.to/2arjNDp 
+Link:   https://amzn.to/2arjNDp
 
-Index: Hammett, Dashiell;  
+Timestamp: 20230209224009
 
-Body:  
-
+Index:  Hammett, Dashiell; 

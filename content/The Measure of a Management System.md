@@ -1,17 +1,16 @@
-Title: The Measure of a Management System 
+Title:  The Measure of a Management System
+
+Tags:   works
 
 Work Major Title: Better Software Magazine
 
+AKA:    highsmith-2007-11
 
-AKA: highsmith-2007-11 
+Seq:    16.41.4
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.38.4 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Highsmith, Jim
 
@@ -21,15 +20,8 @@ Publisher: Sticky Minds
 
 Pub Date: Nov-07
 
-Work Rights:  
+Link:   https://www.stickyminds.com/better-software-magazine/measure-management-system
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://www.stickyminds.com/better-software-magazine/measure-management-system 
-
-Index: Highsmith, Jim;  
-
-Body:  
-
+Index:  Highsmith, Jim; 

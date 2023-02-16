@@ -1,12 +1,16 @@
-Title: Tailor Thoughtfully
+Title:  Tailor Thoughtfully
 
-Index: Dreyfus Model of Skill Acquisition
-Index: Macroscope
-Index: SAFe
-Index: Scrum
-Index: deliverables
-Index: tailoring
+Seq:    5.6
 
+Idea Number: 33
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160617165007
+
+Index:  Dreyfus Model of Skill Acquisition; Macroscope; SAFe; Scrum; deliverables; tailoring; 
 
 Body:
 

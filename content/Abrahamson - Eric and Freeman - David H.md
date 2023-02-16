@@ -1,18 +1,17 @@
-Title: Abrahamson, Eric and Freeman, David H. 
+Title:  Abrahamson, Eric and Freeman, David H.
 
-AKA: Abrahamson, Eric, Freeman and David H. 
+Tags:   authors
 
-Tags: authors 
+AKA:    Abrahamson, Eric, Freeman and David H.
 
-Seq: 10.1 
+Seq:    16.1
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Abrahamson_Eric_Freeman_And_David_H  
+Link:   https://en.wikipedia.org/wiki/Abrahamson_Eric_Freeman_And_David_H
 
-Index: Abrahamson, Eric and Freeman, David H. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Abrahamson, Eric and Freeman, David H.; 

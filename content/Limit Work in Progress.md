@@ -1,10 +1,16 @@
-Title: Limit Work in Progress
+Title:  Limit Work in Progress
 
-Index: WIP
-Index: work in progress
-Index: task switching (https://en.wikipedia.org/wiki/Task_switching_(psychology))
-Index: surge capacity
-Index: capacity allocation
+Seq:    6.5
+
+Idea Number: 43
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160606180007
+
+Index:  WIP; work in progress; task switching (https://en.wikipedia.org/wiki/Task_switching_(psychology)); surge capacity; capacity allocation; 
 
 Body:
 

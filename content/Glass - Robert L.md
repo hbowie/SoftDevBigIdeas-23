@@ -1,18 +1,17 @@
-Title: Glass, Robert L. 
+Title:  Glass, Robert L.
 
-AKA: Robert L. Glass 
+Tags:   authors
 
-Tags: authors 
+AKA:    Robert L. Glass
 
-Seq: 10.33 
+Seq:    16.36
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Robert_Lglass  
+Link:   https://en.wikipedia.org/wiki/Robert_Lglass
 
-Index: Glass, Robert L. 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Glass, Robert L.; 

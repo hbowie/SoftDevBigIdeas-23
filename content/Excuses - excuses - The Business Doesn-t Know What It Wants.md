@@ -1,35 +1,29 @@
-Title: Excuses, excuses: The Business Doesn't Know What It Wants 
+Title:  Excuses, excuses: The Business Doesn't Know What It Wants
+
+Tags:   works
 
 Work Major Title: Forrester Blogs
 
+AKA:    gualtieri-2009
 
-AKA: gualtieri-2009 
+Seq:    16.38.1
 
-Tags: works 
+Level:  4 - Subsection
 
-Seq:  10.35.1 
-
-Level: 4 - Subsection  
-
-Class: work 
+Class:  work
 
 Author: Gualtieri, Mike
 
 Work Type: Blog Post
 
+Work Rights: Copyright
+
 Publisher: Forrester Research
 
 Pub Date: Sep 27, 2009
 
-Work Rights:  Copyright
+Link:   https://blogs.forrester.com/mike_gualtieri/09-09-27-excuses_excuses_business_doesnt_know_what_it_wants
 
-Work Rights Holder: 
+Timestamp: 20230209224009
 
-Work ID: 
-
-Link: https://blogs.forrester.com/mike_gualtieri/09-09-27-excuses_excuses_business_doesnt_know_what_it_wants 
-
-Index: Gualtieri, Mike;  
-
-Body:  
-
+Index:  Gualtieri, Mike; 

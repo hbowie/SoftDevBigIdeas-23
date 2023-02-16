@@ -1,6 +1,14 @@
 Title:  Cohesion
 
-Level:  1 - Book
+Tags:   ideas
+
+Seq:    2.9
+
+Idea Number: 10
+
+Level:  3 - Article
+
+Class:  article
 
 Timestamp: 20160613161647
 
@@ -8,7 +16,7 @@ Index:  cohesion; Community of Practice (https://en.wikipedia.org/wiki/Community
 
 Body:
 
-When performing decomposition, elements that are closely related to each other should be grouped together.
+When performing [[decomposition]], elements that are closely related to each other should be grouped together.
 
 The relationships may be based on functional similarities, communication paths between elements, and/or interdependencies.
 

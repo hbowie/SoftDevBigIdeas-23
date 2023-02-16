@@ -1,18 +1,17 @@
-Title: Gawande, Atul 
+Title:  Gawande, Atul
 
-AKA: Atul Gawande 
+Tags:   authors
 
-Tags: authors 
+AKA:    Atul Gawande
 
-Seq: 10.32 
+Seq:    16.35
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Atul_Gawande  
+Link:   https://en.wikipedia.org/wiki/Atul_Gawande
 
-Index: Gawande, Atul 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Gawande, Atul; 

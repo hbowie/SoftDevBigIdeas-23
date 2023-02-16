@@ -1,10 +1,18 @@
-Title: Consider Alternatives
+Title:  Consider Alternatives
 
-Index: alternatives
-Index: front-loading (http://www.lean.org/LeanPost/Posting.cfm?LeanPostId=286)
-Index: Liker, Jeffrey K.
-Index: set-based concurrent engineering (https://www.lean.org/lexicon/set-based-concurrent-engineering)
-Index: Davis, Alan M.
+Tags:   ideas
+
+Seq:    2.12
+
+Idea Number: 13
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160505154035
+
+Index:  alternatives; front-loading (http://www.lean.org/LeanPost/Posting.cfm?LeanPostId=286); Liker, Jeffrey K.; set-based concurrent engineering (https://www.lean.org/lexicon/set-based-concurrent-engineering); Davis, Alan M.; 
 
 Body:
 
@@ -20,19 +28,13 @@ Note that this approach requires a higher tolerance for a longer period of uncer
 
 Since this approach results in spending more design time up front, but then less time re-designing later in the project, it is sometimes referred to as "front-loading the development process."
 
-Of course, any consideration of alternatives will require [open and spirited discussion][arguments] of the pros and cons of each. Such discussions can get messy, but these sorts of discussions are absolutely essential in order to achieve the best possible results.
+Of course, any consideration of alternatives will require [[Have Wonderful Arguments|open and spirited discussion]] of the pros and cons of each. Such discussions can get messy, but these sorts of discussions are absolutely essential in order to achieve the best possible results.
 
 ----
 
-<blockquote>
-<p>
-A critical aspect of all engineering disciplines is the elaboration of multiple approaches, trade-off analyses among them, and the eventual adoption of one. After requirements are agreed upon, you <em>must</em> examine a variety of architectures and algorithms.</p>
+##### Words from Others on this Topic
 
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Alan_M._Davis" class="reflink" target="ref">Alan M. Davis</a> from the book <cite><a href="bibliography.html#davis-1995">201 Principles of Software Development</a></cite> Copyright &copy; 1995 by McGraw-Hill, Inc.
-</p>
-</blockquote>
+{:include-quote:Elaboration of Multiple Approaches}
 
-[arguments]: have-wonderful-arguments.html
 
 

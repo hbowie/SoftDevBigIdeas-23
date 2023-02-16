@@ -1,18 +1,17 @@
-Title: Austin, Rob and Devin, Lee 
+Title:  Austin, Rob and Devin, Lee
 
-AKA: Austin, Rob, Devin and Lee 
+Tags:   authors
 
-Tags: authors 
+AKA:    Austin, Rob, Devin and Lee
 
-Seq: 10.4 
+Seq:    16.4
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: author 
+Class:  author
 
-Link: https://en.wikipedia.org/wiki/Austin_Rob_Devin_And_Lee  
+Link:   https://en.wikipedia.org/wiki/Austin_Rob_Devin_And_Lee
 
-Index: Austin, Rob and Devin, Lee 
+Timestamp: 20230209212848
 
-Body:  
-
+Index:  Austin, Rob and Devin, Lee; 

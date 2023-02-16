@@ -1,6 +1,6 @@
 Title:  Exhaustive List of problem-solving techniques
 
-Seq:    10.50.1.1
+Seq:    16.53.1.1
 
 Level:  5 - Detail
 

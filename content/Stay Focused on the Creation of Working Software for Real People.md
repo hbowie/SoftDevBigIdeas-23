@@ -1,24 +1,16 @@
-Title: Stay Focused on the Creation of Working Software for Real People
+Title:  Stay Focused on the Creation of Working Software for Real People
 
-Index: working software
-Index: IBM
-Index: Jobs, Steve
-Index: Apple
-Index: Agile Manifesto
-Index: Capability Maturity Model (https://en.wikipedia.org/wiki/Capability_Maturity_Model)
-Index: CMM (https://en.wikipedia.org/wiki/Capability_Maturity_Model)
-Index: maturity levels
-Index: process improvement
-Index: Glazer, Hillel
-Index: value
-Index: consultants
-Index: models
-Index: institutionalize
-Index: gurus
-Index: Brooks, Fred
-Index: Kim, Gene
-Index: Behr, Kevin
-Index: Spafford, George
+Seq:    7.6
+
+Idea Number: 52
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160503152510
+
+Index:  working software; IBM; Jobs, Steve; Apple; Agile Manifesto; Capability Maturity Model (https://en.wikipedia.org/wiki/Capability_Maturity_Model); CMM (https://en.wikipedia.org/wiki/Capability_Maturity_Model); maturity levels; process improvement; Glazer, Hillel; value; consultants; models; institutionalize; gurus; Brooks, Fred; Kim, Gene; Behr, Kevin; Spafford, George; 
 
 Body:
 

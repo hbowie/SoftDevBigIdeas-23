@@ -1,30 +1,18 @@
-Title: Deliver Early and Often
+Title:  Deliver Early and Often
 
+AKA:    Delivering Early and Often
 
-Index: Agile Manifesto
-Index: Lewis, Bob
-Index: MMF (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: MMP (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: MMR (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: Minimal Marketable Feature (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: Minimal Marketable Product (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: Minimal Marketable Release (http://www.disciplinedagiledelivery.com/defining-mvp/)
-Index: Poppendieck, Mary and Tom
-Index: batch sizes
-Index: customer
-Index: cycle time
-Index: delivery
-Index: feedback loop
-Index: inventory
-Index: lean
-Index: metrics
-Index: prioritization
-Index: problems
-Index: sprint
-Index: trust
-Index: waste
-Index: working software
+Seq:    5.11
 
+Idea Number: 38
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160531210536
+
+Index:  Agile Manifesto; Lewis, Bob; MMF (http://www.disciplinedagiledelivery.com/defining-mvp/); MMP (http://www.disciplinedagiledelivery.com/defining-mvp/); MMR (http://www.disciplinedagiledelivery.com/defining-mvp/); Minimal Marketable Feature (http://www.disciplinedagiledelivery.com/defining-mvp/); Minimal Marketable Product (http://www.disciplinedagiledelivery.com/defining-mvp/); Minimal Marketable Release (http://www.disciplinedagiledelivery.com/defining-mvp/); Poppendieck, Mary and Tom; batch sizes; customer; cycle time; delivery; feedback loop; inventory; lean; metrics; prioritization; problems; sprint; trust; waste; working software; 
 
 Body:
 
@@ -73,5 +61,3 @@ Your goals [when designing a system] shouldn&#8217;t be to achieve perfection. T
 <a href="http://en.wikipedia.org/wiki/Bob_Lewis">Bob Lewis</a> from the book <cite><a href="bibliography.html#lewis-1999">IS Survival Guide</a></cite> Copyright &copy; 1999 by Sams Publishing
 </p>
 </blockquote>
-
-

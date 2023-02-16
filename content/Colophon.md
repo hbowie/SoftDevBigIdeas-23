@@ -1,6 +1,14 @@
-Title: Colophon
+Title:  Colophon
 
-Index: Colophon
+Seq:    13.5
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160831140526
+
+Index:  Colophon; 
 
 Body:
 

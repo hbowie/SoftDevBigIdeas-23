@@ -1,7 +1,16 @@
-Title: Sharpen Your Axe
+Title:  Sharpen Your Axe
 
-Index: tools
-Index: version control
+Seq:    5.7
+
+Idea Number: 34
+
+Level:  3 - Article
+
+Class:  article
+
+Timestamp: 20160503221145
+
+Index:  tools; version control; 
 
 Body:
 
