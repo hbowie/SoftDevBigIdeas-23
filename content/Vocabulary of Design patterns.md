@@ -1,6 +1,6 @@
 Title:  Vocabulary of Design patterns
 
-Seq:    16.53.1.2
+Seq:    11.53.1.2
 
 Level:  5 - Detail
 

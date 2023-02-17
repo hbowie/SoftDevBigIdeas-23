@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    yourdon-1976
 
-Seq:    16.88.1
+Seq:    11.88.1
 
 Level:  4 - Subsection
 

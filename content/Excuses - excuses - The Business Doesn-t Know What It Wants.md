@@ -6,7 +6,7 @@ Work Major Title: Forrester Blogs
 
 AKA:    gualtieri-2009
 
-Seq:    16.38.1
+Seq:    11.38.1
 
 Level:  4 - Subsection
 

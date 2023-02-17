@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Eric Ries
 
-Seq:    16.75
+Seq:    11.75
 
 Level:  3 - Article
 

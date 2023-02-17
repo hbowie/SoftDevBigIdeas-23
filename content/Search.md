@@ -1,6 +1,6 @@
 Title:  Search
 
-Seq:    8.1
+Seq:    10.3
 
 Level:  3 - Article
 
@@ -12,6 +12,5 @@ Index:  search;
 
 Body:
 
-{:search: https://softdevbigideas.com}
-
+{:search: https://www.softdevbigideas.com}
 

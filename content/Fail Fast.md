@@ -2,7 +2,7 @@ Title:  Fail Fast
 
 Tags:   quotes
 
-Seq:    16.66.0.1
+Seq:    11.66.0.1
 
 Level:  5 - Detail
 

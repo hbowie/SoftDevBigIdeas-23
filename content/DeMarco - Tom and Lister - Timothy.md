@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Tom DeMarco and Timothy Lister
 
-Seq:    16.26
+Seq:    11.26
 
 Level:  3 - Article
 

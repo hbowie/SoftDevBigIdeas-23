@@ -2,7 +2,7 @@ Title:  Take the Agile Train
 
 Tags:   Jazz, Lean and Agile, Music
 
-Seq:    15.8
+Seq:    8.8
 
 Level:  3 - Article
 

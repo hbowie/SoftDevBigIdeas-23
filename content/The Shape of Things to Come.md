@@ -6,7 +6,7 @@ Work Major Title: The New Yorker
 
 AKA:    parker-2015
 
-Seq:    16.69.1
+Seq:    11.69.1
 
 Level:  4 - Subsection
 

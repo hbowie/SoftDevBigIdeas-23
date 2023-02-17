@@ -1,6 +1,6 @@
 Title:  This Thinking Business
 
-Seq:    1.1
+Seq:    1.2
 
 Idea Number: 1
 

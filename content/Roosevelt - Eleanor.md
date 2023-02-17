@@ -2,7 +2,7 @@ Title:  Roosevelt, Eleanor
 
 AKA:    Eleanor Roosevelt
 
-Seq:    16.77
+Seq:    11.77
 
 Level:  3 - Article
 

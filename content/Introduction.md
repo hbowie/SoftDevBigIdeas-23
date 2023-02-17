@@ -1,10 +1,10 @@
 Title:  Introduction
 
-Seq:    1.0.1
+Seq:    1.1
 
 Level:  3 - Article
 
-Class:  intro
+Class:  article
 
 Timestamp: 20160503150528
 
@@ -52,5 +52,3 @@ August, 2016
 {:include-quote:The Enormous Extension of our Being}
 
 {:include-quote:No single silver bullet to exorcise our software demons}
-
-

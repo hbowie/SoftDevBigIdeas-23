@@ -1,6 +1,6 @@
 Title:  Glossary
 
-Seq:    13.4
+Seq:    9.4
 
 Level:  3 - Article
 

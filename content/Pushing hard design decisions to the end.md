@@ -2,7 +2,7 @@ Title:  Pushing hard design decisions to the end
 
 Tags:   quotes
 
-Seq:    16.82.1.1
+Seq:    11.82.1.1
 
 Level:  5 - Detail
 

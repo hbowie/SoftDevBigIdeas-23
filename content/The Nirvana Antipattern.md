@@ -2,7 +2,7 @@ Title:  The Nirvana Antipattern
 
 Tags:   quotes
 
-Seq:    16.18.1.1
+Seq:    11.18.1.1
 
 Level:  5 - Detail
 

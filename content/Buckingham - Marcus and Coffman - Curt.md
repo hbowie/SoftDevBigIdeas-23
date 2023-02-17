@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Buckingham, Marcus, Coffman and Curt
 
-Seq:    16.19
+Seq:    11.19
 
 Level:  3 - Article
 

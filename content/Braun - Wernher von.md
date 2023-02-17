@@ -2,7 +2,7 @@ Title:  Braun, Wernher von
 
 AKA:    Wernher von Braun
 
-Seq:    16.16
+Seq:    11.16
 
 Level:  3 - Article
 

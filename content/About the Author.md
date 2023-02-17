@@ -1,6 +1,6 @@
 Title:  About the Author
 
-Seq:    13.1
+Seq:    9.1
 
 Level:  3 - Article
 

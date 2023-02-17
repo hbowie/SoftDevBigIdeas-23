@@ -1,6 +1,6 @@
 Title:  Great minds discuss ideas
 
-Seq:    16.77.0.1
+Seq:    11.77.0.1
 
 Level:  5 - Detail
 

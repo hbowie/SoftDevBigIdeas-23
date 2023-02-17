@@ -1,6 +1,6 @@
 Title:  Copyrights
 
-Seq:    13.2
+Seq:    9.2
 
 Level:  3 - Article
 

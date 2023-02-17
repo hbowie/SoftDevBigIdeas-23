@@ -2,7 +2,7 @@ Title:  Holmes-Pollock Letters
 
 Tags:   works
 
-Seq:    16.42.1
+Seq:    11.42.1
 
 Level:  4 - Subsection
 

@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    brown-et-al-1999
 
-Seq:    16.18.1
+Seq:    11.18.1
 
 Level:  4 - Subsection
 

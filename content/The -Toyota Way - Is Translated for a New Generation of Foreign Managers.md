@@ -1,4 +1,4 @@
-Title:  The "Toyota Way" Is Translated for a New Generation of Foreign Managers
+Title:  The 'Toyota Way' Is Translated for a New Generation of Foreign Managers
 
 Tags:   works
 
@@ -6,7 +6,7 @@ Work Major Title: The New York Times
 
 AKA:    nytimes-2007
 
-Seq:    16.32.1
+Seq:    11.32.1
 
 Level:  4 - Subsection
 

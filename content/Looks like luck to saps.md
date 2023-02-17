@@ -2,7 +2,7 @@ Title:  Looks like luck to saps
 
 Tags:   quotes
 
-Seq:    16.39.1.1
+Seq:    11.39.1.1
 
 Level:  5 - Detail
 

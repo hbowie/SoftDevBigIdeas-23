@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    kennedy-2003
 
-Seq:    16.51.1
+Seq:    11.51.1
 
 Level:  4 - Subsection
 

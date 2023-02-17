@@ -2,7 +2,7 @@ Title:  Lessons We (Should) Have Learned from the Web
 
 Tags:   appendices
 
-Seq:    15.5
+Seq:    8.5
 
 Level:  3 - Article
 

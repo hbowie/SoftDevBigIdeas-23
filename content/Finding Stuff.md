@@ -1,6 +1,6 @@
 Title:  Finding Stuff
 
-Seq:    8
+Seq:    10
 
 Level:  2 - Section
 
@@ -11,5 +11,4 @@ Timestamp: 20230216211922
 Body:
 
 The pages in this section provide various ways to find topics of interest within this web book. 
-
 

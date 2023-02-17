@@ -2,7 +2,7 @@ Title:  Thinking Differently about Perfectionism
 
 Tags:   appendices
 
-Seq:    15.11
+Seq:    8.11
 
 Level:  3 - Article
 

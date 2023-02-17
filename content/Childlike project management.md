@@ -1,6 +1,6 @@
 Title:  Childlike project management
 
-Seq:    16.26.1.1
+Seq:    11.26.1.1
 
 Level:  5 - Detail
 

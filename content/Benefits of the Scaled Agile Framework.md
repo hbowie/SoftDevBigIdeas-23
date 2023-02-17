@@ -2,7 +2,7 @@ Title:  Benefits of the Scaled Agile Framework
 
 Tags:   appendices
 
-Seq:    15.1
+Seq:    8.1
 
 Level:  3 - Article
 

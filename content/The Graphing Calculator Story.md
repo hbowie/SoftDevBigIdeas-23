@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    avitzur-2004
 
-Seq:    16.7.1
+Seq:    11.7.1
 
 Level:  4 - Subsection
 

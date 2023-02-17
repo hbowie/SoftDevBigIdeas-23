@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    The Standish Group
 
-Seq:    16.83
+Seq:    11.83
 
 Level:  3 - Article
 

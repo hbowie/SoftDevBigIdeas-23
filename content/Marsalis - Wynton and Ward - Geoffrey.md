@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Wynton Marsalis and Geoffrey Ward
 
-Seq:    16.62
+Seq:    11.62
 
 Level:  3 - Article
 

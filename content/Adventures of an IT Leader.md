@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    austin-et-al-2009
 
-Seq:    16.6.1
+Seq:    11.6.1
 
 Level:  4 - Subsection
 

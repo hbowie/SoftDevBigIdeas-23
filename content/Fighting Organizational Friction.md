@@ -2,7 +2,7 @@ Title:  Fighting Organizational Friction
 
 Tags:   appendices, lean
 
-Seq:    15.4
+Seq:    8.4
 
 Level:  3 - Article
 

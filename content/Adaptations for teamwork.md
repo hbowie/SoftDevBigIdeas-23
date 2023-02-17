@@ -1,6 +1,6 @@
 Title:  Adaptations for teamwork
 
-Seq:    16.87.1.1
+Seq:    11.87.1.1
 
 Level:  5 - Detail
 

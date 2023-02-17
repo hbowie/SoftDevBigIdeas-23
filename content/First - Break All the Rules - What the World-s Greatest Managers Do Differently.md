@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    buckingham-et-al-1999
 
-Seq:    16.19.1
+Seq:    11.19.1
 
 Level:  4 - Subsection
 

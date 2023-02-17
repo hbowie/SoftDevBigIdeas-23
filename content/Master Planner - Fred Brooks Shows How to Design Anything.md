@@ -6,7 +6,7 @@ Work Major Title: Wired Magazine
 
 AKA:    brooks-2010
 
-Seq:    16.17.2
+Seq:    11.17.2
 
 Level:  4 - Subsection
 

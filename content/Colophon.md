@@ -1,6 +1,6 @@
 Title:  Colophon
 
-Seq:    13.5
+Seq:    9.5
 
 Level:  3 - Article
 

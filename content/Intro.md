@@ -4,7 +4,7 @@ Seq:    1
 
 Level:  2 - Section
 
-Class:  intro
+Class:  section
 
 Timestamp: 20230209172459
 

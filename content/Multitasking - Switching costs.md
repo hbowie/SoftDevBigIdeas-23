@@ -6,13 +6,13 @@ Work Major Title: American Psychological Association
 
 AKA:    apa-multitask-2006
 
-Seq:    16.2.1
+Seq:    11.2.1
 
 Level:  4 - Subsection
 
 Class:  work
 
-Author: American Pschological Association
+Author: American Psychological Association
 
 Work Type: Article
 

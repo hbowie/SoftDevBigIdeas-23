@@ -1,9 +1,9 @@
 Title:  Bibliography
 
-Seq:    16
+Seq:    11
 
 Level:  2 - Section
 
-Class:  biblio
+Class:  section
 
 Timestamp: 20230209203228

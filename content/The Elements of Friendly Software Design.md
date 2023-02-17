@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    heckel-1994
 
-Seq:    16.40.1
+Seq:    11.40.1
 
 Level:  4 - Subsection
 
