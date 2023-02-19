@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    davis-2005
 
-Seq:    11.23.2
+Seq:    11.26.2
 
 Level:  4 - Subsection
 

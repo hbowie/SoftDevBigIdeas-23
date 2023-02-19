@@ -1,6 +1,6 @@
 Title:  An Effective Problem-Solving Process
 
-Seq:    11.28.1.1
+Seq:    11.32.1.1
 
 Level:  5 - Detail
 

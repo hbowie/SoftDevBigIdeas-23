@@ -12,7 +12,7 @@ Index:  copyright;
 
 Body:
 
-The bulk of <cite>The Big Ideas in Software Development</cite> by [Herb Bowie](http://hbowie.com) is copyright &copy; 2016 - 2018 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+The bulk of <cite>The Big Ideas in Software Development</cite> by [Herb Bowie](https://hbowie.net/about.html) is copyright &copy; 2009 - 2023 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 Throughout this work I frequently quote from other sources. My intent in so doing is never to damage the original copyright holder, but simply to make fair use of this material, for the purposes of criticism and analysis. In fact I provide liberal links from this site to the original sources. My consistent purpose is to promote the original works, and influence my readers to purchase them wherever possible.
 

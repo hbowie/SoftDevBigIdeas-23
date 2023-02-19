@@ -4,13 +4,13 @@ Tags:   authors
 
 AKA:    Bob Lewis
 
-Seq:    11.57
+Seq:    11.61
 
 Level:  3 - Article
 
 Class:  author
 
-Link:   https://en.wikipedia.org/wiki/Bob_Lewis
+Link:   https://issurvivor.com/about/
 
 Timestamp: 20230209212848
 

@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Fred Brooks
 
-Seq:    11.17
+Seq:    11.18
 
 Level:  3 - Article
 

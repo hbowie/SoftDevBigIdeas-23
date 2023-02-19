@@ -6,7 +6,7 @@ Work Major Title: Fortune Magazine
 
 AKA:    jobs-2000
 
-Seq:    11.47.3
+Seq:    11.51.3
 
 Level:  4 - Subsection
 

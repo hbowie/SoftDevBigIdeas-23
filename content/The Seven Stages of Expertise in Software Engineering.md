@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    page-jones-1998
 
-Seq:    11.68.1
+Seq:    11.72.1
 
 Level:  4 - Subsection
 
@@ -22,7 +22,7 @@ Publisher: Wayland Systems Inc.
 
 Pub Date: 1998
 
-Link:   https://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm
+Link:   https://www.dotkam.com/2007/05/07/the-seven-stages-of-expertise-in-software-engineering/
 
 Timestamp: 20230209224009
 

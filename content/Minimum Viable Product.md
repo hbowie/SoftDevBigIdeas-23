@@ -2,7 +2,7 @@ Title:  Minimum Viable Product
 
 Tags:   quotes
 
-Seq:    11.75.1.1
+Seq:    11.79.1.1
 
 Level:  5 - Detail
 

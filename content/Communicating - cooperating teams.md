@@ -6,7 +6,7 @@ Work Major Title: Agile Software Development
 
 AKA:    cockburn-2001
 
-Seq:    11.21.1
+Seq:    11.24.1
 
 Level:  4 - Subsection
 

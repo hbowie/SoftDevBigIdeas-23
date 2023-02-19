@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Tom DeMarco
 
-Seq:    11.25
+Seq:    11.28
 
 Level:  3 - Article
 

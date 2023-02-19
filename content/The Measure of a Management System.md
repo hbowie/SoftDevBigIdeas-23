@@ -6,7 +6,7 @@ Work Major Title: Better Software Magazine
 
 AKA:    highsmith-2007-11
 
-Seq:    11.41.4
+Seq:    11.45.4
 
 Level:  4 - Subsection
 

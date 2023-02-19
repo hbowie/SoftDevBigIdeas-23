@@ -2,7 +2,7 @@ Title:  Nothing Useful is Real
 
 Tags:   quotes
 
-Seq:    11.6.1.1
+Seq:    11.7.1.1
 
 Level:  5 - Detail
 

@@ -1,6 +1,6 @@
 Title:  No single silver bullet to exorcise our software demons
 
-Seq:    11.88.2.1
+Seq:    11.92.2.1
 
 Level:  5 - Detail
 

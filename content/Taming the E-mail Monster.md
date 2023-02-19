@@ -2,7 +2,7 @@ Title:  Taming the E-mail Monster
 
 Tags:   appendices
 
-Seq:    8.9
+Seq:    8.10
 
 Level:  3 - Article
 

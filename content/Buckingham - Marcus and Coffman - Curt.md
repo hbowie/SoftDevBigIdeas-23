@@ -2,9 +2,9 @@ Title:  Buckingham, Marcus and Coffman, Curt
 
 Tags:   authors
 
-AKA:    Buckingham, Marcus, Coffman and Curt
+AKA:    Marcus Buckingham and Curt Coffman
 
-Seq:    11.19
+Seq:    11.20
 
 Level:  3 - Article
 

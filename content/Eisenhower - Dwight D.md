@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Dwight D. Eisenhower
 
-Seq:    11.30
+Seq:    11.34
 
 Level:  3 - Article
 

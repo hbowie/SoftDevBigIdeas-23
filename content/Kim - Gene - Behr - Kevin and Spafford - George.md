@@ -2,16 +2,14 @@ Title:  Kim, Gene, Behr, Kevin and Spafford, George
 
 Tags:   authors
 
-AKA:    Kim, Gene, Behr, Kevin, Spafford and George
+AKA:    Gene Kim and Kevin Behr and George Spafford
 
-Seq:    11.52
+Seq:    11.56
 
 Level:  3 - Article
 
 Class:  author
 
-Link:   https://en.wikipedia.org/wiki/Kim_Gene_Behr_Kevin_Spafford_And_George
-
 Timestamp: 20230209212848
 
-Index:  Kim, Gene, Behr, Kevin and Spafford, George; 
+Index:  Kim, Gene; Behr, Kevin; Spafford, George; 

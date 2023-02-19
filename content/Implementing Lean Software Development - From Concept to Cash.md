@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    poppendieck-2006
 
-Seq:    11.72.2
+Seq:    11.76.2
 
 Level:  4 - Subsection
 

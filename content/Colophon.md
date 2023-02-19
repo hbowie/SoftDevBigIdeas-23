@@ -14,10 +14,7 @@ Body:
 
 The following tools were used in the making of this site. 
 
-* [Amazon][]
 * [BBEdit][]
-* [Bootstrap][]
-* [Byword][]
 * [Equity][] & [Concourse][] fonts
 * [Git][]
 * [GitHub][]
@@ -29,21 +26,21 @@ The following tools were used in the making of this site.
 * [Tower][]
 * [Transmit][]
 
-[amazon]: http://amzn.to/2bCdyyW
-[bbedit]: http://www.barebones.com/products/bbedit/
+[amazon]: https://amzn.to/2bCdyyW
+[bbedit]: https://www.barebones.com/products/bbedit/
 [bitbucket]: https://bitbucket.org/
-[bootstrap]: http://getbootstrap.com/
+[bootstrap]: https://getbootstrap.com/
 [byword]: https://bywordapp.com/
-[concourse]: http://practicaltypography.com/concourse.html
-[equity]: http://practicaltypography.com/equity.html
+[concourse]: https://practicaltypography.com/concourse.html
+[equity]: https://practicaltypography.com/equity.html
 [git]: https://git-scm.com/
 [github]: https://github.com
 [html5]: https://www.w3.org/TR/html5/
 [iawriter]: https://ia.net/writer
-[iwisdom]: http://www.powersurgepub.com/products/iwisdom/index.html
-[mac]: http://www.apple.com/mac/
+[iwisdom]: https://www.powersurgepub.com/products/iwisdom/index.html
+[mac]: https://www.apple.com/mac/
 [markdown]: https://daringfireball.net/projects/markdown/
-[notenik]: https://notenik.net/swift.html
-[PSTextMerge]: http://www.powersurgepub.com/products/pstextmerge/index.html
+[notenik]: https://notenik.app
+[PSTextMerge]: https://www.powersurgepub.com/products/pstextmerge/index.html
 [tower]: https://www.git-tower.com/
 [transmit]: https://panic.com/transmit/

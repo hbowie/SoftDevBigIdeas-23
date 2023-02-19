@@ -2,7 +2,7 @@ Title:  Design leadership
 
 Tags:   quotes
 
-Seq:    11.69.1.1
+Seq:    11.73.1.1
 
 Level:  5 - Detail
 

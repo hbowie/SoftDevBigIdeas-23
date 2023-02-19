@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    cockburn-2006
 
-Seq:    11.21.3
+Seq:    11.24.3
 
 Level:  4 - Subsection
 

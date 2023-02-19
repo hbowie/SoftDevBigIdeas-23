@@ -1,6 +1,6 @@
 Title:  The Beatles' Management Philosophy
 
-Seq:    11.47.5.1
+Seq:    11.51.5.1
 
 Level:  5 - Detail
 

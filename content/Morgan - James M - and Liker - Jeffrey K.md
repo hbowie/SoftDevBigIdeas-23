@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    James M. Morgan and Jeffrey K. Liker, Morgan and Liker
 
-Seq:    11.65
+Seq:    11.69
 
 Level:  3 - Article
 

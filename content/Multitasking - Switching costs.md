@@ -6,7 +6,7 @@ Work Major Title: American Psychological Association
 
 AKA:    apa-multitask-2006
 
-Seq:    11.2.1
+Seq:    11.3.1
 
 Level:  4 - Subsection
 

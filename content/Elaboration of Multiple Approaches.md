@@ -2,7 +2,7 @@ Title:  Elaboration of Multiple Approaches
 
 Tags:   quotes
 
-Seq:    11.23.1.1
+Seq:    11.26.1.1
 
 Level:  5 - Detail
 

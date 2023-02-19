@@ -4,13 +4,11 @@ Tags:   authors
 
 AKA:    Meilir Page-Jones
 
-Seq:    11.68
+Seq:    11.72
 
 Level:  3 - Article
 
 Class:  author
-
-Link:   https://en.wikipedia.org/wiki/Meilir_Page_Jones
 
 Timestamp: 20230209212849
 
