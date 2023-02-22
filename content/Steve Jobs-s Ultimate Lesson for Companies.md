@@ -6,7 +6,7 @@ Work Major Title: Harvard Business Review
 
 AKA:    jobs-2011
 
-Seq:    11.51.8
+Seq:    12.54.8
 
 Level:  4 - Subsection
 

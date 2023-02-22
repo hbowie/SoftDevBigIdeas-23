@@ -4,13 +4,13 @@ Tags:   authors
 
 AKA:    Dwight D. Eisenhower
 
-Seq:    11.34
+Seq:    12.35
 
 Level:  3 - Article
 
 Class:  author
 
-Link:   https://en.wikipedia.org/wiki/Dwight_Deisenhower
+Link:   https://en.wikipedia.org/wiki/Dwight_D._Eisenhower
 
 Timestamp: 20230209212848
 

@@ -1,6 +1,6 @@
 Title:  Good mission statements
 
-Seq:    11.61.1.1
+Seq:    12.65.1.1
 
 Level:  5 - Detail
 

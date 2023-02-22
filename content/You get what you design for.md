@@ -1,6 +1,6 @@
 Title:  You get what you design for
 
-Seq:    11.56.1.1
+Seq:    12.59.1.3
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Gene Kim and Kevin Behr and George Spafford]], *[[The Phoenix 
 Body:
 
 You get what you design for. Chester, your peer in Development, is spending all his cycles on features, instead of stability, security, scalability, manageability, operability, continuity, and all those other beautiful &#8216;ilities.&#8217; 
+

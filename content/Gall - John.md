@@ -4,13 +4,13 @@ Tags:   authors
 
 AKA:    John Gall
 
-Seq:    11.37
+Seq:    12.40
 
 Level:  3 - Article
 
 Class:  author
 
-Link:   https://en.wikipedia.org/wiki/John_Gall
+Link:   https://en.wikipedia.org/wiki/John_Gall_(author)
 
 Timestamp: 20230209212848
 

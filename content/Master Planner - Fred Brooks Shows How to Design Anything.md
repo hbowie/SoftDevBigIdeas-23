@@ -6,7 +6,7 @@ Work Major Title: Wired Magazine
 
 AKA:    brooks-2010
 
-Seq:    11.18.2
+Seq:    12.18.2
 
 Level:  4 - Subsection
 
@@ -18,7 +18,7 @@ Work Type: Interview
 
 Pub Date: Jul 2010
 
-Link:   https://www.wired.com/magazine/2010/07/ff_fred_brooks/
+Link:   https://www.wired.com/2010/07/ff-fred-brooks/
 
 Timestamp: 20230209224721
 

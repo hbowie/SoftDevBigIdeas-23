@@ -22,7 +22,7 @@ However, experience in multiple fields has shown repeatedly that many types of w
 
 Let's discuss what we mean by a self-organizing team.
 
-First of all, such a team should be formed using the ideas of decomposition, cohesion and loose coupling. In other words, the team should be of an appropriate size -- let's say 3 - 15 team members. And the team should contain all the skills needed to perform most of its work without having to draw resources from outside the team. And the sort of work typically assigned to the team should be of some consistent, coherent nature.
+First of all, such a team should be formed using the ideas of [[decomposition]], [[cohesion]] and [[loose coupling]]. In other words, the team should be of an appropriate size -- let's say 3 - 15 team members. And the team should contain all the skills needed to perform most of its work without having to draw resources from outside the team. And the sort of work typically assigned to the team should be of some consistent, coherent nature.
 
 Once formed in this way, the team should be given joint accountability for team goals and the code produced by the team.
 
@@ -34,36 +34,19 @@ Such a team will generally use daily team meetings -- often known as <a href="ht
 
 Such a team will also typically use some sort of highly visible task board -- either a physical board or an electronic equivalent -- so that progress towards team goals is always easily available to all team members.
 
-Such a team will also typically work to a common set of completion criteria for its coding tasks, often referred to as a "<a href="https://www.agilealliance.org/glossary/definition-of-done/" class="reflink" target="ref">Definition of Done</a>." Team members will then hold each other accountable to make sure that whey they say they are done with a task, that their work meets this DoD defined by the team.
+Such a team will also typically work to a common set of completion criteria for its coding tasks, often referred to as a [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/) Team members will then hold each other accountable to make sure that whey they say they are done with a task, that their work meets this DoD defined by the team.
 
 Progress of such a team, especially when delivering early and often, will generally be tracked using <a href="https://en.wikipedia.org/wiki/Burn_down_chart" class="reflink" target="ref">burn down charts</a>. Charts like these show the general progress of the team as a whole towards meeting its commitments for the current sprint, without getting bogged down in the details of who's working on what and actual vs. planned numbers for each individual task.
 
 The advantage of such a team is that, by leveraging the skills and wisdom of the team as a whole, and by leveraging peer-to-peer communication, the detailed work can be more quickly and effectively managed than could be done by the traditional hierarchical arrangement of communicating through a project manager.
 
-A self-organizing team also tends to produce higher levels of [developer engagement][engagement], since it tends to maximize feelings of purpose (meeting team goals), autonomy (freedom to accept team commitments and to move work and resources around to meet those commitments), and mastery (ability to complete challenging tasks on a frequent and regular basis).
-
-
-----
-
-<blockquote>
-<p>
-It&#8217;s no use saying, &#8216;We are doing our best.&#8217; You have got to succeed in doing what is necessary. </p>
-
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Winston_Churchill">Winston Churchill</a>
-</p>
-</blockquote>
+A self-organizing team also tends to produce higher levels of [[Increase Developer Engagement|developer engagement]], since it tends to maximize feelings of purpose (meeting team goals), autonomy (freedom to accept team commitments and to move work and resources around to meet those commitments), and mastery (ability to complete challenging tasks on a frequent and regular basis).
 
 ----
 
-<blockquote>
-<p>
-The vast majority of difficult, important human problems &#8212; both inside and outside organizations &#8212; are not solved by a swift, decisive stroke from someone at the top. What usually matters are careful, thoughtful, small, practical efforts by people working far from the limelight.</p>
+##### Words from Others on this Topic
 
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Joseph_L._Badaracco%2C_Jr.">Joseph L. Badaracco, Jr.</a> from the book <cite><a href="bibliography.html#badaracco-2002">Leading Quietly: An Unorthodox Guide to Doing the Right Thing</a></cite> Copyright &copy; 2002 by Joseph L. Badaracco, Jr
-</p>
-</blockquote>
+{:include-quote:Do what is necessary}
 
+{:include-quote:People working far from the limelight}
 
-[engagement]: increase-developer-engagement.html

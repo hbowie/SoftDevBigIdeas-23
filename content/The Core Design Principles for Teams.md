@@ -2,7 +2,7 @@ Title:  The Core Design Principles for Teams
 
 Tags:   appendices
 
-Seq:    8.2
+Seq:    8.3
 
 Level:  3 - Article
 

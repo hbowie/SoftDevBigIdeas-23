@@ -1,6 +1,6 @@
 Title:  Rigorous Inspections
 
-Seq:    11.40.1.1
+Seq:    12.43.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Glass, Robert L.]], *[[Facts and Fallacies of Software Enginee
 Body:
 
 Fact 37: Rigorous inspections can remove up to 90% of errors from a software product before the first test case is run.
+

@@ -2,9 +2,9 @@ Title:  Argyris, Chris and Schön, Donald
 
 Tags:   authors
 
-AKA:    Argyris, Chris, Schön and Donald
+AKA:    Chris Argyris and Donald Schön
 
-Seq:    11.4
+Seq:    12.4
 
 Level:  3 - Article
 

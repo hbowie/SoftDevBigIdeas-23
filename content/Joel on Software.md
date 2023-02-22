@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    spolsky-2004
 
-Seq:    11.86.1
+Seq:    12.90.1
 
 Level:  4 - Subsection
 

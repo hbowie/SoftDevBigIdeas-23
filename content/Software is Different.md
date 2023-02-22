@@ -62,7 +62,7 @@ Many developers today, for example, develop software that sits on top of an oper
 
 ### 7. Scale
 
-Watts Humphrey has made the point that a civil engineer, when considering the height of a structure, only has to worry about roughly two orders of magnitude difference between the smallest and the largest product he is likely to be called upon to design: that is, the tallest structure he is likely to work on is no more than roughly 100 times the size of the shortest structure.
+[[Watts Humphrey]] has made the point that a civil engineer, when considering the height of a structure, only has to worry about roughly two orders of magnitude difference between the smallest and the largest product he is likely to be called upon to design: that is, the tallest structure he is likely to work on is no more than roughly 100 times the size of the shortest structure.
 
 On the other hand, software developers in college start out learning to write individual programs of roughly 1000 lines -- but then, in the real world, are expected to work on projects developing more than a million lines of code: in other words, a difference of roughly three orders of magnitude.
 
@@ -70,11 +70,7 @@ Humphrey has gone on to suggest strongly that practices that work well at the lo
 
 ----
 
-<blockquote>
-<p>
-The desire to treat software more like its hardware siblings began in earnest in the 1960s. Equal treatment was one motivation, at least at the start, but it was also an effort to make programming a more structured discipline like hardware engineering. Looking back, [David] Sayre observed that the Bald Peak conference had the regrettable effect of beginning a management mentality that served to &#8220;rigidify&#8221; programming at IBM. In the early days, he recalled that programming at IBM had an informal Silicon Valley flavor, which tended to encourage innovation. By the late 1960s, the working environment had become much more regimented. The disciplines of hardware engineering fit uneasily in the more ethereal realm of software. &#8220;Software is a much more plastic object than hardware,&#8221; Sayre said. &#8220;You whip it up, squeeze it, and you can dream.&#8221;</p>
+##### Words from Others on this Topic
 
-<p class="bq-footer">
-<a href="http://en.wikipedia.org/wiki/Steve_Lohr">Steve Lohr</a> from the book <cite><a href="bibliography.html#lohr-2002">Go To</a></cite> Copyright &copy; 2001 by Steve Lohr
-</p>
-</blockquote>
+{:include-quote:Software is a plastic object}
+

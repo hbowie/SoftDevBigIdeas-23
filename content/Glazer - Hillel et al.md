@@ -2,9 +2,9 @@ Title:  Glazer, Hillel et al.
 
 Tags:   authors
 
-AKA:    Hillel et al. Glazer
+AKA:    Hillel Glazer et al.
 
-Seq:    11.41
+Seq:    12.44
 
 Level:  3 - Article
 

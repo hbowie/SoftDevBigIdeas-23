@@ -2,7 +2,7 @@ Title:  The Power of Diverse Teams
 
 Tags:   Diversity, Leadership, Music, Teams
 
-Seq:    8.6
+Seq:    8.8
 
 Level:  3 - Article
 

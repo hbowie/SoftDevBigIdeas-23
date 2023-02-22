@@ -35,7 +35,7 @@ Most organizations become stagnant and bureaucratic over time, spending more ene
 
 Leadership will generally be required to keep your organization progressing forward.
 
-Note that [delivering early and often][deliver] can help to [make these sorts of problems more visible][problems], since long cycle times can often serve to hide these sorts of issues.
+Note that [[Deliver Early and Often|delivering early and often]] can help to [[Make Problems Visible|make these sorts of problems more visible]], since long cycle times can often serve to hide these sorts of issues.
 
 
 

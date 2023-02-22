@@ -2,7 +2,7 @@ Title:  Adams, Ansel
 
 AKA:    Ansel Adams
 
-Seq:    11.2
+Seq:    12.2
 
 Level:  3 - Article
 

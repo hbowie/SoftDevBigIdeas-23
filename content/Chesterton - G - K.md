@@ -2,7 +2,7 @@ Title:  Chesterton, G. K.
 
 AKA:    G. K. Chesterton
 
-Seq:    11.23
+Seq:    12.23
 
 Level:  3 - Article
 

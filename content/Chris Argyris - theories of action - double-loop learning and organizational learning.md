@@ -6,7 +6,7 @@ Work Major Title: infed.org
 
 AKA:    smith-2013
 
-Seq:    11.85.1
+Seq:    12.89.1
 
 Level:  4 - Subsection
 

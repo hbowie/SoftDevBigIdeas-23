@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Kent Beck et al.
 
-Seq:    11.10
+Seq:    12.10
 
 Level:  3 - Article
 

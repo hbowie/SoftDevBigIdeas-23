@@ -2,7 +2,7 @@ Title:  American Psychological Association
 
 Tags:   authors
 
-Seq:    11.3
+Seq:    12.3
 
 Level:  3 - Article
 

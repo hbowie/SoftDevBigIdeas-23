@@ -1,6 +1,6 @@
 Title:  Making toast the American way
 
-Seq:    11.31.1.1
+Seq:    12.32.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[W. Edwards Deming]], "[[Quality Comes to City Hall]]", 1991
 Body:
 
 Let’s make toast the American way: I’ll burn, you scrape!
+

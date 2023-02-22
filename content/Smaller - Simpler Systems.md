@@ -1,6 +1,6 @@
 Title:  Smaller, Simpler Systems
 
-Seq:    11.25.1.1
+Seq:    12.26.1.2
 
 Level:  5 - Detail
 

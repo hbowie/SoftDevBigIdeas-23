@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    kim-et-al-2013
 
-Seq:    11.56.1
+Seq:    12.59.1
 
 Level:  4 - Subsection
 
@@ -19,6 +19,8 @@ Publisher: IT Revolution Press
 Pub Date: 2013
 
 Work ID: B00AZRBLHO
+
+Link:   https://amzn.to/3xIyfCl
 
 Timestamp: 20230209224009
 

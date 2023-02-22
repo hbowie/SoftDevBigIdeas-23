@@ -1,6 +1,6 @@
 Title:  A brilliant image of a fuzzy concept
 
-Seq:    11.2.0.1
+Seq:    12.2.0.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Ansel Adams]]
 Body:
 
 There is nothing worse than a brilliant image of a fuzzy concept.
+

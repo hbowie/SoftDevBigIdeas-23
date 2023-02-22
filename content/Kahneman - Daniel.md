@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Daniel Kahneman
 
-Seq:    11.53
+Seq:    12.56
 
 Level:  3 - Article
 

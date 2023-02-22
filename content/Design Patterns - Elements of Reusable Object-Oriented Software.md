@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    gamma-et-al-1994
 
-Seq:    11.38.1
+Seq:    12.41.1
 
 Level:  4 - Subsection
 

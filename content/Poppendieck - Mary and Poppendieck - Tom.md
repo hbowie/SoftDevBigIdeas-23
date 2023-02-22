@@ -2,16 +2,14 @@ Title:  Poppendieck, Mary and Poppendieck, Tom
 
 Tags:   authors
 
-AKA:    Poppendieck, Mary, Poppendieck and Tom
+AKA:    Mary and Tom Poppendieck
 
-Seq:    11.76
+Seq:    12.80
 
 Level:  3 - Article
 
 Class:  author
 
-Link:   https://en.wikipedia.org/wiki/Poppendieck_Mary_Poppendieck_And_Tom
-
 Timestamp: 20230209212849
 
-Index:  Poppendieck, Mary and Poppendieck, Tom; 
+Index:  Poppendieck, Mary; Poppendieck, Tom; 
