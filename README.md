@@ -39,6 +39,17 @@ The following tools are being used as part of this project.
 
 ## Tasks
 
+- [x] Setup and organize new project folder
+- [x] Copy existing content folder to new project folder
+- [x] Add appropriate metadata to content collection
+- [x] Import metadata from lists in old project
+- [x] Import bibliography and quotations
 - [x] Create new GitHub repo
-- [x] Add Appropriate Metadata
+- [x] Get existing content into the right sequence
+- [x] Review existing content
+	- [x] Add wikilinks to internal resources
+	- [x] Fix dead links
+	- [x] Import referenced Pagan Tuna posts
+	
+
 
