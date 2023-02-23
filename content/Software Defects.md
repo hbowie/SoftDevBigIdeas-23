@@ -2,7 +2,7 @@ Title:  Software Defects
 
 Tags:   Quality, Software Development
 
-Seq:    8.10
+Seq:    8.11
 
 Level:  3 - Article
 

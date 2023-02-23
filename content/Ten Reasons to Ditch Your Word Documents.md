@@ -2,7 +2,7 @@ Title:  Ten Reasons to Ditch Your Word Documents
 
 Tags:   appendices
 
-Seq:    8.13
+Seq:    8.14
 
 Level:  3 - Article
 

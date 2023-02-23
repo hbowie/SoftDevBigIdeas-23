@@ -2,7 +2,7 @@ Title:  Model Mania
 
 Tags:   Improvement
 
-Seq:    8.8
+Seq:    8.9
 
 Level:  3 - Article
 

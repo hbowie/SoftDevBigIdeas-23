@@ -30,11 +30,11 @@ Consider the following factors:
 
 	It's best to use warmer methods for the most critical exchanges of information.
 
-3. Customer communication: be sure to communicate regularly and proactively with your key project stakeholders, to avoid any surprises or misunderstandings. 
+3. Customer communication: be sure to communicate regularly and proactively with your key project stakeholders, to avoid any surprises or misunderstandings. For more on this topic, see the Pagan Tuna post, "[[Customer Communication]]".
 
-4. Document formats: Lightweight markup languages such as <a href="https://daringfireball.net/projects/markdown/" class="reflink" target="ref">Markdown</a> and Web content management systems such as <a href="https://en.wikipedia.org/wiki/Wiki" class="reflink" target="ref">wikis</a> offer significant advantages over the usual word processing alternatives. For more on this topic, see the appendix "[[Ten Reasons to Ditch Your Word Documents]]".
+4. Document formats: Lightweight markup languages such as <a href="https://daringfireball.net/projects/markdown/" class="reflink" target="ref">Markdown</a> and Web content management systems such as <a href="https://en.wikipedia.org/wiki/Wiki" class="reflink" target="ref">wikis</a> offer significant advantages over the usual word processing alternatives. For more on this topic, see the Pagan Tuna post,  "[[Ten Reasons to Ditch Your Word Documents]]".
 
-5. Storage and retrieval of project documents: many projects rely on PowerPoint presentations stored in multiple places, exchanged via e-mail, with no easy way to find the latest version of a particular piece of information when you need it. Instead, try to emulate a site like Wikipedia. For more on this topic, see the appendix "[[Lessons We (Should) Have Learned from the Web]]."
+5. Storage and retrieval of project documents: many projects rely on PowerPoint presentations stored in multiple places, exchanged via e-mail, with no easy way to find the latest version of a particular piece of information when you need it. Instead, try to emulate a site like Wikipedia. For more on this topic, see the Pagan Tuna post,  "[[Lessons We (Should) Have Learned from the Web]]."
 
 6. Effective use of E-mail: this can be an effective means of communication, but it is often used poorly. For more on this topic, see the appendix "[[Taming the E–mail Monster]]."
 

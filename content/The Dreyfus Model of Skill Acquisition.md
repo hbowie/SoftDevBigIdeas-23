@@ -2,7 +2,7 @@ Title:  The Dreyfus Model of Skill Acquisition
 
 Tags:   PaganTuna
 
-Seq:    8.4
+Seq:    8.5
 
 Level:  3 - Article
 

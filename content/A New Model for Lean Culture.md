@@ -2,7 +2,7 @@ Title:  A New Model for Lean Culture
 
 Tags:   Lean and Agile
 
-Seq:    8.7
+Seq:    8.8
 
 Level:  3 - Article
 
@@ -185,4 +185,3 @@ This new cultural model seems helpful, in that it is simple, intuitive and easy 
 [Toyota]: https://en.wikipedia.org/wiki/Toyota
 
 [Toyota Production System]: https://en.wikipedia.org/wiki/Toyota_production_system
-

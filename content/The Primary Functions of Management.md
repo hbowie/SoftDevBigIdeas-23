@@ -2,7 +2,7 @@ Title:  The Primary Functions of Management
 
 Tags:   Leadership
 
-Seq:    8.9
+Seq:    8.10
 
 Level:  3 - Article
 

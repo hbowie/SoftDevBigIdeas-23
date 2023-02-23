@@ -2,7 +2,7 @@ Title:  EVM for Mere Mortals
 
 Tags:   Metrics
 
-Seq:    8.4
+Seq:    8.5
 
 Level:  3 - Article
 

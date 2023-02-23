@@ -8,6 +8,8 @@ Idea Number: 22
 
 Level:  3 - Article
 
+Class:  article
+
 Work Type: Book
 
 Timestamp: 20160508221220

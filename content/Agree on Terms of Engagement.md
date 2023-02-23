@@ -6,7 +6,7 @@ Idea Number: 28
 
 Level:  3 - Article
 
-Class:  section
+Class:  article
 
 Timestamp: 20160615175844
 
