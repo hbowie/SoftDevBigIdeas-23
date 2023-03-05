@@ -2,7 +2,7 @@ Title:  Show Rather than Tell
 
 Tags:   ideas
 
-Seq:    2.14
+Seq:    2.15
 
 Idea Number: 15
 
@@ -35,4 +35,3 @@ Iterative development, on the other hand, means that a partially completed featu
 ##### Words from Others on this Topic
 
 {:include-quote:Design by focus groups}
-

@@ -2,7 +2,7 @@ Title:  What's Not Done is as Important as What's Done
 
 Tags:   ideas
 
-Seq:    2.18
+Seq:    2.19
 
 Idea Number: 19
 
@@ -49,4 +49,3 @@ In order to exercise this last option, of course, you will need some means of es
 On the other hand, if you are delivering new software every 1 - 4 weeks, in a regular, repeatable cadence, then it will be much easier to get agreement on what is to be included in the next sprint, since other items are not being dropped forever, but only left on the backlog for consideration again in a few more weeks.
 
 At some point, of course, you will have implemented the most valuable features, and will only have low-value features left in the backlog. At this point, your [[Govern Wisely|governance]] process should kick in, and divert your available investment dollars to some other project, so that your organization can continue to maximize the [[Create Value for Customers|value being created for your customers]].
-

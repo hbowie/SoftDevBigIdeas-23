@@ -123,7 +123,7 @@ Let me return to my original assertion:
 
 If this is true, then you need to ask yourself: what is your organization doing today to create, nurture and sustain these sorts of teams?
 
-For more on this topic, see the appendix, &ldquo;[[The Power of Diverse Teams]].&rdquo;
+For more on this topic, see the Pagan Tuna post &ldquo;[[The Power of Diverse Teams]].&rdquo;
 
 ----
 

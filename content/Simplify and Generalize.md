@@ -4,7 +4,7 @@ Tags:   ideas
 
 AKA:    simplify
 
-Seq:    2.7
+Seq:    2.8
 
 Idea Number: 8
 
@@ -39,4 +39,3 @@ To counteract this growing complexity, the developer must look for similar patte
 {:include-quote:A beautiful solution that works}
 
 {:include-quote:Simple things should be simple}
-

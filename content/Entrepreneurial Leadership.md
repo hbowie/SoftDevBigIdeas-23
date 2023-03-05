@@ -38,7 +38,7 @@ On the other hand, the Entrepreneurial Path requires:
 
 Let's look at each of these three areas in more detail.
 
-* **Greatness** vs. Maintenance: Steve Jobs used the phrase "insanely great" to describe Apple products. By taking the path of greatness, a leader sets a high bar for his development team, as well as providing them with a strong sense of purpose. For more on this topic, see the appendix, &ldquo;[[Thinking Differently about Perfectionism]].&rdquo;
+* **Greatness** vs. Maintenance: Steve Jobs used the phrase "insanely great" to describe Apple products. By taking the path of greatness, a leader sets a high bar for his development team, as well as providing them with a strong sense of purpose. For more on this topic, see the Pagan Tuna post &ldquo;[[Thinking Differently about Perfectionism]].&rdquo;
 
 * **Courage** vs. Caution: Developing a new software product always involves some significant level of risk. A leader should certainly not be foolhardy, but neither should his goal be to avoid all risk, for in so doing he is not likely to achieve anything of lasting value.
 
@@ -58,6 +58,6 @@ And, in his extensive [[The Shape of Things to Come|article about Jony Ive]] in 
 
 {:include-quote-body:Design leadership}
 
-For more on the topic of entrepreneurial leadership, see the appendix, &ldquo;[[The Watery Ketchup Stops Here]].&rdquo;
+For more on the topic of entrepreneurial leadership, see the Pagan Tuna post &ldquo;[[The Watery Ketchup Stops Here]].&rdquo;
 
 

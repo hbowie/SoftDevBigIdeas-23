@@ -4,7 +4,7 @@ Tags:   ideas
 
 AKA:    communication
 
-Seq:    2.11
+Seq:    2.12
 
 Idea Number: 12
 
@@ -36,7 +36,7 @@ Consider the following factors:
 
 5. Storage and retrieval of project documents: many projects rely on PowerPoint presentations stored in multiple places, exchanged via e-mail, with no easy way to find the latest version of a particular piece of information when you need it. Instead, try to emulate a site like Wikipedia. For more on this topic, see the Pagan Tuna post,  "[[Lessons We (Should) Have Learned from the Web]]."
 
-6. Effective use of E-mail: this can be an effective means of communication, but it is often used poorly. For more on this topic, see the appendix "[[Taming the E–mail Monster]]."
+6. Effective use of E-mail: this can be an effective means of communication, but it is often used poorly. For more on this topic, see the Pagan Tuna post "[[Taming the E–mail Monster]]."
 
 ----
 

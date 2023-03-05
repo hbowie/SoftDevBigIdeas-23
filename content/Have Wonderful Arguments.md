@@ -2,7 +2,7 @@ Title:  Have Wonderful Arguments
 
 Tags:   ideas
 
-Seq:    2.13
+Seq:    2.14
 
 Idea Number: 14
 

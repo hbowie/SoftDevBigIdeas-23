@@ -2,7 +2,7 @@ Title:  Decomposition
 
 Tags:   ideas
 
-Seq:    2.8
+Seq:    2.9
 
 Idea Number: 9
 
@@ -37,5 +37,3 @@ Note, however, that detailed decomposition of requirements need not be done init
 ##### Words from Others on this Topic
 
 {:include-quote:Bulleted List of Requirements}
-
-

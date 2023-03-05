@@ -1,6 +1,6 @@
 Title:  Acknowledge Uncertainty
 
-Seq:    2.1
+Seq:    2.2
 
 Idea Number: 2
 

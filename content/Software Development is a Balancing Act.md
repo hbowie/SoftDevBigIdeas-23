@@ -4,7 +4,7 @@ Tags:   ideas
 
 AKA:    balance
 
-Seq:    2.3
+Seq:    2.4
 
 Idea Number: 4
 

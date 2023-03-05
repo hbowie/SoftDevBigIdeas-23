@@ -2,7 +2,7 @@ Title:  The Inconvenient Nature of Software Development
 
 Tags:   ideas
 
-Seq:    2.2
+Seq:    2.3
 
 Idea Number: 3
 

@@ -2,7 +2,7 @@ Title:  Shorten Feedback Loops
 
 Tags:   ideas
 
-Seq:    2.16
+Seq:    2.17
 
 Idea Number: 17
 
@@ -69,5 +69,3 @@ So take results from these sorts of reviews with a grain of salt. You may get so
 ##### Words from Others on this Topic
 
 {:include-quote:Learning from direct experience}
-
-

@@ -2,7 +2,7 @@ Title:  Use Things Already Known to Work
 
 Tags:   ideas
 
-Seq:    2.6
+Seq:    2.7
 
 Idea Number: 7
 
@@ -47,4 +47,3 @@ As with [[quality]], it often requires some forethought and extra effort to indu
 {:include-quote:Vocabulary of Design patterns}
 
 {:include-quote:Exhaustive List of problem-solving techniques}
-

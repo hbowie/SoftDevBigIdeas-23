@@ -13,9 +13,7 @@
     --highlight-color: DimGray
   }
 }
-a {
-    color: var(--link-color);
-}
+
 .search-results {
     background-color: var(--highlight-color);
 }
@@ -123,3 +121,76 @@ p.notenik-calendar-day-contents {
 
 img { max-width: 100%; border: 4px solid gray; }
 body { max-width: 33em; margin: 0 auto; float: none; }
+
+a:link {
+}
+
+a:visited {
+}
+
+a:focus {
+}
+
+a:hover {
+	font-weight: bolder;
+}
+
+a:active {
+}
+
+a.wiki-link {
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+
+a.wiki-link:link {
+}
+
+a.wiki-link:visited {
+}
+
+a.wiki-link:focus {
+}
+
+a.wiki-link:hover {
+	font-weight: bolder;
+}
+
+a.wiki-link:active {
+}
+
+a.ext-link {
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+
+a.ext-link:link {
+}
+
+a.ext-link:visited {
+}
+
+a.ext-link:focus {
+}
+
+a.ext-link:hover {
+	font-weight: bolder;
+}
+
+a.ext-link:active {
+}
+
+a.nav-link:link {
+	text-decoration: none;
+	border-bottom: none;
+}
+
+a.nav-link:visited {
+}
+a.nav-link:focus {
+}
+a.nav-link:hover {
+	font-weight: bolder;
+}
+a.nav-link:active {
+}

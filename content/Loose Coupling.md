@@ -2,7 +2,7 @@ Title:  Loose Coupling
 
 Tags:   ideas
 
-Seq:    2.10
+Seq:    2.11
 
 Idea Number: 11
 
@@ -36,6 +36,4 @@ When decomposing the staff of developers needed on large projects, the idea of l
 
 This admonition, for both software interfaces and human ones, encourages us to stick to the straight and narrow in our own behavior, but be tolerant of minor quirks in others.
 
-In other words, minimize the chances that minor changes, or small misbehaviors, from a second group will cause a failure of the first group. 
-
-
+In other words, minimize the chances that minor changes, or small misbehaviors, from a second group will cause a failure of the first group.

@@ -1,10 +1,10 @@
 Title:  Introduction
 
-Seq:    1.1
+Seq:    1.2
 
 Level:  3 - Article
 
-Class:  article
+Class:  front
 
 Timestamp: 20160503150528
 
@@ -34,7 +34,11 @@ I should warn readers up front that those who align themselves with a particular
 
 My intended audience for this work includes both those relatively new to the field of software development, as well as those who have been practicing this trade for many years. For the former, I hope it may provide a concise introduction to some of these ideas and, for the latter, I hope it may provide a useful reminder. In both cases, my intent is to offer a fairly complete, concise and balanced list of the ideas that bear careful consideration in any software development effort.
 
-Software development is one of the riskiest human activities yet conceived: projects are often late or over budget, frequently canceled, and in many cases fail to find an appreciative audience even when they do reach a state of completion. Nothing I offer on this site can guarantee the success of your next effort, but I do think that sincere and thoughtful consideration of the ideas presented here can increase your chances of success.
+Although I think anyone involved in software development, in any role, can benefit from the ideas contained in this work, they are undoubtedly most important for anyone involved in some sort of leadership or consulting role: architect, lead developer, project manager, line manager, department manager, customer manager, coach, program office representative, and so on. 
+
+And while many of these ideas can be useful to any developer, working on any sort of project, they will probably be most helpful for those involved in projects, and project teams, of some size. 
+
+Software development is one of the riskiest human activities yet conceived: projects are often late or over budget, frequently canceled, and in many cases fail to find an appreciative audience even when they do reach a state of completion. Nothing I offer in this work can guarantee the success of your next effort, but I do think that sincere and thoughtful consideration of the ideas presented here can increase your chances of success.
 
 In any case, though, I'd be happy to hear your feedback on the site. Correspondence may be directed to [bigkahuna@pagantuna.com](mailto:bigkahuna@pagantuna.com).
 

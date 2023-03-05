@@ -1,10 +1,10 @@
 Title:  Copyrights
 
-Seq:    9.2
+Seq:    1.1
 
 Level:  3 - Article
 
-Class:  article
+Class:  front
 
 Timestamp: 20160815233226
 
@@ -12,8 +12,14 @@ Index:  copyright;
 
 Body:
 
-The bulk of <cite>The Big Ideas in Software Development</cite> by [Herb Bowie](https://hbowie.net/about.html) is copyright &copy; 2009 - 2023 and licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+The original writings that make up the bulk of <cite>The Big Ideas in Software Development</cite> are copyright &copy; 2009 - 2023 [Herb Bowie](https://hbowie.net/about.html) and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Throughout this work I frequently quote from other sources. My intent in so doing is never to damage the original copyright holder, but simply to make fair use of this material, for the purposes of criticism and analysis. In fact I provide liberal links from this site to the original sources. My consistent purpose is to promote the original works, and influence my readers to purchase them wherever possible.
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></p>
 
-If any author or copyright holder of any material used on this site feels that I am doing so unfairly, then please contact me as soon as possible via e-mail at <a href="mailto:bigkahuna@pagantuna.com">bigkahuna@pagantuna.com</a> and I will do my best to ensure fair use of the original material.
+This work contains many brief quotations from other sources. These words remain protected by the rights specified by their original copyright holders. 
+
+The intent in quoting from others is never to damage the original authors or publishers, but simply to make fair use of this material, for the purposes of criticism and analysis. In fact liberal links are provided to the original sources. My consistent purpose is to promote the original works, and influence readers to purchase them wherever possible.
+
+If any author or copyright holder of any material used within feels that I am doing so unfairly, then please contact me as soon as possible via e-mail at [bigkahuna@pagantuna.com](mailto:bigkahuna@pagantuna.com) and I will do my best to ensure fair use of the original material.
+
+By the way, some of the links to the original works are affiliate links that could, in theory, eventually provide me with some token income. The prospect of someday receiving this sort of monetary renumeration, however, has in no way influenced my selection of words appearing herein. 

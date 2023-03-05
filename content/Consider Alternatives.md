@@ -2,7 +2,7 @@ Title:  Consider Alternatives
 
 Tags:   ideas
 
-Seq:    2.12
+Seq:    2.13
 
 Idea Number: 13
 
@@ -35,6 +35,3 @@ Of course, any consideration of alternatives will require [[Have Wonderful Argum
 ##### Words from Others on this Topic
 
 {:include-quote:Elaboration of Multiple Approaches}
-
-
-

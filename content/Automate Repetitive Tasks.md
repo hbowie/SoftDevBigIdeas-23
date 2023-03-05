@@ -2,7 +2,7 @@ Title:  Automate Repetitive Tasks
 
 Tags:   ideas
 
-Seq:    2.5
+Seq:    2.6
 
 Idea Number: 6
 
@@ -25,4 +25,3 @@ This idea should be applied to the product being developed, to help the customer
 As technology advances, new frontiers often open up to this idea, as with the practice of treating <a href="https://en.wikipedia.org/wiki/Infrastructure_as_Code" class="reflink" target="ref">Infrastructure as Code</a>.
 
 When software developers combine this idea with the idea to [[Use Things Already Known to Work]], and then apply these ideas to their own tasks, it results in the principle <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself" class="reflink" target="ref">Don't repeat yourself</a>, abbreviated as DRY.
-

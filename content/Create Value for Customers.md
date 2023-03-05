@@ -1,6 +1,6 @@
 Title:  Create Value for Customers
 
-Seq:    2.4
+Seq:    2.5
 
 Idea Number: 5
 

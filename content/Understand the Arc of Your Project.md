@@ -2,7 +2,7 @@ Title:  Understand the Arc of Your Project
 
 Tags:   ideas
 
-Seq:    2.17
+Seq:    2.18
 
 Idea Number: 18
 
@@ -40,7 +40,7 @@ The Agile approach, on the other hand, often suffers because it assumes too blit
 
 Unfortunately, many software development shops tend to cycle back and forth between these two approaches, favoring one or the other based on whichever one most recently yielded disappointing results. And a series of project failures based on both approaches often leaves in its wake two teams of firmly entrenched methodology advocates, endlessly battling over which of their approaches represents the truth and the light.
 
-Models that try to get the best of both worlds are now commonly referred to as "scaled agile." Two such examples are Dean Leffingwell's <a href="http://www.scaledagileframework.com/" class="reflink" target="ref">Scaled Agile Framework</a> (SAFe) and Scott Ambler's [Disciplined Agile Delivery](https://en.wikipedia.org/wiki/Disciplined_agile_delivery) (DAD) model. All of these scaled agile approaches have something to offer, and can help an organization move beyond the endless Agile vs. Traditional debates. For more on this topic, see the appendix "[[Benefits of the Scaled Agile Framework]]."
+Models that try to get the best of both worlds are now commonly referred to as "scaled agile." Two such examples are Dean Leffingwell's <a href="http://www.scaledagileframework.com/" class="reflink" target="ref">Scaled Agile Framework</a> (SAFe) and Scott Ambler's [Disciplined Agile Delivery](https://en.wikipedia.org/wiki/Disciplined_agile_delivery) (DAD) model. All of these scaled agile approaches have something to offer, and can help an organization move beyond the endless Agile vs. Traditional debates. For more on this topic, see the Pagan Tuna post "[[Benefits of the Scaled Agile Framework]]."
 
 However something important often gets lost in all of these attempts to reduce the reality of software development into the artificial confines of one model or another: the overall arc of your project.
 
@@ -115,4 +115,3 @@ If we step back and look at the overall arc of the project, though, proceeding t
 ##### Words from Others on this Topic
 
 {:include-quote:Decision Time vs. Execution Time}
-

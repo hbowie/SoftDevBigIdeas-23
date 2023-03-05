@@ -1,6 +1,6 @@
 Title:  Plan-Do-Check-Act
 
-Seq:    2.15
+Seq:    2.16
 
 Idea Number: 16
 
