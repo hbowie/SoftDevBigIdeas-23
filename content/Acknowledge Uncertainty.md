@@ -18,7 +18,7 @@ We humans often feel a tendency to portray ourselves as knowledgable, competent 
 
 However, there are situations in which we are none of these, and feigning certainty in these situations is not likely to lead to positive outcomes. 
 
-Dan Snowden's <a href="https://en.wikipedia.org/wiki/Cynefin_framework" target="ref">Cynefin framework</a> offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. 
+Dan Snowden's [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) offers a useful guide to differing approaches that are appropriate for situations with varying degrees of certainty. 
 
 <p><a href="http://cognitive-edge.com/" target="ref"><img alt="Cynefin Model" src="images/cynefin-model.png"></img></a></p>
 
@@ -42,7 +42,7 @@ Another way to think about these four categories would be to use the following t
 
 * Crisis -- In crisis mode, something unexpected has happened, and there is no opportunity for analysis or experimentation -- immediate action is necessary. For example, your new system has been deployed for a week, and then suddenly crashes, for no obvious reason. In a situation like this, clearly someone needs to take charge and begin taking action without the luxury of waiting for much analysis or experimentation. 
 
-From a <a href="https://en.wikipedia.org/wiki/Knowledge_management" target="ref">Knowledge Management</a> perspective, it is useful to think about gradually moving particular situations down this scale, towards greater degrees of certainty. Once past an immediate crisis, then experimentation may be used, and once the results of experiments are known, then expert knowledge may be built, and once all possibilities have been categorized, then procedures may be written, or perhaps even automated, to deal with similar situations in the future. 
+From a [Knowledge Management](https://en.wikipedia.org/wiki/Knowledge_management) perspective, it is useful to think about gradually moving particular situations down this scale, towards greater degrees of certainty. Once past an immediate crisis, then experimentation may be used, and once the results of experiments are known, then expert knowledge may be built, and once all possibilities have been categorized, then procedures may be written, or perhaps even automated, to deal with similar situations in the future. 
 
 On software development projects, it is critically important for everyone, but especially leaders, to acknowledge a legitimate spectrum of uncertainty, and to be able to draw from a palette of differing approaches to deal with these varying situations. 
 

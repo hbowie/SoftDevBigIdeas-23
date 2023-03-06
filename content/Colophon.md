@@ -15,7 +15,7 @@ Body:
 The following tools were used in the making of this site. 
 
 * [BBEdit][]
-* [Equity][] & [Concourse][] fonts
+* [Fonts from Matthew Butterick][mbfonts]
 * [Git][]
 * [GitHub][]
 * [HTML5][]
@@ -40,6 +40,7 @@ The following tools were used in the making of this site.
 [iwisdom]: https://www.powersurgepub.com/products/iwisdom/index.html
 [mac]: https://www.apple.com/mac/
 [markdown]: https://daringfireball.net/projects/markdown/
+[mbfonts]: https://mbtype.com
 [notenik]: https://notenik.app
 [PSTextMerge]: https://www.powersurgepub.com/products/pstextmerge/index.html
 [tower]: https://www.git-tower.com/

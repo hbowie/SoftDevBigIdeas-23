@@ -20,6 +20,6 @@ This work contains many brief quotations from other sources. These words remain 
 
 The intent in quoting from others is never to damage the original authors or publishers, but simply to make fair use of this material, for the purposes of criticism and analysis. In fact liberal links are provided to the original sources. My consistent purpose is to promote the original works, and influence readers to purchase them wherever possible.
 
-If any author or copyright holder of any material used within feels that I am doing so unfairly, then please contact me as soon as possible via e-mail at [bigkahuna@pagantuna.com](mailto:bigkahuna@pagantuna.com) and I will do my best to ensure fair use of the original material.
+If any author or copyright holder of any material used within feels that I am doing so unfairly, then please contact me as soon as possible via e-mail at [author@softdevbigideas.com](mailto:author@softdevbigideas.com) and I will do my best to ensure fair use of the original material.
 
-By the way, some of the links to the original works are affiliate links that could, in theory, eventually provide me with some token income. The prospect of someday receiving this sort of monetary renumeration, however, has in no way influenced my selection of words appearing herein. 
+By the way, some of the links to the original works are affiliate links that could, in theory, eventually provide me with some token income. The prospect of someday receiving this sort of monetary renumeration, however, has in no way influenced my selection of words appearing herein.

@@ -10,7 +10,7 @@ Timestamp: 20230223195046
 
 Body:
 
-Before diving into the first ideas themselves, let me say a few words about the overall structure of the work. 
+Before diving into the ideas themselves, let me say a few words about the overall structure of the work. 
 
 The bulk of the work consists of 52 *Big Ideas*.
 
@@ -31,6 +31,6 @@ Following the presentation of the ideas, the next section contains [[Pagan Tuna 
 
 The [[Reference]] section contains info about the author, a glossary and a colophon. 
 
-This is followed by a section called [[Finding Stuff]], which contains a number of pages providing various ways of finding particular items of interest and navigating to them. 
+This is followed by a [[Navigation]] section, which offers a number of ways in which the reader may navigate directly to a particular topic of interest. 
 
 The final secion is the [[Bibliography]], which is quite extensive, and so is placed at the very end of the work so as not to obscure other content by virtue of its sheer bulk.

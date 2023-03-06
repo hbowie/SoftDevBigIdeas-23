@@ -1,0 +1,10 @@
+module	action	modifier	object	value
+input	set		xpltags	false
+input	set		dirdepth	1
+input	open	notenik-defined		/Users/hbowie/Sites/SoftDevBigIdeas-23/content
+filter	clear			
+filter	add	eq	Seq	
+filter	set		params	
+template	webroot			/Users/hbowie/Sites/SoftDevBigIdeas-23/web
+template	open			/Users/hbowie/Sites/SoftDevBigIdeas-23/factory/templates/index-page-template.html
+template	generate			

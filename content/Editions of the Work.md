@@ -1,4 +1,4 @@
-Title:  Forms of the Work
+Title:  Editions of the Work
 
 Seq:    1.4
 
@@ -10,13 +10,13 @@ Timestamp: 20230224195928
 
 Body:
 
-*The Big Ideas in Software Development* is a *book*, in the sense that it is:
+*The Big Ideas in Software Development* is a book, in the sense that it is:
 
 + a written work,
 + of significant length,
 + focused on a particular topic, 
 + of some enduring interest and relevance,
-+ organized into the usual parts found in a book.
++ organized into the usual parts found in a book: introduction, sections, chapters, bibliography, index, and so on .
 
 However, unlike most books, this one is meant to take full advantage of the open web, and so is not offered exclusively, or even primarily, in the traditional printed form. 
 
