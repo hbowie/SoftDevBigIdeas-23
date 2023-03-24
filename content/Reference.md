@@ -12,5 +12,5 @@ Index:  reference; index;
 
 Body:
 
-A bibliography, a glossary, and various indices to the site's content.
+Some info about the author, a glossary, and a list of the tools used to create this work. 
 

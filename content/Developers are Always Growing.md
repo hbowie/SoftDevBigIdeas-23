@@ -22,7 +22,7 @@ First, it further explains why [[Developers Are Not Interchangeable]].
 
 Second, it provides an avenue for developers to pursue mastery, one of the three essential elements for [[Increase Developer Engagement|developer engagement]]. (if you have a developer who is not growing, but is simply doing the same things they have been doing for some time, and doing them at the same level, then that is a problem that needs to be corrected, for this invariably means that such a developer has disengaged from his or her craft.)
 
-Third, if we accept the <a href="https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition" class="reflink" target="ref">Dreyfus Model of Skill Acquisition</a>, this idea helps us understand why developers at different levels have completely different needs and tolerances for prescriptive organizational rules. For more on this topic, see the Pagan Tuna post, &ldquo;[[The Dreyfus Model of Skill Acquisition]].&rdquo;
+Third, if we accept the [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), this idea helps us understand why developers at different levels have completely different needs and tolerances for prescriptive organizational rules. For more on this topic, see the Pagan Tuna post, &ldquo;[[The Dreyfus Model of Skill Acquisition]].&rdquo;
 
 Fourth, and perhaps most profoundly, the implication for an organization is that the purpose of each new work assignment is not just to get the work done, but to help the assigned developers further their growth. In essence, this means that, for each development project, you have two goals to think about: a new or improved piece of software, and an improved set of software developers.
 

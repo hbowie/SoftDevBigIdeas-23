@@ -12,8 +12,6 @@ Timestamp: 20230217233540
 
 Body:
 
-# Software Defects
-
 Some of the most troublesome topics in software development are those surrounding defects:
 
 * Why do defects happen?

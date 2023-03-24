@@ -10,11 +10,9 @@ Level:  3 - Article
 
 Class:  article
 
-Work Type: Book
-
 Timestamp: 20160508221220
 
-Index:  Apple; EVM; Earned Value Management; Gretzky, Wayne; Humphrey, Watts; Jobs, Steve; MR; Management Reserve; OpenDoc; PBR (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); Plan-Build-Run Model (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); ROM estimates; Shark Tank; competitive differentiation; death march; governance; progress; puck; repeatable process; strategy; venture capitalists; 
+Index:  Apple; EVM; Earned Value Management; Gretzky, Wayne; Humphrey, Watts; Jobs, Steve; MR; Management Reserve; OpenDoc; PBR (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); Plan-Build-Run Model (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); ROM estimates; Shark Tank; competitive differentiation; death march; governance; progress; puck; repeatable process; strategy; venture capitalists;
 
 Body:
 
@@ -30,7 +28,7 @@ If stakeholder expectations are unrealistic, then now is the time to confront th
 
 You could do worse than to emulate Steve Jobs. When he returned to Apple in 1997, he commented that the company had lots of great engineers, but was suffering from poor management, and immediately began to cancel several large projects, such as <a href="https://en.wikipedia.org/wiki/OpenDoc" class="reflink" target="ref">OpenDoc</a>.
 
-If your organization has many different software development efforts, and if you are having a hard time carving out dollars for new development, then it may be time to adopt a <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/using-a-plan-build-run-organizational-model-to-drive-it-infrastructure-objectives" class="reflink" target="ref">Plan-Build-Run (PBR)</a> model. In such a model, the Plan function is responsible for identifying, prioritizing and funding new projects, the Build function is responsible for software development, and the Run function is responsible for keeping existing systems operational. This is a drastic measure, and can negatively impact synergy between these three different functions for a single product tower, but the benefits may be worth it, if you need to squeeze dollars out of maintenance functions and achieve greater strategic focus in your development efforts. 
+If your organization has many different software development efforts, and if you are having a hard time carving out dollars for new development, then it may be time to adopt a <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/using-a-plan-build-run-organizational-model-to-drive-it-infrastructure-objectives" class="reflink" target="ref">Plan-Build-Run (PBR)</a> model. In such a model, the Plan function is responsible for identifying, prioritizing and funding new projects, the Build function is responsible for software development, and the Run function is responsible for keeping existing systems operational. This is a drastic measure, and can negatively impact synergy between these three different functions for a single product tower, but the benefits may be worth it, if you need to squeeze dollars out of maintenance functions and achieve greater strategic focus in your development efforts.
 
 Many <a href="http://en.wikipedia.org/wiki/Corporate_governance_of_information_technology" class="reflink" target="ref">IT governance</a> functions operate like bankers: they look at the estimated investment requirements, the anticipated returns, and the resulting hockey stick chart, and decide to fund or not to fund -- as if these were the only relevant factors.
 
