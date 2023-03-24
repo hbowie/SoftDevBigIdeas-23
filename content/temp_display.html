@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Bibliography</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>
+:root {
+    color-scheme: light dark;
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --link-color: Blue;
+    --link-hover-color: Blue;
+    --background-hover-color: #f0f0f0;
+    --link-visited-color: Purple;
+    --link-active-color: Red;
+    --background-active-color: #e0e0e0;
+    --highlight-color: Gainsboro
+}
+a.ext-link::after {
+    content: "";
+    width: 0.9em;
+    height: 0.9em;
+    margin-left: 0.2em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+}
+@media screen and (prefers-color-scheme: dark) { 
+  :root {
+    --background-color: #000000;
+    --text-color: #F0F0F0;
+    --link-color: #93d5ff;
+    --link-hover-color: #94d8ff;
+    --background-hover-color: #282828;
+    --link-visited-color: #cab7ff;
+    --link-active-color: #94d8ff;
+    --background-active-color: #363636;
+    --highlight-color: DimGray
+  }
+    a.ext-link::after {
+        content: "";
+        width: 0.9em;
+        height: 0.9em;
+        margin-left: 0.2em;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' stroke='%23F0F0F0' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: inline-block;
+    }
+}
+a {
+    color: var(--link-color);
+}
+a:focus {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:hover {
+    color: var(--link-hover-color);
+    background: var(--background-hover-color);
+}
+a:active {
+    color: var(--link-active-color);
+    background: var(--background-active-color);
+}
+.search-results {
+    background-color: var(--highlight-color);
+}
+body {
+  tab-size: 4;
+  margin: 1em;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.45;
+font-family: "Heliotrope 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14pt;
+}
+p {
+    margin-top: 0.2em;
+    margin-bottom: 0.7em;
+}
+blockquote {
+  border-left: 0.4em solid #999;
+  margin-left: 0;
+  padding-left: 1em;
+}
+figure {
+  margin-left: 0.2em;
+  padding-left: 0.2em;
+}
+table, th, td {
+  border: 2px solid gray;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 0.7em;
+}
+th, td {
+  padding: 6px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+li { margin-top: 0.2em; margin-bottom: 0.2em; }
+ul.checklist { list-style-type: none; }
+ul.tags-list { list-style-type: none; }
+ul.tags-cloud {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 2.5rem;
+}
+ul.tags-cloud a {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--highlight-color);
+  padding: 2px 12px 2px 12px;
+  margin: 10px 10px 10px 10px;
+  min-width: 40px;
+  text-align: center;
+}
+figure.notenik-quote-attrib {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+figure.notenik-quote-attrib blockquote {
+  border-left: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+figure.notenik-quote-attrib figcaption {
+    text-align: right;
+}
+ol.notenik-biblio-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+ol.notenik-biblio-list li {
+  margin-left: 3em;
+  text-indent: -3em;
+  margin-bottom: 1em;
+}
+cite.notenik-cite-major {
+  font-style: italic;
+}
+cite.notenik-cite-minor {
+  font-style: normal;
+}
+.notenik-aka {
+    font-style: italic;
+    text-align: center;
+    margin-top: 0;
+}
+ul.notenik-toc {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+table.notenik-calendar {
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+td.notenik-calendar-day-data {
+  vertical-align: top;
+}
+p.notenik-calendar-day-of-month {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+  font-size: 1.2em;
+}
+p.notenik-calendar-day-contents {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+a:active {
+    color: var(--link-active-color);
+}
+
+a.wiki-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.ext-link {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+a.nav-link:link {
+    text-decoration: none;
+    border-bottom: none;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Advocate", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-top: 0.7em;
+    margin-bottom: 0.0em;
+    font-style: normal;
+}
+h1 {
+    text-align: center;
+    font-size: 2.0em;
+}
+h2 {
+    text-align: left;
+    font-size: 1.8em;
+}
+h3 {
+    text-align: left;
+    font-size: 1.6em;
+}
+h4 {
+    text-align: left;
+    font-size: 1.4em;
+}
+h5 {
+    text-align: left;
+    font-size: 1.2em;
+}
+h6 {
+    text-align: left;
+    font-size: 1.0em;
+}
+
+</style>
+</head>
+<body>
+
+
+<p><a href="https://ntnk.app/bigideasinsoftwaredevelopment" class="nav-link">The Big Ideas in Software Development</a>&nbsp;&#8593;</p><h2 id="bibliography">11. Bibliography</h2>
+<p>As a convenience, and in accordance with convention, this book&#8217;s enitre bibliography is displayed on this page in one long list. But each cited author and work additionally has its own page, sometimes with additional information, and you can navigate to these pages by clicking on the relevant text within the bibliography, or through other links within the book, or through any of the navigational links provided to take you to adjacent pages within the hierarchy. You may also find it useful to note that each cited quotation within the book also appears here, in this Bibliography section, following the page for the work from which the quotation was drawn. </p>
+
+<ol class="notenik-biblio-list">
+<li><a href="https://ntnk.app/abrahamsonericandfreemandavidh" class="nav-link">Abrahamson, Eric and Freeman, David H.</a> (2006) <cite class="notenik-cite-major"><a href="https://ntnk.app/perfectmessthehiddenbenefitsofdisorder" class="nav-link">A Perfect Mess: The Hidden Benefits of Disorder</a></cite>. Back Bay Books. <a href="https://amzn.to/1Y1dhbK" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/americanpsychologicalassociation" class="nav-link">American Psychological Association</a> (2006) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/multitaskingswitchingcosts" class="nav-link">Multitasking: Switching costs</a>&#8221;</cite>, <cite class="notenik-cite-major">American Psychological Association</cite>. <a href="https://www.apa.org/research/action/multitask.aspx" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/argyrischrisandschndonald" class="nav-link">Argyris, Chris and Schön, Donald</a> (1974) <cite class="notenik-cite-major"><a href="https://ntnk.app/theoryinpracticeincreasingprofessionaleffectiveness" class="nav-link">Theory in Practice: Increasing Professional Effectiveness</a></cite>. Jossey-Bass. <a href="https://amzn.to/29lfsk2" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/austinrobanddevinlee" class="nav-link">Austin, Rob and Devin, Lee</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/artfulmakingwhatmanagersneedtoknowabouthowartistswork" class="nav-link">Artful Making: What Managers Need to Know About How Artists Work</a></cite>. <a href="https://amzn.to/29DbGVZ" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/austinrobertd" class="nav-link">Austin, Robert D.</a> (1996) <cite class="notenik-cite-major"><a href="https://ntnk.app/measuringandmanagingperformanceinorganizations" class="nav-link">Measuring and Managing Performance in Organizations</a></cite>. Dorset House Publishing Company. <a href="https://amzn.to/1Xw9sKN" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/austinrobertdnolanrichardlandodonnellshannon" class="nav-link">Austin, Robert D.; Nolan, Richard L. and O&apos;Donnell, Shannon</a> (2009) <cite class="notenik-cite-major"><a href="https://ntnk.app/adventuresofanitleader" class="nav-link">Adventures of an IT Leader</a></cite>. Harvard Business Press. <a href="https://store.hbr.org/product/the-adventures-of-an-it-leader-updated-edition-with-a-new-preface-by-the-authors/10018" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/avitzurron" class="nav-link">Avitzur, Ron</a> (2004) <cite class="notenik-cite-major"><a href="https://ntnk.app/graphingcalculatorstory" class="nav-link">The Graphing Calculator Story</a></cite>. Pacific Tech. <a href="https://www.pacifict.com/Story/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/badaraccojosephl" class="nav-link">Badaracco, Joseph L.</a> (2002) <cite class="notenik-cite-major"><a href="https://ntnk.app/leadingquietlyanunorthodoxguidetodoingtherightthing" class="nav-link">Leading Quietly: An Unorthodox Guide to Doing the Right Thing</a></cite>. <a href="https://amzn.to/29yaIg6" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/beckkentetal" class="nav-link">Beck, Kent et al.</a> (2001) <cite class="notenik-cite-major"><a href="https://ntnk.app/manifestoforagilesoftwaredevelopment" class="nav-link">Manifesto for Agile Software Development</a></cite>. <a href="https://www.agilemanifesto.org" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/beckkentetal" class="nav-link">Beck, Kent et al.</a> (2001) <cite class="notenik-cite-major"><a href="https://ntnk.app/principlesofagilesoftwaredevelopment" class="nav-link">Principles of Agile Software Development</a></cite>, <cite class="notenik-cite-major">Manifesto for Agile Software Development</cite>. <a href="https://agilemanifesto.org/principles.html" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/berkunscott" class="nav-link">Berkun, Scott</a> (2007) <cite class="notenik-cite-major"><a href="https://ntnk.app/mythsofinnovation" class="nav-link">The Myths of Innovation</a></cite>. <a href="https://amzn.to/29vxRtg" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/blockpeter" class="nav-link">Block, Peter</a> (1987) <cite class="notenik-cite-major"><a href="https://ntnk.app/empoweredmanagerpositivepoliticalskillsatwork" class="nav-link">The Empowered Manager: Positive Political Skills at Work</a></cite>. Jossey-Bass Publishers. <a href="https://amzn.to/1r5BRta" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/boehmbarryandturnerrichard" class="nav-link">Boehm, Barry and Turner, Richard</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/balancingagilityanddisciplineaguidefortheperplexed" class="nav-link">Balancing Agility and Discipline: A Guide for the Perplexed</a></cite>. Addison-Wesley/Pearson Education. <a href="https://amzn.to/1XwagPL" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/borensteinnathaniel" class="nav-link">Borenstein, Nathaniel</a> (1991) <cite class="notenik-cite-major"><a href="https://ntnk.app/programmingasifpeoplematteredfriendlyprogramssoftwareengineeringandothernobledelusions" class="nav-link">Programming As If People Mattered: Friendly Programs, Software Engineering, and Other Noble Delusions</a></cite>. <a href="https://amzn.to/29dWUS3" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/boyntonandyandfischerbill" class="nav-link">Boynton, Andy and Fischer, Bill</a> (2009) <cite class="notenik-cite-major"><a href="https://ntnk.app/virtuosoteamstheextraordinarystoriesofextraordinaryteams" class="nav-link">Virtuoso Teams: The extraordinary stories of extraordinary teams</a></cite>. FT Press. <a href="https://amzn.to/2av1nG8" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/brooksfred" class="nav-link">Brooks, Fred</a> (1975) <cite class="notenik-cite-major"><a href="https://ntnk.app/mythicalmanmonthessaysonsoftwareengineering" class="nav-link">The Mythical Man-Month: Essays on Software Engineering</a></cite>. <a href="http://amzn.to/28Y8QH9" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/brooksfred" class="nav-link">Brooks, Fred</a> (Jul 2010) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/masterplannerfredbrooksshowshowtodesignanything" class="nav-link">Master Planner: Fred Brooks Shows How to Design Anything</a>&#8221;</cite>, <cite class="notenik-cite-major">Wired Magazine</cite>. <a href="https://www.wired.com/2010/07/ff-fred-brooks/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/brownwilliamjmccormickiiihayswandthomasscottw" class="nav-link">Brown, William J., McCormick III, Hays W. and Thomas, Scott W.</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/antipatternsandpatternsinsoftwareconfigurationmanagement" class="nav-link">AntiPatterns and Patterns in Software Configuration Management</a></cite>. <a href="https://amzn.to/29zi3ZS" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/buckinghammarcusandcoffmancurt" class="nav-link">Buckingham, Marcus and Coffman, Curt</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/firstbreakalltheruleswhattheworldsgreatestmanagersdodifferently" class="nav-link">First, Break All the Rules: What the World&apos;s Greatest Managers Do Differently</a></cite>. <a href="https://amzn.to/29vUCxi" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/chestertongk" class="nav-link">Chesterton, G. K.</a> (1911) <cite class="notenik-cite-major"><a href="https://ntnk.app/appreciationsandcriticismsoftheworksofcharlesdickens" class="nav-link">Appreciations and Criticisms of the Works of Charles Dickens</a></cite>. </li>
+<li><a href="https://ntnk.app/churchillwinston" class="nav-link">Churchill, Winston</a> (7 Mar 1916) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/churchillspeechtohouseofcommons7mar1916" class="nav-link">Churchill Speech to House of Commons 7 Mar 1916</a>&#8221;</cite>. <a href="https://winstonchurchill.org/publications/finest-hour/finest-hour-100/wit-wisdom-12/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/cockburnalistair" class="nav-link">Cockburn, Alistair</a> (Jan 7 2001) <cite class="notenik-cite-major"><a href="https://ntnk.app/communicatingcooperatingteams" class="nav-link">Communicating, cooperating teams</a></cite>, <cite class="notenik-cite-major">Agile Software Development</cite>. <a href="https://athena.ecs.csus.edu/~buckley/CSc233/ACockburn_Communicating_Cooperting_Teams_Ch3.pdf" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/cockburnalistair" class="nav-link">Cockburn, Alistair</a> (2002) <cite class="notenik-cite-major"><a href="https://ntnk.app/agilesoftwaredevelopment" class="nav-link">Agile Software Development</a></cite>. <a href="https://amzn.to/29zolbU" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/cockburnalistair" class="nav-link">Cockburn, Alistair</a> (Sep 6 2006) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/whatengineeringhasincommonwithmanufacturingandwhyitmatters" class="nav-link">What engineering has in common with manufacturing and why it matters</a>&#8221;</cite>. <a href="https://www.researchgate.net/publication/285748372_What_engineering_has_in_common_with_manufacturing_and_why_it_matters" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/cockburnalistair" class="nav-link">Cockburn, Alistair</a> (Aug 7 2007) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/usingbothincrementalanditerativedevelopment" class="nav-link">Using Both Incremental and Iterative Development</a>&#8221;</cite>. <a href="https://www.se.rit.edu/~swen-256/resources/UsingBothIncrementalandIterativeDevelopment-AlistairCockburn.pdf" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/constantinelarryandlockwoodlucy" class="nav-link">Constantine, Larry and Lockwood, Lucy</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/softwareforuseapracticalguidetothemodelsandmethodsofusagecentereddesign" class="nav-link">Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design</a></cite>. <a href="https://amzn.to/29w2Wgy" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/davisalanm" class="nav-link">Davis, Alan M.</a> (1995) <cite class="notenik-cite-major"><a href="https://ntnk.app/201principlesofsoftwaredevelopment" class="nav-link">201 Principles of Software Development</a></cite>. <a href="https://amzn.to/29GkBWB" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/davisalanm" class="nav-link">Davis, Alan M.</a> (2005) <cite class="notenik-cite-major"><a href="https://ntnk.app/justenoughrequirementsmanagementwheresoftwaredevelopmentmeetsmarketing" class="nav-link">Just Enough Requirements Management: Where Software Development Meets Marketing</a></cite>. <a href="https://amzn.to/2a66ate" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/daylight" class="nav-link">Daylight</a> (2014) <cite class="notenik-cite-major"><a href="https://ntnk.app/whatisdesignthinking" class="nav-link">What is Design Thinking?</a></cite>. <a href="https://vimeo.com/90355541" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/demarcotom" class="nav-link">DeMarco, Tom</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/peoplewareproductiveprojectsandteamssecondedition" class="nav-link">Peopleware: Productive Projects and Teams (Second Edition)</a></cite>. Dorset House Publishing Company, Incorporated. </li>
+<li><a href="https://ntnk.app/demarcotomandlistertimothy" class="nav-link">DeMarco, Tom and Lister, Timothy</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/waltzingwithbearsmanagingriskonsoftwareprojects" class="nav-link">Waltzing with Bears: Managing Risk on Software Projects</a></cite>. </li>
+<li><a href="https://ntnk.app/demarcotomhruschkapeterlistertimmcmenaminsteverobertsonjamesandrobertsonsuzanne" class="nav-link">DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James and Robertson, Suzanne</a> (2008) <cite class="notenik-cite-major"><a href="https://ntnk.app/adrenalinejunkiesandtemplatezombiesunderstandingpatternsofprojectbehavior" class="nav-link">Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior</a></cite>. Dorset House Publishing. <a href="https://amzn.to/29GBVuM" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/demingwedwards" class="nav-link">Deming, W. Edwards</a> <cite class="notenik-cite-major"><a href="https://ntnk.app/qualitycomestocityhall" class="nav-link">Quality Comes to City Hall</a></cite>. <a href="https://deming.org/quality-comes-to-city-hall/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/dymondken" class="nav-link">Dymond, Ken</a> (1995) <cite class="notenik-cite-major"><a href="https://ntnk.app/guidetothecmmunderstandingthecapabilitymaturitymodelforsoftware" class="nav-link">A Guide to the CMM: Understanding the Capability Maturity Model for Software</a></cite>. <a href="https://amzn.to/2a6tDdu" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/einsteinalbert" class="nav-link">Einstein, Albert</a> (1933) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/onthemethodoftheoreticalphysics" class="nav-link">On the Method of Theoretical Physics</a>&#8221;</cite>. </li>
+<li><a href="https://ntnk.app/eisenhowerdwightd" class="nav-link">Eisenhower, Dwight D.</a> (1962) <cite class="notenik-cite-major"><a href="https://ntnk.app/sixcrises" class="nav-link">Six Crises</a></cite>. <a href="https://amzn.to/29hURiI" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/elssamadisyamr" class="nav-link">Elssamadisy, Amr</a> (2008) <cite class="notenik-cite-major"><a href="https://ntnk.app/agileadoptionpatternsaroadmaptoorganizationalsuccess" class="nav-link">Agile Adoption Patterns: A Roadmap to Organizational Success</a></cite>. Addison-Wesley Professional. </li>
+<li><a href="https://ntnk.app/facklermartin" class="nav-link">Fackler, Martin</a> (39128) <cite class="notenik-cite-major"><a href="https://ntnk.app/toyotawayistranslatedforanewgenerationofforeignmanagers" class="nav-link">The &apos;Toyota Way&apos; Is Translated for a New Generation of Foreign Managers</a></cite>, <cite class="notenik-cite-major">The New York Times</cite>. <a href="https://www.nytimes.com/2007/02/15/business/worldbusiness/15toyota.html" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/friedjason" class="nav-link">Fried, Jason</a> (27 Aug 2018) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/someadvicefromjeffbezossignalvsnoise" class="nav-link">Some advice from Jeff Bezos: Signal vs. Noise</a>&#8221;</cite>. <a href="https://m.signalvnoise.com/some-advice-from-jeff-bezos/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/galljohn" class="nav-link">Gall, John</a> (1975) <cite class="notenik-cite-major"><a href="https://ntnk.app/systemanticshowsystemsreallyworkandhowtheyfail" class="nav-link">Systemantics: How Systems Really Work and How They Fail</a></cite>. Pocket. <a href="https://amzn.to/2EeFHbS" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/gammaerichhelmrichardjohnsonralphandglissadesjohn" class="nav-link">Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John</a> (1994) <cite class="notenik-cite-major"><a href="https://ntnk.app/designpatternselementsofreusableobjectorientedsoftware" class="nav-link">Design Patterns: Elements of Reusable Object-Oriented Software</a></cite>. Addison-Wesley Professional. <a href="https://amzn.to/2aqINKN" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/gawandeatul" class="nav-link">Gawande, Atul</a> (2011) <cite class="notenik-cite-major"><a href="https://ntnk.app/checklistmanifestohowtogetthingsright" class="nav-link">The Checklist Manifesto: How to Get Things Right</a></cite>. Picador. </li>
+<li><a href="https://ntnk.app/glassrobertl" class="nav-link">Glass, Robert L.</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/factsandfallaciesofsoftwareengineering" class="nav-link">Facts and Fallacies of Software Engineering</a></cite>. <a href="https://amzn.to/29LclFr" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/glazerhilleletal" class="nav-link">Glazer, Hillel et al.</a> (Nov-08) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/cmmioragilewhynotembraceboth" class="nav-link">CMMI or Agile: Why Not Embrace Both!</a>&#8221;</cite>, <cite class="notenik-cite-major">SEI Technical Notes</cite>. Software Engineering Institute. <a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8533" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/gualtierimike" class="nav-link">Gualtieri, Mike</a> (Sep 27, 2009) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/excusesexcusesthebusinessdoesntknowwhatitwants" class="nav-link">Excuses, excuses: The Business Doesn&apos;t Know What It Wants</a>&#8221;</cite>, <cite class="notenik-cite-major">Forrester Blogs</cite>. Forrester Research. <a href="https://blogs.forrester.com/mike_gualtieri/09-09-27-excuses_excuses_business_doesnt_know_what_it_wants" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/hammettdashiell" class="nav-link">Hammett, Dashiell</a> (1929) <cite class="notenik-cite-major"><a href="https://ntnk.app/daincurse" class="nav-link">The Dain Curse</a></cite>. <a href="https://amzn.to/2arjNDp" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/heckelpaul" class="nav-link">Heckel, Paul</a> (1994) <cite class="notenik-cite-major"><a href="https://ntnk.app/elementsoffriendlysoftwaredesign" class="nav-link">The Elements of Friendly Software Design</a></cite>. <a href="https://amzn.to/29GKUMd" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/highsmithjim" class="nav-link">Highsmith, Jim</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/adaptivesoftwaredevelopmentacollaborativeapproachtomanagingcomplexsystems" class="nav-link">Adaptive Software Development: A Collaborative Approach to Managing Complex Systems</a></cite>. Dorset House. <a href="https://amzn.to/29ztf5r" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/highsmithjim" class="nav-link">Highsmith, Jim</a> (2002) <cite class="notenik-cite-major"><a href="https://ntnk.app/agilesoftwaredevelopmentecosystems" class="nav-link">Agile Software Development Ecosystems</a></cite>. <a href="https://amzn.to/29zt0rb" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/highsmithjim" class="nav-link">Highsmith, Jim</a> (2004) <cite class="notenik-cite-major"><a href="https://ntnk.app/agileprojectmanagementcreatinginnovativeproducts" class="nav-link">Agile Project Management: Creating Innovative Products</a></cite>. Addison-Wesley Professional. <a href="https://amzn.to/29GNIsI" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/highsmithjim" class="nav-link">Highsmith, Jim</a> (Nov-07) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/measureofamanagementsystem" class="nav-link">The Measure of a Management System</a>&#8221;</cite>, <cite class="notenik-cite-major">Better Software Magazine</cite>. Sticky Minds. <a href="https://www.stickyminds.com/better-software-magazine/measure-management-system" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/holmesoliverwendelljr" class="nav-link">Holmes, Oliver Wendell, Jr.</a> <cite class="notenik-cite-major"><a href="https://ntnk.app/holmespollockletters" class="nav-link">Holmes-Pollock Letters</a></cite>. <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674405509" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/humphreywatts" class="nav-link">Humphrey, Watts</a> (1989) <cite class="notenik-cite-major"><a href="https://ntnk.app/managingthesoftwareprocess" class="nav-link">Managing the Software Process</a></cite>. Addison-Wesley. <a href="https://amzn.to/2a6O6zf" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/humphreywatts" class="nav-link">Humphrey, Watts</a> (1995) <cite class="notenik-cite-major"><a href="https://ntnk.app/disciplineforsoftwareengineering" class="nav-link">A Discipline for Software Engineering</a></cite>. Addison-Wesley Professional. <a href="https://amzn.to/29uagOD" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/humphreywatts" class="nav-link">Humphrey, Watts</a> (2002) <cite class="notenik-cite-major"><a href="https://ntnk.app/winningwithsoftwareanexecutivestrategy" class="nav-link">Winning with Software: An Executive Strategy</a></cite>. <a href="https://amzn.to/29BpanI" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/hurstmark" class="nav-link">Hurst, Mark</a> (2007) <cite class="notenik-cite-major"><a href="https://ntnk.app/bitliteracyproductivityintheageofinformationandemailoverload" class="nav-link">Bit Literacy: Productivity in the Age of Information and E-mail Overload</a></cite>. Good Experience Press. <a href="https://bitliteracy.com/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/innesmichael" class="nav-link">Innes, Michael</a> (1936) <cite class="notenik-cite-major"><a href="https://ntnk.app/sevensuspects" class="nav-link">Seven Suspects</a></cite>. <a href="https://amzn.to/2aMfzIT" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jensonscott" class="nav-link">Jenson, Scott</a> (2002) <cite class="notenik-cite-major"><a href="https://ntnk.app/simplicityshiftinnovativedesigntacticsinacorporateworld" class="nav-link">The Simplicity Shift: Innovative Design Tactics in a Corporate World</a></cite>. Cambridge University Press. <a href="https://amzn.to/29JjQMt" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (1995) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/stevejobsthelostinterview" class="nav-link">Steve Jobs: The Lost Interview</a>&#8221;</cite>. <a href="https://www.magpictures.com/stevejobsthelostinterview/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (May 25, 1998) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/businessweekinterviewwithstevejobs" class="nav-link">Business Week Interview with Steve Jobs</a>&#8221;</cite>. <a href="https://web.archive.org/web/19991110003323/http://www.businessweek.com/1998/21/b3579165.htm" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (2000) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/applesonedollarayearman" class="nav-link">Apple&apos;s One-Dollar-a-Year Man</a>&#8221;</cite>, <cite class="notenik-cite-major">Fortune Magazine</cite>. <a href="http://archive.fortune.com/magazines/fortune/fortune_archive/2000/01/24/272277/index.htm" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (2000) <cite class="notenik-cite-major"><a href="https://ntnk.app/insanelygreatthelifeandtimesofmacintoshthecomputerthatchangedeverything" class="nav-link">Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything</a></cite>. </li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (October, 2004) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/brentschlendersconversationswithstevejobs" class="nav-link">Brent Schlender&apos;s Conversations with Steve Jobs</a>&#8221;</cite>. Fast Company. <a href="https://www.fastcompany.com/magazine/165/steve-jobs-highlights" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (2007) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/macworldkeynote" class="nav-link">Macworld Keynote</a>&#8221;</cite>. </li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (Jun 7, 2010) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/conversationwithwaltmossberg" class="nav-link">Conversation with Walt Mossberg</a>&#8221;</cite>, <cite class="notenik-cite-major">D8 Conference</cite>. <a href="https://youtu.be/i5f8bqYYwps" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/jobssteve" class="nav-link">Jobs, Steve</a> (Aug 2011) <cite class="notenik-cite-major"><a href="https://ntnk.app/stevejobssultimatelessonforcompanies" class="nav-link">Steve Jobs&apos;s Ultimate Lesson for Companies</a></cite>, <cite class="notenik-cite-major">Harvard Business Review</cite>. <a href="https://blogs.hbr.org/cs/2011/08/steve_jobss_ultimate_lesson_fo.html" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/johnsonbarry" class="nav-link">Johnson, Barry</a> (1992) <cite class="notenik-cite-major"><a href="https://ntnk.app/polaritymanagementidentifyingandmanagingunsolvableproblems" class="nav-link">Polarity Management: Identifying and Managing Unsolvable Problems</a></cite>. H R D Press. <a href="https://amzn.to/29XHzKa" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/kahnemandaniel" class="nav-link">Kahneman, Daniel</a> (2011) <cite class="notenik-cite-major"><a href="https://ntnk.app/thinkingfastandslow" class="nav-link">Thinking, Fast and Slow</a></cite>. Farrar, Straus and Giroux. <a href="https://amzn.to/2bk3tHM" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/kennedymichaeln" class="nav-link">Kennedy, Michael N.</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/productdevelopmentfortheleanenterprise" class="nav-link">Product Development for the Lean Enterprise</a></cite>. <a href="https://amzn.to/29eOhHF" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/kimgenebehrkevinandspaffordgeorge" class="nav-link">Kim, Gene, Behr, Kevin and Spafford, George</a> (2013) <cite class="notenik-cite-major"><a href="https://ntnk.app/phoenixprojectanovelaboutitdevopsandhelpingyourbusinesswin" class="nav-link">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></cite>. IT Revolution Press. <a href="https://amzn.to/3xIyfCl" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/kovitzbenjaminl" class="nav-link">Kovitz, Benjamin L.</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/practicalsoftwarerequirementsamanualofcontentandstyle" class="nav-link">Practical Software Requirements: A Manual of Content and Style</a></cite>. </li>
+<li><a href="https://ntnk.app/krugsteve" class="nav-link">Krug, Steve</a> (2005) <cite class="notenik-cite-major"><a href="https://ntnk.app/dontmakemethinkacommonsenseapproachtowebusability2ndedition" class="nav-link">Don&apos;t Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition</a></cite>. New Riders. <a href="https://amzn.to/29JBfVa" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/leffingwelldean" class="nav-link">Leffingwell, Dean</a> (2007) <cite class="notenik-cite-major"><a href="https://ntnk.app/scalingsoftwareagilitybestpracticesforlargeenterprises" class="nav-link">Scaling Software Agility: Best Practices for Large Enterprises</a></cite>. Addison-Wesley Professional. <a href="https://amzn.to/1UUqL4H" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/lennonjohn" class="nav-link">Lennon, John</a> (2000) <cite class="notenik-cite-major"><a href="https://ntnk.app/beatlesanthology" class="nav-link">The Beatles Anthology</a></cite>. Chronicle Books. <a href="https://amzn.to/2acIHK7" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/lewisbob" class="nav-link">Lewis, Bob</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/boblewississurvivalguide" class="nav-link">Bob Lewis&apos;s IS Survival Guide</a></cite>. Sams Publishing. <a href="https://amzn.to/29HYArq" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/lewiscs" class="nav-link">Lewis, C. S.</a> (1961) <cite class="notenik-cite-major"><a href="https://ntnk.app/experimentincriticism" class="nav-link">An Experiment in Criticism</a></cite>. <a href="https://amzn.to/29JN6mc" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/likerjeffrey" class="nav-link">Liker, Jeffrey</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/toyotaway14managementprinciplesfromtheworldsgreatestmanufacturer" class="nav-link">The Toyota Way: 14 Management Principles from the World&apos;s Greatest Manufacturer</a></cite>. McGraw-Hill. </li>
+<li><a href="https://ntnk.app/lohrsteve" class="nav-link">Lohr, Steve</a> (2001) <cite class="notenik-cite-major"><a href="https://ntnk.app/goto" class="nav-link">Go To</a></cite>. Basic Books. <a href="https://amzn.to/29I0W9C" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/loppmichael" class="nav-link">Lopp, Michael</a> (2007) <cite class="notenik-cite-major"><a href="https://ntnk.app/managinghumansbitingandhumoroustalesofasoftwareengineeringmanager" class="nav-link">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a></cite>. Apress. <a href="https://amzn.to/2aa0Dl8" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/marsaliswyntonandwardgeoffrey" class="nav-link">Marsalis, Wynton and Ward, Geoffrey</a> (2008) <cite class="notenik-cite-major"><a href="https://ntnk.app/movingtohighergroundhowjazzcanchangeyourlife" class="nav-link">Moving to Higher Ground: How Jazz Can Change Your Life</a></cite>. Random House. <a href="https://amzn.to/2aqj3jo" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/martinrogerl" class="nav-link">Martin, Roger L.</a> (2009) <cite class="notenik-cite-major"><a href="https://ntnk.app/opposablemindwinningthroughintegrativethinking" class="nav-link">Opposable Mind: Winning Through Integrative Thinking</a></cite>. Harvard Business Review Press. <a href="https://amzn.to/1PzYkoy" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/millerhenry" class="nav-link">Miller, Henry</a> (1962) <cite class="notenik-cite-major"><a href="https://ntnk.app/standstilllikethehummingbird" class="nav-link">Stand Still Like the Hummingbird</a></cite>. <a href="https://amzn.to/29ca3Lb" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/morganjamesmandlikerjeffreyk" class="nav-link">Morgan, James M. and Liker, Jeffrey K.</a> (2006) <cite class="notenik-cite-major"><a href="https://ntnk.app/toyotaproductdevelopmentsystemintegratingpeopleprocessandtechnology" class="nav-link">The Toyota Product Development System: Integrating People, Process and Technology</a></cite>. Productivity Press. <a href="https://amzn.to/1OvXBKb" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/oreillytim" class="nav-link">O&apos;Reilly, Tim</a> (2017) <cite class="notenik-cite-major"><a href="https://ntnk.app/wtfwhatsthefutureandwhyitsuptous" class="nav-link">WTF?: What&apos;s the Future and Why It&apos;s Up to Us</a></cite>. Harper Business. <a href="https://amzn.to/2DQs6JT" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/pagejonesmeilir" class="nav-link">Page-Jones, Meilir</a> (1998) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/sevenstagesofexpertiseinsoftwareengineering" class="nav-link">The Seven Stages of Expertise in Software Engineering</a>&#8221;</cite>. Wayland Systems Inc.. <a href="https://www.dotkam.com/2007/05/07/the-seven-stages-of-expertise-in-software-engineering/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/parkerian" class="nav-link">Parker, Ian</a> (2015) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/shapeofthingstocome" class="nav-link">The Shape of Things to Come</a>&#8221;</cite>, <cite class="notenik-cite-major">The New Yorker</cite>. Condé Nast. <a href="https://www.newyorker.com/magazine/2015/02/23/shape-things-come" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/phillipskatherine" class="nav-link">Phillips, Katherine</a> (June 2, 2009) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/diversityhelpsyourbusinessbutnotthewayyouthink" class="nav-link">Diversity Helps Your Business -- But Not The Way You Think</a>&#8221;</cite>, <cite class="notenik-cite-major">Forbes</cite>. Forbes Media. <a href="https://www.forbes.com/2009/06/02/diversity-collaboration-teams-leadership-managing-creativity.html" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/pinkdanielh" class="nav-link">Pink, Daniel H.</a> (2009) <cite class="notenik-cite-major"><a href="https://ntnk.app/drivethesurprisingtruthaboutwhatmotivatesus" class="nav-link">Drive: The Surprising Truth About What Motivates Us</a></cite>. Riverhead Books. <a href="https://amzn.to/29gzuzw" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/poppendieckmaryandpoppendiecktom" class="nav-link">Poppendieck, Mary and Poppendieck, Tom</a> (2003) <cite class="notenik-cite-major"><a href="https://ntnk.app/leansoftwaredevelopmentanagiletoolkit" class="nav-link">Lean Software Development: An Agile Toolkit</a></cite>. <a href="https://amzn.to/23in0K5" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/poppendieckmaryandpoppendiecktom" class="nav-link">Poppendieck, Mary and Poppendieck, Tom</a> (2006) <cite class="notenik-cite-major"><a href="https://ntnk.app/implementingleansoftwaredevelopmentfromconcepttocash" class="nav-link">Implementing Lean Software Development: From Concept to Cash</a></cite>. <a href="https://amzn.to/1OvXONp" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/reevesjackw" class="nav-link">Reeves, Jack W.</a> (Fall 1992) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/whatissoftwaredesign" class="nav-link">What is Software Design?</a>&#8221;</cite>, <cite class="notenik-cite-major">Code as Design</cite>. Developer.*. <a href="https://www.developerdotstar.com/mag/articles/reeves_design_main.html" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/reinertsendonaldg" class="nav-link">Reinertsen, Donald G</a> (2012) <cite class="notenik-cite-major"><a href="https://ntnk.app/principlesofproductdevelopmentflowsecondgenerationleanproductdevelopment" class="nav-link">The Principles of Product Development Flow: Second Generation Lean Product Development</a></cite>. Celeritas Publishing. <a href="https://amzn.to/29Qo5b3" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/rieseric" class="nav-link">Ries, Eric</a> (2011) <cite class="notenik-cite-major"><a href="https://ntnk.app/leanstartuphowtodaysentrepreneursusecontinuousinnovationtocreateradicallysuccessfulbusinesses" class="nav-link">The Lean Startup: How Today&apos;s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</a></cite>. Crown Business. <a href="https://amzn.to/2bTkvuW" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/robertsonsuzanneandrobertsonjames" class="nav-link">Robertson, Suzanne and Robertson, James</a> (1999) <cite class="notenik-cite-major"><a href="https://ntnk.app/masteringtherequirementsprocess" class="nav-link">Mastering the Requirements Process</a></cite>. <a href="https://amzn.to/29I6LUD" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/santayanageorge" class="nav-link">Santayana, George</a> (1906) <cite class="notenik-cite-major"><a href="https://ntnk.app/lifeofreasonreasonincommonsense" class="nav-link">The Life of Reason: Reason in Common Sense</a></cite>. <a href="https://amzn.to/29JLIQE" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/schembechlerbo" class="nav-link">Schembechler, Bo</a> (1983) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/team" class="nav-link">The Team</a>&#8221;</cite>. YouTube. <a href="https://youtu.be/qjv2iDxiGBI" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/sengepeter" class="nav-link">Senge, Peter</a> (1990) <cite class="notenik-cite-major"><a href="https://ntnk.app/fifthdisciplinetheartandpracticeofthelearningorganization" class="nav-link">The Fifth Discipline: The Art and Practice of the Learning Organization</a></cite>. <a href="https://amzn.to/2aa9eo0" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/smithmk" class="nav-link">Smith, M. K.</a> (2013) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/chrisargyristheoriesofactiondoublelooplearningandorganizationallearning" class="nav-link">Chris Argyris: theories of action, double-loop learning and organizational learning</a>&#8221;</cite>, <cite class="notenik-cite-major">infed.org</cite>. <a href="https://infed.org/mobi/chris-argyris-theories-of-action-double-loop-learning-and-organizational-learning/" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/spolskyjoel" class="nav-link">Spolsky, Joel</a> (2004) <cite class="notenik-cite-major"><a href="https://ntnk.app/joelonsoftware" class="nav-link">Joel on Software</a></cite>. Apress. <a href="https://amzn.to/29DOnxK" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/spolskyjoel" class="nav-link">Spolsky, Joel</a> (2007) <cite class="notenik-cite-major"><a href="https://ntnk.app/smartandgetsthingsdone" class="nav-link">Smart and Gets Things Done</a></cite>. Apress. <a href="https://amzn.to/29JD45P" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/standishgroup" class="nav-link">The Standish Group</a> (2013) <cite class="notenik-cite-minor">&#8220;<a href="https://ntnk.app/chaosmanifesto2013" class="nav-link">Chaos Manifesto 2013</a>&#8221;</cite>. The Standish Group. <a href="https://www.versionone.com/assets/img/files/CHAOSManifesto2013.pdf" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/webercraig" class="nav-link">Weber, Craig</a> (2013) <cite class="notenik-cite-major"><a href="https://ntnk.app/conversationalcapacitythesecrettobuildingsuccessfulteamsthatperformwhenthepressureison" class="nav-link">Conversational Capacity: The Secret to Building Successful Teams That Perform When the Pressure Is On</a></cite>. McGraw-Hill Education. <a href="https://amzn.to/2aMXoyN" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/weinberggerald" class="nav-link">Weinberg, Gerald</a> (1971) <cite class="notenik-cite-major"><a href="https://ntnk.app/psychologyofcomputerprogramming" class="nav-link">The Psychology of Computer Programming</a></cite>. <a href="https://amzn.to/29xzp7g" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/wilsondavidsloan" class="nav-link">Wilson, David Sloan</a> (2019) <cite class="notenik-cite-major"><a href="https://ntnk.app/thisviewoflifecompletingthedarwinianrevolution" class="nav-link">This View of Life: Completing the Darwinian Revolution</a></cite>. Pantheon Books. <a href="https://amzn.to/2xHtkmo" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/yourdonedward" class="nav-link">Yourdon, Edward</a> (1976) <cite class="notenik-cite-major"><a href="https://ntnk.app/techniquesofprogramstructureanddesign" class="nav-link">Techniques of Program Structure and Design</a></cite>. Prentice Hall. <a href="https://amzn.to/29CN5wF" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+<li><a href="https://ntnk.app/yourdonedward" class="nav-link">Yourdon, Edward</a> (1992) <cite class="notenik-cite-major"><a href="https://ntnk.app/declineandfalloftheamericanprogrammer" class="nav-link">Decline and Fall of the American Programmer</a></cite>. <a href="https://amzn.to/29z6Gyr" class="ext-link" target="_blank" rel="noopener">Link</a></li>
+</ol>
+
+
+
+<hr />
+<p>Next: <a href="https://ntnk.app/abrahamsonericandfreemandavidh" class="nav-link">Abrahamson, Eric and Freeman, David H.</a></p></body>
+</html>
