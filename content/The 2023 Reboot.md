@@ -1,4 +1,4 @@
-Title:  Introduction to the 2023 Edition
+Title:  The 2023 Reboot
 
 Seq:    1.3
 
