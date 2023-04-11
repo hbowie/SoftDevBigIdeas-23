@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Buckingham, Marcus and Coffman, Curt
+Author: Marcus Buckingham and Curt Coffman
 
 Work Type: Book
 

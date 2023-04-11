@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Austin, Rob and Devin, Lee
+Author: Rob Austin and Lee Devin
 
 Work Type: Book
 

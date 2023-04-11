@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Robertson, Suzanne and Robertson, James
+Author: Suzanne Robertson and James Robertson
 
 Work Type: Book
 

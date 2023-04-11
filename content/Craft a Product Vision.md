@@ -20,7 +20,7 @@ Your vision should be succinct enough to be easily read in a single sitting, but
 
 Once you have a draft vision, interview key stakeholders individually and ask them what the project vision means to them. Make sure you receive consistent answers. If you don't, then you need to get the group back together to iron out inconsistencies and sharpen your vision.
 
-The product vision need not be fancy, but it should be documented. Without some sort of overall vision for the product and its evolution, the project can too easily devolve into a simple aggregation of unrelated change requests, and the product can quickly become a victim of feature bloat, and suffer from <a href="https://en.wikipedia.org/wiki/Scope_creep" class="reflink" target="ref">scope creep</a>. A product vision provides the [[Cohesion]] necessary to make both the project team and the features being implemented more than just the sums of their respective parts.
+The product vision need not be fancy, but it should be documented. Without some sort of overall vision for the product and its evolution, the project can too easily devolve into a simple aggregation of unrelated change requests, and the product can quickly become a victim of feature bloat, and suffer from [scope creep](https://en.wikipedia.org/wiki/Scope_creep). A product vision provides the [[Cohesion]] necessary to make both the project team and the features being implemented more than just the sums of their respective parts.
 
 As you are defining your vision, consider its implications. There will likely be elements that will need to be considered in other areas as you prepare to start your development project.
 
@@ -45,4 +45,3 @@ The Product Vision is similar in many respects to the Chief Engineer's Concept P
 {:include-quote:System architects as storytellers}
 
 {:include-quote:Imagine a cookbook}
-

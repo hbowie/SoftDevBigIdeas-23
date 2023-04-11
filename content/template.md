@@ -1,40 +1,40 @@
-Title: <title>
+Title: <title> 
 
-Work Major Title:
+Work Major Title:  
 
-AKA: <aka>
+AKA: <aka> 
 
-Tags: <tags>
+Tags: <tags> 
 
-Seq: <seq: n.|n|n|n|n|n>
+Seq: <seq: n.|n|n|n|n|n> 
 
-Idea Number: <displayseq: No._XXX_&ndash;_>
+Idea Number: <displayseq: No._XXX_&ndash;_> 
 
-Level: <level: 1 - Book; 2 - Section; 3 - Article; 4 - Subsection; 5 - Detail; >
+Level: <level: 1 - Book; 2 - Section; 3 - Article; 4 - Subsection; 5 - Detail; > 
 
-Class: <class:  article, author, back, biblio, front, intro, quote, section, work >
+Class: <class:  article, author, back, biblio, front, intro, quote, section, work > 
 
-Author: <author>
+Author: <author> 
 
-Work Type: <worktype>
+Work Type: <worktype> 
 
-Work Rights:
+Work Rights:  
 
-Work Rights Holder:
+Work Rights Holder:  
 
-Publisher:
+Publisher:  
 
-Pub Date: <date>
+Pub Date: <date> 
 
-Work ID:
+Work ID:  
 
-Link: <link>
+Link: <link> 
 
-Timestamp:
+Timestamp:  
 
-Index: <index>
+Index: <index> 
 
-Attribution: <attribution>
+Attribution: <attribution> 
 
-Body:
+Body:  
 

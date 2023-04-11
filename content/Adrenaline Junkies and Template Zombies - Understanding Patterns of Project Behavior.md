@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: DeMarco, Tom, Hruschka, Peter, Lister, Tim, McMenamin, Steve, Robertson, James and Robertson, Suzanne
+Author: Tom DeMarco, Peter Hruschka, Tim Lister, Steve McMenamin, James Robertson and Suzanne Robertson
 
 Work Type: Book
 

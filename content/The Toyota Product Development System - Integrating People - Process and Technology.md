@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Morgan, James M. and Liker, Jeffrey K.
+Author: James M. Morgan and Jeffrey K. Liker
 
 Work Type: Book
 

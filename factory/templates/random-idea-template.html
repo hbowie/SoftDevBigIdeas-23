@@ -1,0 +1,58 @@
+<?output "../../web/random-idea.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Big Ideas in Software Development | A Random Idea</title>
+  <meta name="description" content="The Big Ideas in Software Development: A Random Idea">
+  <meta name="author" content="Herb Bowie">
+	<link rel="icon" href="images/favicon-32.png"  sizes="32x32">
+	<link rel="icon" href="images/favicon-128.png" sizes="128x128">
+	<link rel="icon" href="images/favicon-180.png" sizes="180x180">
+	<link rel="icon" href="images/favicon-192.png" sizes="192x192">
+  <link rel="stylesheet" href="css/styles.css" type="text/css" />
+</head>
+<body>
+
+  <main>
+
+  </main>
+  
+
+<script>
+
+var qfilename = new Array();
+var ix = 0;
+<?nextrec?>
+qfilename[ix] = "=$title&f$=.html";
+ix++;
+<?loop?>
+var max = ix;
+
+var now = new Date();
+var seed = now.getTime() % 0xffffffff;
+
+randomIdea()
+
+function rand(n) {
+  seed = (0x015a4e35 * seed) % 0x7fffffff;
+  return (seed >> 16) % n;
+}
+
+function randomIdea() {
+  rq = rand(max);
+  if (rq < 0) {
+    rq = 0;
+  }
+  if (rq >= max) {
+    rq = max - 1;
+  }
+  var page = qfilename[rq];
+	window.location.replace(page);
+}
+
+</script>
+    
+</body>
+</html>

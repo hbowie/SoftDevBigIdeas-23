@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Poppendieck, Mary and Poppendieck, Tom
+Author: Mary Poppendieck and Tom Poppendieck
 
 Work Type: Book
 

@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Austin, Robert D.; Nolan, Richard L. and O'Donnell, Shannon
+Author: Robert D. Austin, Richard L. Nolan and Shannon O'Donnell
 
 Work Type: Book
 

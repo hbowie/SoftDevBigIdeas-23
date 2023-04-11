@@ -1,6 +1,6 @@
 Title:  Editions of the Work
 
-Seq:    1.4
+Seq:    1.5
 
 Level:  3 - Article
 

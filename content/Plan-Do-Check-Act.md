@@ -20,7 +20,7 @@ One way is to [[Use Things Already Known to Work]].
 
 But most significant development efforts will also involve some innovation. And when we try new things, they may not always work as well as we first thought they might.
 
-One proven approach to learn what works is known as the <a href="https://en.wikipedia.org/wiki/PDCA" class="reflink" target="ref">Plan-Do-Check-Act</a> cycle, often abbreviated as PDCA.
+One proven approach to learn what works is known as the [Plan-Do-Check-Act](https://en.wikipedia.org/wiki/PDCA) cycle, often abbreviated as PDCA.
 
 It goes like this:
 
@@ -31,7 +31,7 @@ It goes like this:
 
 Note that the PDCA cycle can be used on elements of a product design, but also on attempts to improve development processes. The same basic cycle applies equally well to both.
 
-The PDCA cycle can also be thought of as a compressed version of the <a href="https://en.wikipedia.org/wiki/Scientific_method" class="reflink" target="ref">Scientific Method</a>, as indicated in the following table.
+The PDCA cycle can also be thought of as a compressed version of the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method), as indicated in the following table.
 
 <table class="table table-bordered table-condensed table-dense shaded">
 <thead>
@@ -85,7 +85,7 @@ The PDCA cycle can also be thought of as a compressed version of the <a href="ht
 </tbody>
 </table>
 
-The Build-Measure-Learn cycle, as defined in the <a href="http://theleanstartup.com/principles" target="ref">Lean Startup Method</a>, is another adaptation of this basic PDCA cycle.
+The Build-Measure-Learn cycle, as defined in the [Lean Startup Method](https://theleanstartup.com/principles), is another adaptation of this basic PDCA cycle.
 
 Note that the typical waterfall cycle of requirements-design-code-test is not a healthy adaptation of the PDCA cycle, because all testing is generally left to the end, without any provision to Act on the learnings gained from the tests. This is one reason why projects organized like this tend to finish late or fail altogether.
 

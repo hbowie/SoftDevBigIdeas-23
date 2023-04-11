@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Brown, William J., McCormick III, Hays W. and Thomas, Scott W.
+Author: William J. Brown, Hays W. McCormick III and Scott W. Thomas
 
 Work Type: Book
 

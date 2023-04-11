@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Kim, Gene, Behr, Kevin and Spafford, George
+Author: Gene Kim, Kevin Behr and George Spafford
 
 Work Type: Book
 

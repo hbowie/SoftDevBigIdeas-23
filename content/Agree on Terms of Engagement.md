@@ -38,6 +38,6 @@ All of the following factors are variables that should be discussed and explicit
 
 8. Timing -- At what points in the project will customers need to be available for what sorts of activities?
 
-The development team and its leaders may wall have strong opinions, firm expectations, and even defined processes that prescribe answers to all of the questions above. But if your customers are unable or unwilling to comply with such direction, then none of that really matters. Your development is not likely to proceed smoothly if your customers feel like they are being treated more like hostages than like partners.
+The development team and its leaders may well have strong opinions, firm expectations, and even defined processes that prescribe answers to all of the questions above. But if your customers are unable or unwilling to comply with such direction, then none of that really matters. Your development is not likely to proceed smoothly if your customers feel like they are being treated more like hostages than like partners.
 
 It's best to discuss all of these issues early on, and reach some documented agreement on how you and your customers will be working together over the course of the project. Without such discussion, it's likely that your project will suffer from later misunderstandings that will cause delays at best, and broken working relationships at worst.

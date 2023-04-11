@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Argyris, Chris and Schön, Donald
+Author: Chris Argyris and Donald Schön
 
 Work Type: Book
 

@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Gamma, Erich; Helm, Richard; Johnson, Ralph and Glissades, John
+Author: Erich Gamma, Richard Helm, Ralph Johnson and John Glissades
 
 Work Type: Book
 

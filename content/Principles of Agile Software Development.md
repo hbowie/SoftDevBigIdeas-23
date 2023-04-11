@@ -12,7 +12,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Beck, Kent et al.
+Author: Kent Beck et al.
 
 Work Type: Web Page
 

@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Abrahamson, Eric and Freeman, David H.
+Author: Eric Abrahamson and David H. Freeman
 
 Work Type: Book
 

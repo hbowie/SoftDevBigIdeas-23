@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: DeMarco, Tom and Lister, Timothy
+Author: Tom DeMarco and Timothy Lister
 
 Work Type: Book
 

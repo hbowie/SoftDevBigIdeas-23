@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Marsalis, Wynton and Ward, Geoffrey
+Author: Wynton Marsalis and Geoffrey Ward
 
 Work Type: Book
 

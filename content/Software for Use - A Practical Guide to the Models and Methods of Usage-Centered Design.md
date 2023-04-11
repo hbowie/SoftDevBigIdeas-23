@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Constantine, Larry and Lockwood, Lucy
+Author: Larry Constantine and Lucy Lockwood
 
 Work Type: Book
 

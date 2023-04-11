@@ -48,7 +48,7 @@ Now look at these elements of the Agile Manifesto and its accompanying principle
 
 Even though the words are different, I'm struck by the similarity of tone and intent between the two descriptions of these approaches to creation. They both incorporate Daniel Pink's motivational components of purpose, mastery and autonomy, but they do so from a position of fundamental faith: a belief in the "elevation and enrichment of people, plain ol' folks."
 
-The [[The Graphing Calculator Story]] provides a great example of what developers can accomplish when they can gain access to these three motivating factors. Two highly motivated individuals created an exciting and valuable piece of software out of a sense of mission, leveraging the varying sorts of technical mastery available from a small set of team members, and with a high degree of autonomy.
+[[The Graphing Calculator Story]] provides a great example of what developers can accomplish when they can gain access to these three motivating factors. Two highly motivated individuals created an exciting and valuable piece of software out of a sense of mission, leveraging the varying sorts of technical mastery available from a small set of team members, and with a high degree of autonomy.
 
 And, oh, by the way, they accomplished all this not with active management support, but through benign neglect by their management: in fact, their story is particularly interesting because of the high degree of motivation and success these two developers exhibited after their management had canceled their project and terminated their contracts!
 

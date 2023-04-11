@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Big Ideas in Software Development | A Random Idea</title>
+  <meta name="description" content="The Big Ideas in Software Development: A Random Idea">
+  <meta name="author" content="Herb Bowie">
+	<link rel="icon" href="images/favicon-32.png"  sizes="32x32">
+	<link rel="icon" href="images/favicon-128.png" sizes="128x128">
+	<link rel="icon" href="images/favicon-180.png" sizes="180x180">
+	<link rel="icon" href="images/favicon-192.png" sizes="192x192">
+  <link rel="stylesheet" href="css/styles.css" type="text/css" />
+</head>
+<body>
+
+  <main>
+
+  </main>
+  
+
+<script>
+
+var qfilename = new Array();
+var ix = 0;
+qfilename[ix] = "this-thinking-business.html";
+ix++;
+qfilename[ix] = "cohesion.html";
+ix++;
+qfilename[ix] = "loose-coupling.html";
+ix++;
+qfilename[ix] = "communicate-clearly.html";
+ix++;
+qfilename[ix] = "consider-alternatives.html";
+ix++;
+qfilename[ix] = "have-wonderful-arguments.html";
+ix++;
+qfilename[ix] = "show-rather-than-tell.html";
+ix++;
+qfilename[ix] = "plan-do-check-act.html";
+ix++;
+qfilename[ix] = "shorten-feedback-loops.html";
+ix++;
+qfilename[ix] = "understand-the-arc-of-your-project.html";
+ix++;
+qfilename[ix] = "whats-not-done-is-as-important-as-whats-done.html";
+ix++;
+qfilename[ix] = "acknowledge-uncertainty.html";
+ix++;
+qfilename[ix] = "entrepreneurial-leadership.html";
+ix++;
+qfilename[ix] = "build-great-teams.html";
+ix++;
+qfilename[ix] = "govern-wisely.html";
+ix++;
+qfilename[ix] = "take-a-long-term-economic-perspective.html";
+ix++;
+qfilename[ix] = "consider-what-might-go-wrong.html";
+ix++;
+qfilename[ix] = "increase-developer-engagement.html";
+ix++;
+qfilename[ix] = "developers-are-always-growing.html";
+ix++;
+qfilename[ix] = "developers-are-not-interchangeable.html";
+ix++;
+qfilename[ix] = "agree-on-terms-of-engagement.html";
+ix++;
+qfilename[ix] = "pick-the-right-sort-of-customer-proxy.html";
+ix++;
+qfilename[ix] = "the-inconvenient-nature-of-software-development.html";
+ix++;
+qfilename[ix] = "craft-a-product-vision.html";
+ix++;
+qfilename[ix] = "quality-requires-extra-effort.html";
+ix++;
+qfilename[ix] = "plan-thoughtfully-but-be-prepared-for-change.html";
+ix++;
+qfilename[ix] = "tailor-thoughtfully.html";
+ix++;
+qfilename[ix] = "sharpen-your-axe.html";
+ix++;
+qfilename[ix] = "when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts.html";
+ix++;
+qfilename[ix] = "seek-first-to-understand-your-customer.html";
+ix++;
+qfilename[ix] = "just-enough-design-up-front.html";
+ix++;
+qfilename[ix] = "deliver-early-and-often.html";
+ix++;
+qfilename[ix] = "self-organizing-teams.html";
+ix++;
+qfilename[ix] = "software-development-is-a-balancing-act.html";
+ix++;
+qfilename[ix] = "a-deliberate-approach-to-decision-making.html";
+ix++;
+qfilename[ix] = "decrease-friction-increase-flow.html";
+ix++;
+qfilename[ix] = "configuration-management.html";
+ix++;
+qfilename[ix] = "limit-work-in-progress.html";
+ix++;
+qfilename[ix] = "make-problems-visible.html";
+ix++;
+qfilename[ix] = "remain-open-to-fresh-learning.html";
+ix++;
+qfilename[ix] = "dont-wait-to-integrate.html";
+ix++;
+qfilename[ix] = "software-is-different.html";
+ix++;
+qfilename[ix] = "software-development-is-a-craft.html";
+ix++;
+qfilename[ix] = "documentation-is-not-an-end-unto-itself.html";
+ix++;
+qfilename[ix] = "create-value-for-customers.html";
+ix++;
+qfilename[ix] = "do-not-place-excessive-faith-in-project-and-program-management.html";
+ix++;
+qfilename[ix] = "let-the-buyer-beware.html";
+ix++;
+qfilename[ix] = "stay-focused-on-the-creation-of-working-software-for-real-people.html";
+ix++;
+qfilename[ix] = "automate-repetitive-tasks.html";
+ix++;
+qfilename[ix] = "use-things-already-known-to-work.html";
+ix++;
+qfilename[ix] = "simplify-and-generalize.html";
+ix++;
+qfilename[ix] = "decomposition.html";
+ix++;
+var max = ix;
+
+var now = new Date();
+var seed = now.getTime() % 0xffffffff;
+
+randomIdea()
+
+function rand(n) {
+  seed = (0x015a4e35 * seed) % 0x7fffffff;
+  return (seed >> 16) % n;
+}
+
+function randomIdea() {
+  rq = rand(max);
+  if (rq < 0) {
+    rq = 0;
+  }
+  if (rq >= max) {
+    rq = max - 1;
+  }
+  var page = qfilename[rq];
+	window.location.replace(page);
+}
+
+</script>
+    
+</body>
+</html>

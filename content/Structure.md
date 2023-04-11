@@ -1,6 +1,6 @@
 Title:  Structure
 
-Seq:    1.3
+Seq:    1.4
 
 Level:  3 - Article
 
@@ -14,11 +14,10 @@ Before diving into the ideas themselves, let me say a few words about the overal
 
 The bulk of the work consists of 52 *Big Ideas*.
 
-These are divided into the following sections:
+These are divided into the following sections.
 
 | Title | Description |
 | :---- | :---------- |
-| [[Intro]] | Introductory materials, to help orient the reader
 | [[Fundamental]] | Ideas applicable to all phases and all roles
 | [[Leadership]] | Ideas primarily of interest to those in any sort of leadership role 
 | [[People]] | Ideas that help with human issues 

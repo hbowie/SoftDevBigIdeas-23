@@ -30,13 +30,13 @@ Such accountability can be reinforced by scheduling the work to be done in brief
 
 Such teams can then freely assign work to be done to the team members most qualified to do them, or with the most available time. When trouble is encountered, then such teams can quickly shift assignments to bring more help to bear on the trouble spots.
 
-Such a team will generally use daily team meetings -- often known as <a href="http://martinfowler.com/articles/itsNotJustStandingUp.html" class="reflink" target="ref">stand-ups</a>, due to their brevity -- to allow each team member to communicate progress, next steps and any issues encountered. If additional assignments need to be made to address issues, then these can quickly be done during these same daily meetings.
+Such a team will generally use daily team meetings -- often known as [stand-ups](http://martinfowler.com/articles/itsNotJustStandingUp.html), due to their brevity -- to allow each team member to communicate progress, next steps and any issues encountered. If additional assignments need to be made to address issues, then these can quickly be done during these same daily meetings.
 
 Such a team will also typically use some sort of highly visible task board -- either a physical board or an electronic equivalent -- so that progress towards team goals is always easily available to all team members.
 
 Such a team will also typically work to a common set of completion criteria for its coding tasks, often referred to as a [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/) Team members will then hold each other accountable to make sure that whey they say they are done with a task, that their work meets this DoD defined by the team.
 
-Progress of such a team, especially when delivering early and often, will generally be tracked using <a href="https://en.wikipedia.org/wiki/Burn_down_chart" class="reflink" target="ref">burn down charts</a>. Charts like these show the general progress of the team as a whole towards meeting its commitments for the current sprint, without getting bogged down in the details of who's working on what and actual vs. planned numbers for each individual task.
+Progress of such a team, especially when delivering early and often, will generally be tracked using [burn down charts](https://en.wikipedia.org/wiki/Burn_down_chart). Charts like these show the general progress of the team as a whole towards meeting its commitments for the current sprint, without getting bogged down in the details of who's working on what and actual vs. planned numbers for each individual task.
 
 The advantage of such a team is that, by leveraging the skills and wisdom of the team as a whole, and by leveraging peer-to-peer communication, the detailed work can be more quickly and effectively managed than could be done by the traditional hierarchical arrangement of communicating through a project manager.
 

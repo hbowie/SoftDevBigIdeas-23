@@ -1,0 +1,12 @@
+<?output "../includes-gen/nav-sidebar.html"?>
+	<nav>
+<?nextrec?>
+<?if "=$level$=" eq "2 - Section" ?>
+		<p>
+			<a href="=$title&f$=.html" class="nav-link">
+				=$title$=
+			</a>
+		</p>
+<?endif?>
+<?loop?>
+	</nav>

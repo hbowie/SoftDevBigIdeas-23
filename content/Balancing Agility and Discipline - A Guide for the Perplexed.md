@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Boehm, Barry and Turner, Richard
+Author: Barry Boehm and Richard Turner
 
 Work Type: Book
 

@@ -8,7 +8,7 @@ Timestamp: 20230209174449
 
 Body:
 
-*by Herb Bowie*
+<p class="byline">by Herb Bowie</p>
 
 This book provides a broad overview of the most important ideas to consider when developing software. 
 
@@ -17,4 +17,4 @@ This book provides a broad overview of the most important ideas to consider when
 + Citing relevant wisdom from over 100 different sources...
 + Impeccably organized and indexed. 
 
-Read it straight through or reference specific ideas as needed.
+Read it straight through or consult the Navigation section to access the content in other ways.

@@ -12,7 +12,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Glazer, Hillel et al.
+Author: Hillel Glazer et al.
 
 Work Type: Article
 

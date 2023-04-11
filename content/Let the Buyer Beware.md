@@ -22,7 +22,7 @@ Here are some key issues to be considered before purchasing a Commercial Off the
 
 **1. Can system requirements be based on some set of rules that are generally accepted by industry?**
 
-As an example, a computer-aided design (CAD) system is based on certain rules of geometry -- pretty hard for a user to insist that these need to be customized! Similarly, an application like <a href="http://www.turbotax.com" class="reflink" target="ref">TurboTax</a> is based on a particular country's tax code -- which would make it hard to justify the internal development of a custom system to perform a similar function. Another example would be a <a href="http://en.wikipedia.org/wiki/Material_requirements_planning" class="reflink" target="ref">Materials Requirements Planning</a> (MRP) system, which can rely on standard practices defined by the <a href="http://www.apics.org" class="reflink" target="ref">APICS</a> organization.
+As an example, a computer-aided design (CAD) system is based on certain rules of geometry -- pretty hard for a user to insist that these need to be customized! Similarly, an application like [TurboTax](https://www.turbotax.com) is based on a particular country's tax code -- which would make it hard to justify the internal development of a custom system to perform a similar function. Another example would be a [Materials Requirements Planning](https://en.wikipedia.org/wiki/Material_requirements_planning) (MRP) system, which can rely on standard practices defined by the [APICS](https://www.apics.org) organization.
 
 In my experience, COTS packages that are largely based on standard sets of rules such as these are frequently well accepted by users and developers, while others with more variable or controversial requirements are not.
 

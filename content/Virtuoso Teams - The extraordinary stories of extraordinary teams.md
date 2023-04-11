@@ -10,7 +10,7 @@ Level:  4 - Subsection
 
 Class:  work
 
-Author: Boynton, Andy and Fischer, Bill
+Author: Andy Boynton and Bill Fischer
 
 Work Type: Book
 
