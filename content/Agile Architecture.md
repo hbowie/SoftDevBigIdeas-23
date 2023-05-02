@@ -62,7 +62,6 @@ Let's see if we can unpack this subject a bit, and possibly even reach agreement
     <a href="#who-does-architecture">Who Does Architecture?</a>
   </li>
 </ul>
-
 </div>
 
 

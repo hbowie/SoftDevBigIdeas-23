@@ -22,15 +22,15 @@ It occurred to me recently that the basic differences in lean culture might be r
 
 The model consists of only three elements. 
 
-#### Structure
+#### 1. Structure
 
 By structure, I mean processes, tools, organization charts, roles and responsibilities, job definitions and grades, concepts of operation, budgets, plans, performance goals and objectives, metrics systems and all the other documents and systems by which companies define the ways in which they expect to work. 
 
-#### People
+#### 2. People
 
 By people, I mean those who actually do the work of the organization. 
 
-#### Issues
+#### 3. Issues
 
 By issues, I mean problems, opportunities, risks, red flags, items with which people need help, events that should stimulate action, and situations that require decisions.
 

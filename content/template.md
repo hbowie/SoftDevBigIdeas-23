@@ -8,11 +8,11 @@ Tags: <tags>
 
 Seq: <seq: n.|n|n|n|n|n> 
 
-Idea Number: <displayseq: No._XXX_&ndash;_> 
+Idea Number: <displayseq: No._XXX_&#8211;_> 
 
 Level: <level: 1 - Book; 2 - Section; 3 - Article; 4 - Subsection; 5 - Detail; > 
 
-Class: <class:  article, author, back, biblio, front, intro, quote, section, work > 
+Class: <class:  article, author, back, biblio, exclude, front, idea, intro, quote, section, title-page, work > 
 
 Author: <author> 
 

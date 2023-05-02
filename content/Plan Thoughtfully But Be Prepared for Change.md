@@ -6,7 +6,7 @@ Idea Number: 32
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160603150616
 
@@ -55,4 +55,3 @@ The [[Manifesto for Agile Software Development]] expresses this idea by stating 
 {:include-quote:Real creation is sloppy}
 
 {:include-quote:Always surprises in store for us}
-

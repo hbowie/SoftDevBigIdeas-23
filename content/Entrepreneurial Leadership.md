@@ -8,7 +8,7 @@ Idea Number: 20
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160603162548
 
@@ -16,7 +16,7 @@ Index:  Block, Peter; Ive, Jony; Liker, Jeffrey K.; Lopp, Michael; Morgan, James
 
 Body:
 
-The <a href="https://en.wikipedia.org/wiki/Entrepreneurial_leadership" class="reflink" target="ref">Wikipedia article on Entrepreneurial Leadership</a> defines the attributes of an entrepreneurial leader in this way:
+The [Wikipedia article on Entrepreneurial Leadership](https://en.wikipedia.org/wiki/Entrepreneurial_leadership) defines the attributes of an entrepreneurial leader in this way:
 
 > The entrepreneurial leader will work within a formalized organizational structure, but use the approaches normally expected of an entrepreneur to identify opportunities to gain advantage. They also have the ability to then manage change to deliver that advantage. Key to this is the effective management of risk rather than the minimization of risk often sought within corporate environments. The entrepreneurial leader must have the ability to learn fast and within environments of ambiguity and change, while providing clarity and coherence for those around them.
 
@@ -38,7 +38,7 @@ On the other hand, the Entrepreneurial Path requires:
 
 Let's look at each of these three areas in more detail.
 
-* **Greatness** vs. Maintenance: Steve Jobs used the phrase "insanely great" to describe Apple products. By taking the path of greatness, a leader sets a high bar for his development team, as well as providing them with a strong sense of purpose. For more on this topic, see the Pagan Tuna post &ldquo;[[Thinking Differently about Perfectionism]].&rdquo;
+* **Greatness** vs. Maintenance: Steve Jobs used the phrase "insanely great" to describe Apple products. By taking the path of greatness, a leader sets a high bar for his development team, as well as providing them with a strong sense of purpose. For more on this topic, see the Pagan Tuna post &#8220;[[Thinking Differently about Perfectionism]].&#8221;
 
 * **Courage** vs. Caution: Developing a new software product always involves some significant level of risk. A leader should certainly not be foolhardy, but neither should his goal be to avoid all risk, for in so doing he is not likely to achieve anything of lasting value.
 
@@ -58,6 +58,4 @@ And, in his extensive [[The Shape of Things to Come|article about Jony Ive]] in 
 
 {:include-quote-body:Design leadership}
 
-For more on the topic of entrepreneurial leadership, see the Pagan Tuna post &ldquo;[[The Watery Ketchup Stops Here]].&rdquo;
-
-
+For more on the topic of entrepreneurial leadership, see the Pagan Tuna post &#8220;[[The Watery Ketchup Stops Here]].&#8221;

@@ -6,7 +6,7 @@ Idea Number: 41
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160808154900
 

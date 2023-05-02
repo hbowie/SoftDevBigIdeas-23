@@ -6,7 +6,7 @@ Idea Number: 44
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160505222456
 
@@ -31,7 +31,7 @@ This is one reason why code reviews, automated testing, user demos and frequent 
 
 Another benefit of early discovery of problems is that it is generally easier for team members at this point to understand how and why they occurred, and to figure out how to reduce the likelihood of similar problems in the future.
 
-Note that making problems visible is a central tenet of <a href="https://en.wikipedia.org/wiki/Lean_manufacturing" class="reflink" target="ref">Lean</a>, as indicated in this New York Times article from 2007:
+Note that making problems visible is a central tenet of [Lean](https://en.wikipedia.org/wiki/Lean_manufacturing), as indicated in this New York Times article from 2007:
 
 {:include-quote:A shock to the system to make problems visible}
 
@@ -45,5 +45,4 @@ In traditional thinking, the emphasis is first and foremost on putting various o
 
 In lean thinking, this emphasis is reversed. Solving problems is viewed as a primary function for all workers, people are coached to enhance their problem-solving skills, and fluid structures are created and modified to adapt to emergent problems and their solutions.
 
-For more on this topic, see the Pagan Tuna post, &ldquo;[[A New Model for Lean Culture]].&rdquo;
-
+For more on this topic, see the Pagan Tuna post, &#8220;[[A New Model for Lean Culture]].&#8221;

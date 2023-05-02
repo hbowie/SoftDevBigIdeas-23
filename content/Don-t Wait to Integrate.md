@@ -8,7 +8,7 @@ Idea Number: 46
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160708142318
 

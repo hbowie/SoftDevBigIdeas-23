@@ -6,7 +6,7 @@ Idea Number: 50
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160712164210
 
@@ -18,7 +18,7 @@ Project management -- and its big brother, program management -- certainly have 
 
 However, many of the important things happening on a project cannot be directly measured through any project management technique I've ever seen. Are big decisions getting swept under the rug? Are junior programmers being left on their own to cut code that will need to be rewritten later? Is the team working on the easy things, and leaving all the hard things for later? Are analysts generating reams of requirements documents that are full of boilerplate text, and say little or nothing of any significance? Are key customers too busy, and not paying enough attention during document reviews and product demos? Are some customers in violent disagreement with each other, and secretly hoping the project will fail? These are the sorts of things that typically torpedo projects -- not the fact that the project is 2% off on its earned value measures.
 
-This is not to say that good project managers can't detect these sorts of issues -- but it is to say that increased application of <a href="https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK" class="reflink" target="ref">project management discipline</a> is not likely to bring these issues to light, let alone correct them.
+This is not to say that good project managers can't detect these sorts of issues -- but it is to say that increased application of [project management discipline](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK) is not likely to bring these issues to light, let alone correct them.
 
 It doesn't help that, in many organizations, project managers must report a version of reality that satisfies leadership's unrealistic expectations about a project and how it will perform.
 
@@ -31,4 +31,3 @@ Think of project management as something like a color-blind monitor trying to ma
 {:include-quote:Six impossible things before breakfast}
 
 {:include-quote:A multitude of tiny gremlins}
-

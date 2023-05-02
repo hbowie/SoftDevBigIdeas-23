@@ -8,7 +8,7 @@ Idea Number: 38
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160531210536
 
@@ -53,4 +53,3 @@ It's useful to consider the total cycle time required for your team to deliver a
 ##### Words from Others on this Topic
 
 {:include-quote:Useful and Extensible}
-

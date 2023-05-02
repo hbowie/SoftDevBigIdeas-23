@@ -6,7 +6,7 @@ Idea Number: 47
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160606150011
 
@@ -73,4 +73,3 @@ Humphrey has gone on to suggest strongly that practices that work well at the lo
 ##### Words from Others on this Topic
 
 {:include-quote:Software is a plastic object}
-

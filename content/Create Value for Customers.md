@@ -6,7 +6,7 @@ Idea Number: 5
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160602010937
 

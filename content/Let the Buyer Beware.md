@@ -6,7 +6,7 @@ Idea Number: 51
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160713163748
 
@@ -55,4 +55,3 @@ Consideration of these factors can often help guide a team to a make-or-buy deci
 ##### Words from Others on this Topic
 
 {:include-quote:The business of selling more technology}
-

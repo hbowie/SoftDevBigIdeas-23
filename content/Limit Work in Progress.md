@@ -6,7 +6,7 @@ Idea Number: 43
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160606180007
 
@@ -16,7 +16,7 @@ Body:
 
 In many software development environments, new requests seem to continually arrive in an uncontrolled fashion. The result can often be that work on the latest request interrupts completion of work that arrived earlier, so that all requests tend to take longer to complete, and the total amount of work-in-progress (WIP) increases, making it exponentially more difficult to manage.
 
-Such an uncontrolled intake process also tends to reduce overall developer productivity, since developers spend more time <a href="https://en.wikipedia.org/wiki/Task_switching_(psychology)" class="reflink" target="ref">task switching</a>, and less time actually doing productive development.
+Such an uncontrolled intake process also tends to reduce overall developer productivity, since developers spend more time [task switching](https://en.wikipedia.org/wiki/Task_switching_(psychology)), and less time actually doing productive development.
 
 This is why it is generally critical to limit the entry of new requests into an active in-work state. There are various approaches to implementing such limits, but one of them should generally be adopted in any active development environment.
 

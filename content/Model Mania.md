@@ -12,7 +12,7 @@ Timestamp: 20230222241938
 
 Body:
 
-<img src="http://hbr.org/products/11990-HBK-ENG/thumbnail/thumbnail.gif" alt="Adventures of an IT Leader Book Cover" title="" class="pic-right"> I just finished an interesting new book by Rob Austin, Richard Nolan and Shannon O'Donnell, called <cite>[Adventures of an IT Leader][adventures]</cite>. The authors offer a fictionalized account of a business executive's ups and downs after being assigned the job of CIO for his company. The book does a good job of describing the dilemmas faced by Information Technology leaders, and offers some helpful (although not always simple) advice on how to confront these issues. 
+<img src="http://hbr.org/products/11990-HBK-ENG/thumbnail/thumbnail.gif" alt="Adventures of an IT Leader Book Cover" title="" class="pic-right" /> I just finished an interesting new book by Rob Austin, Richard Nolan and Shannon O'Donnell, called <cite>[Adventures of an IT Leader][adventures]</cite>. The authors offer a fictionalized account of a business executive's ups and downs after being assigned the job of CIO for his company. The book does a good job of describing the dilemmas faced by Information Technology leaders, and offers some helpful (although not always simple) advice on how to confront these issues. 
 
 At the end of the book, just as our hero is starting to feel like he has a handle on this whole CIO thing, he meets up with a shadowy, wizardly character who has been offering cryptic, sometimes zen-like advice over the course of the tale, and this guy proceeds to burst our hero's bubble. 
 
@@ -34,7 +34,7 @@ Over the course of my career I've had occasion to become acquainted with a numbe
 * The [Information Technology Infrastructure Library][itil]
 * The Project Management Body of Knowledge, or [PMBOK][]
 
-<img src="images/frankenstein.jpg" alt="Frankenstein Movie Poster" title="" class="pic-right"> And while all of these models have proven useful at times, I have noticed that there is a disturbing tendency for all of these creations of ours to eventually grow beyond our original intentions, to assume lives of their own, and to eventually turn on their masters, like Frankenstein's monster. 
+<img src="images/frankenstein.jpg" alt="Frankenstein Movie Poster" title="" class="pic-right" /> And while all of these models have proven useful at times, I have noticed that there is a disturbing tendency for all of these creations of ours to eventually grow beyond our original intentions, to assume lives of their own, and to eventually turn on their masters, like Frankenstein's monster. 
 
 More specifically, all such models seem to bring with them the following associated problems. 
 
@@ -56,7 +56,7 @@ But let's keep them off the pedestals and on their leashes, please, to remind us
 
 -- Herb Bowie (the Model whisperer)
 
-[adventures]: http://www.amazon.com/gp/product/142214660X?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=142214660X
+[adventures]: http://www.amazon.com/gp/product/142214660X
 [cmii]: http://www.icmhq.com/
 [sw-cmm]: http://en.wikipedia.org/wiki/Capability_Maturity_Model
 [cmmi]: http://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration

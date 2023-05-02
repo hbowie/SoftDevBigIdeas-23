@@ -6,7 +6,7 @@ Idea Number: 27
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160503173327
 
@@ -32,7 +32,7 @@ Software developers are all different, and different along many different dimens
 
 * Teaming -- Some developers play well with others, while some tend to operate more independently.
 
-When considering these differences, it's good to be familiar with the [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), since experts often behave very differently than beginners when it comes to their tolerance/need for rigid rules. For more on this topic, see the Pagan Tuna post, &ldquo;[[The Dreyfus Model of Skill Acquisition]].&rdquo; Also see "[[The Seven Stages of Expertise in Software Engineering]]," by Meilir Page-Jones.
+When considering these differences, it's good to be familiar with the [Dreyfus Model of Skill Acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition), since experts often behave very differently than beginners when it comes to their tolerance/need for rigid rules. For more on this topic, see the Pagan Tuna post, &#8220;[[The Dreyfus Model of Skill Acquisition]].&#8221; Also see "[[The Seven Stages of Expertise in Software Engineering]]," by Meilir Page-Jones.
 
 It's also good to consider these differences when forming a team. You generally will want a good mix of skills and experience, and you will want teammates who can work well together.
 

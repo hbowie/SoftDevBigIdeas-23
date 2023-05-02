@@ -6,7 +6,7 @@ Idea Number: 16
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160613181854
 
@@ -46,7 +46,7 @@ The PDCA cycle can also be thought of as a compressed version of the [Scientific
 <tr>
 <th class="shaded" rowspan="4">Plan</th>
 <td class="shaded">Ask a Question</td>
-<td class="shaded">&nbsp;</td>
+<td class="shaded">&#160;</td>
 <td class="shaded">How can our users best navigate through our new web app?</td>
 </tr>
 <tr>

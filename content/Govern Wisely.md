@@ -8,11 +8,11 @@ Idea Number: 22
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160508221220
 
-Index:  Apple; EVM; Earned Value Management; Gretzky, Wayne; Humphrey, Watts; Jobs, Steve; MR; Management Reserve; OpenDoc; PBR (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); Plan-Build-Run Model (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); ROM estimates; Shark Tank; competitive differentiation; death march; governance; progress; puck; repeatable process; strategy; venture capitalists;
+Index:  Apple; EVM; Earned Value Management; Gretzky, Wayne; Humphrey, Watts; Jobs, Steve; MR; Management Reserve; OpenDoc; PBR (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); Plan-Build-Run Model (http://blog.isg-one.com/plan-build-run-the-divide-and-conquer-style-of-it/); ROM estimates; Shark Tank; competitive differentiation; death march; governance; progress; puck; repeatable process; strategy; venture capitalists; 
 
 Body:
 
@@ -40,7 +40,7 @@ Another important governance function is to ensure that initial project estimate
 
 Of course, at this point, you will be doing Rough Order-of-Magnitude (ROM) estimates, so you will want to make sure you have some reasonable amount of <a href="https://www.humphreys-assoc.com/evms/effective-management-reserve-ta-a-60.html" class="reflink" target="ref">management reserve</a> -- in terms of both budget and schedule -- available to cover risks that cannot be completely known to the project at this early stage of the game. You should also make sure you have a way of defending that reserve so that it is not squandered on non-essential items.
 
-Another important function of governance is to select and implement appropriate progress measures for each project. How will you know if the project is on track to meet its key milestones? A formal Earned Value Management system won't always be necessary, but some equivalent will be needed. For more on this topic, see the Pagan Tuna post, &ldquo;[[EVM for Mere Mortals]].&rdquo;
+Another important function of governance is to select and implement appropriate progress measures for each project. How will you know if the project is on track to meet its key milestones? A formal Earned Value Management system won't always be necessary, but some equivalent will be needed. For more on this topic, see the Pagan Tuna post, &#8220;[[EVM for Mere Mortals]].&#8221;
 
 ----
 

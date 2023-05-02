@@ -8,7 +8,7 @@ Idea Number: 10
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160613161647
 

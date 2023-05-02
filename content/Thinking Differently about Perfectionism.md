@@ -44,9 +44,9 @@ Come off it. Let's get real. What are the possible reasons for *not* being a per
 
 4. You consider your brain to be an organ only slightly less superfluous than your tonsils and your gall bladder. 
 
-I think I detect a certain degree of intellectual dishonesty in these criticisms of Jobs. I have read many of these articles carefully, and found no spelling errors, no grammatical gaffes. Could it be that these authors are themselves suffering from bouts of niggling perfectionism? Are these the sorts of people who might complain about spelling errors found in others' work, even after coming home from a hard day at the office? In short, might we find well-worn copies of <cite>[Eats, Shoots & Leaves](http://www.amazon.com/gp/product/1592400876/ref=as_li_ss_tl?ie=UTF8&tag=reasontorock-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1592400876)</cite> at home in their closets?
+I think I detect a certain degree of intellectual dishonesty in these criticisms of Jobs. I have read many of these articles carefully, and found no spelling errors, no grammatical gaffes. Could it be that these authors are themselves suffering from bouts of niggling perfectionism? Are these the sorts of people who might complain about spelling errors found in others' work, even after coming home from a hard day at the office? In short, might we find well-worn copies of <cite>[Eats, Shoots & Leaves](https://www.amazon.com/gp/product/1592400876/ref=as_li_ss_tl)</cite> at home in their closets?
 
-In the same <cite>Atlantic Wire</cite> piece, another sign of Jobs' "disease" is offered up as a quote from a Malcolm Gladwell piece, itself based on the new [Isaacson biography](http://www.amazon.com/gp/product/1451648537/ref=as_li_ss_tl?ie=UTF8&tag=reasontorock-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1451648537):
+In the same <cite>Atlantic Wire</cite> piece, another sign of Jobs' "disease" is offered up as a quote from a Malcolm Gladwell piece, itself based on the new [Isaacson biography](https://www.amazon.com/gp/product/1451648537/ref=as_li_ss_tl):
 
 > He arrives at his hotel suite in New York for press interviews and decides, at 10 P.M., that the piano needs to be repositioned.
 

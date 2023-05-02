@@ -6,7 +6,7 @@ Idea Number: 39
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160614163943
 
@@ -49,4 +49,3 @@ A self-organizing team also tends to produce higher levels of [[Increase Develop
 {:include-quote:Do what is necessary}
 
 {:include-quote:People working far from the limelight}
-

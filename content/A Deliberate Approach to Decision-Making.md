@@ -6,7 +6,7 @@ Idea Number: 40
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160607173946
 
@@ -35,4 +35,3 @@ As you consider this stream of decisions on your project, it's important to keep
 {:include-quote:The Last Responsible Moment}
 
 {:include-quote:Model II Decision-Making}
-

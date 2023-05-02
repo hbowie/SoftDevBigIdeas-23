@@ -8,7 +8,7 @@ Idea Number: 31
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160614153509
 
@@ -89,7 +89,7 @@ But then the researchers asked one more question:
 
 Ninety-four percent of the doctors then answered in the affirmative.
 
-For further discussion on the topic of software quality, see the Pagan Tuna post, &ldquo;[[Software Defects]].&rdquo;
+For further discussion on the topic of software quality, see the Pagan Tuna post, &#8220;[[Software Defects]].&#8221;
 
 ----
 
@@ -100,4 +100,3 @@ For further discussion on the topic of software quality, see the Pagan Tuna post
 {:include-quote:Rigorous Inspections}
 
 {:include-quote:You get what you design for}
-

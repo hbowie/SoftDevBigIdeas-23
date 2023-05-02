@@ -6,7 +6,7 @@ Idea Number: 45
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160505162157
 
@@ -27,4 +27,3 @@ This is the idea supporting the assertion of the [Agile Manifesto][beck-et-al-20
 {:include-quote:Software development is a knowledge-creating process}
 
 {:include-quote:People who often change their minds}
-

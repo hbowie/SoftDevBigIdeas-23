@@ -14,7 +14,7 @@ Body:
 
 *Originally published at PaganTuna.com on 21 Mar 2015.*
 
-For those who have not yet heard of it, the Scaled Agile Framework, or [SAFe][]&reg; for short, is a "publicly available framework for applying lean/agile practices at Enterprise scale." 
+For those who have not yet heard of it, the Scaled Agile Framework, or [SAFe][]&#174; for short, is a "publicly available framework for applying lean/agile practices at Enterprise scale." 
 
 I believe that the SAFe model offers a number of benefits to those who may be considering its use. Let me enumerate them. 
 
@@ -28,7 +28,7 @@ The framework is available as a website, with a diagram on the home page ("The B
 
 ## 3. It is lightweight, in the best sense of the term. 
 
-Unlike the CMMI&reg;, or ITIL&reg;, or other somewhat comparable industry frameworks, this is not a massive tome that requires years of dedication to master; each graphic on the home page takes you to a single web page, consisting of a quotation or two, a graphic or two, some key definitions and concepts, and then reference links to additional details that can be found in some other (generally more comprehensive) sources. 
+Unlike the CMMI&#174;, or ITIL&#174;, or other somewhat comparable industry frameworks, this is not a massive tome that requires years of dedication to master; each graphic on the home page takes you to a single web page, consisting of a quotation or two, a graphic or two, some key definitions and concepts, and then reference links to additional details that can be found in some other (generally more comprehensive) sources. 
 
 ## 4. It is practical. 
 

@@ -6,7 +6,7 @@ Idea Number: 42
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160601214652
 
@@ -47,4 +47,3 @@ While the following list of suggested CM practices is not exhaustive, it's a goo
 ##### Words from Others on this Topic
 
 {:include-quote:Integrate environment creation into the development process}
-

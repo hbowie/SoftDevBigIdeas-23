@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The Big Ideas in Software Development | A Random Idea</title>
-  <meta name="description" content="The Big Ideas in Software Development: A Random Idea">
+  <title>The Big Ideas in Software Development | Random Idea</title>
+  <meta name="description" content="The Big Ideas in Software Development: Random Idea">
   <meta name="author" content="Herb Bowie">
 	<link rel="icon" href="images/favicon-32.png"  sizes="32x32">
 	<link rel="icon" href="images/favicon-128.png" sizes="128x128">
@@ -13,145 +13,179 @@
   <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <body>
+	<nav>
+		<ul>
+			<li><a href="table-of-contents.html" class="wiki-link">Contents</a></li>
+			<li><a href="alphabetical-index.html" class="wiki-link">Index</a> </li>
+			<li><a href="list-of-ideas.html" class="wiki-link">Ideas</a></li>
+			<li><a href="random-idea.html" class="wiki-link">Random</a></li>
+		</ul>
+	</nav>
 
   <main>
 
-  </main>
-  
+<p>10 <a href="navigation.html" class="nav-link">Navigation</a>&nbsp;&#8593;</p>
 
+<h3 id="random-idea">10.6 Random Idea</h3>
+
+
+
+<div id="random-note">
+</div>
 <script>
-
-var qfilename = new Array();
+var fileNames = new Array();
 var ix = 0;
-qfilename[ix] = "this-thinking-business.html";
+fileNames[ix] = "this-thinking-business.html";
 ix++;
-qfilename[ix] = "cohesion.html";
+fileNames[ix] = "acknowledge-uncertainty.html";
 ix++;
-qfilename[ix] = "loose-coupling.html";
+fileNames[ix] = "the-inconvenient-nature-of-software-development.html";
 ix++;
-qfilename[ix] = "communicate-clearly.html";
+fileNames[ix] = "software-development-is-a-balancing-act.html";
 ix++;
-qfilename[ix] = "consider-alternatives.html";
+fileNames[ix] = "create-value-for-customers.html";
 ix++;
-qfilename[ix] = "have-wonderful-arguments.html";
+fileNames[ix] = "automate-repetitive-tasks.html";
 ix++;
-qfilename[ix] = "show-rather-than-tell.html";
+fileNames[ix] = "use-things-already-known-to-work.html";
 ix++;
-qfilename[ix] = "plan-do-check-act.html";
+fileNames[ix] = "simplify-and-generalize.html";
 ix++;
-qfilename[ix] = "shorten-feedback-loops.html";
+fileNames[ix] = "decomposition.html";
 ix++;
-qfilename[ix] = "understand-the-arc-of-your-project.html";
+fileNames[ix] = "cohesion.html";
 ix++;
-qfilename[ix] = "whats-not-done-is-as-important-as-whats-done.html";
+fileNames[ix] = "loose-coupling.html";
 ix++;
-qfilename[ix] = "acknowledge-uncertainty.html";
+fileNames[ix] = "communicate-clearly.html";
 ix++;
-qfilename[ix] = "entrepreneurial-leadership.html";
+fileNames[ix] = "consider-alternatives.html";
 ix++;
-qfilename[ix] = "build-great-teams.html";
+fileNames[ix] = "have-wonderful-arguments.html";
 ix++;
-qfilename[ix] = "govern-wisely.html";
+fileNames[ix] = "show-rather-than-tell.html";
 ix++;
-qfilename[ix] = "take-a-long-term-economic-perspective.html";
+fileNames[ix] = "plan-do-check-act.html";
 ix++;
-qfilename[ix] = "consider-what-might-go-wrong.html";
+fileNames[ix] = "shorten-feedback-loops.html";
 ix++;
-qfilename[ix] = "increase-developer-engagement.html";
+fileNames[ix] = "understand-the-arc-of-your-project.html";
 ix++;
-qfilename[ix] = "developers-are-always-growing.html";
+fileNames[ix] = "whats-not-done-is-as-important-as-whats-done.html";
 ix++;
-qfilename[ix] = "developers-are-not-interchangeable.html";
+fileNames[ix] = "entrepreneurial-leadership.html";
 ix++;
-qfilename[ix] = "agree-on-terms-of-engagement.html";
+fileNames[ix] = "build-great-teams.html";
 ix++;
-qfilename[ix] = "pick-the-right-sort-of-customer-proxy.html";
+fileNames[ix] = "govern-wisely.html";
 ix++;
-qfilename[ix] = "the-inconvenient-nature-of-software-development.html";
+fileNames[ix] = "take-a-long-term-economic-perspective.html";
 ix++;
-qfilename[ix] = "craft-a-product-vision.html";
+fileNames[ix] = "consider-what-might-go-wrong.html";
 ix++;
-qfilename[ix] = "quality-requires-extra-effort.html";
+fileNames[ix] = "increase-developer-engagement.html";
 ix++;
-qfilename[ix] = "plan-thoughtfully-but-be-prepared-for-change.html";
+fileNames[ix] = "developers-are-always-growing.html";
 ix++;
-qfilename[ix] = "tailor-thoughtfully.html";
+fileNames[ix] = "developers-are-not-interchangeable.html";
 ix++;
-qfilename[ix] = "sharpen-your-axe.html";
+fileNames[ix] = "agree-on-terms-of-engagement.html";
 ix++;
-qfilename[ix] = "when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts.html";
+fileNames[ix] = "pick-the-right-sort-of-customer-proxy.html";
 ix++;
-qfilename[ix] = "seek-first-to-understand-your-customer.html";
+fileNames[ix] = "craft-a-product-vision.html";
 ix++;
-qfilename[ix] = "just-enough-design-up-front.html";
+fileNames[ix] = "quality-requires-extra-effort.html";
 ix++;
-qfilename[ix] = "deliver-early-and-often.html";
+fileNames[ix] = "plan-thoughtfully-but-be-prepared-for-change.html";
 ix++;
-qfilename[ix] = "self-organizing-teams.html";
+fileNames[ix] = "tailor-thoughtfully.html";
 ix++;
-qfilename[ix] = "software-development-is-a-balancing-act.html";
+fileNames[ix] = "sharpen-your-axe.html";
 ix++;
-qfilename[ix] = "a-deliberate-approach-to-decision-making.html";
+fileNames[ix] = "when-estimating-the-whole-is-definitely-greater-than-the-sum-of-its-parts.html";
 ix++;
-qfilename[ix] = "decrease-friction-increase-flow.html";
+fileNames[ix] = "seek-first-to-understand-your-customer.html";
 ix++;
-qfilename[ix] = "configuration-management.html";
+fileNames[ix] = "just-enough-design-up-front.html";
 ix++;
-qfilename[ix] = "limit-work-in-progress.html";
+fileNames[ix] = "deliver-early-and-often.html";
 ix++;
-qfilename[ix] = "make-problems-visible.html";
+fileNames[ix] = "self-organizing-teams.html";
 ix++;
-qfilename[ix] = "remain-open-to-fresh-learning.html";
+fileNames[ix] = "a-deliberate-approach-to-decision-making.html";
 ix++;
-qfilename[ix] = "dont-wait-to-integrate.html";
+fileNames[ix] = "decrease-friction-increase-flow.html";
 ix++;
-qfilename[ix] = "software-is-different.html";
+fileNames[ix] = "configuration-management.html";
 ix++;
-qfilename[ix] = "software-development-is-a-craft.html";
+fileNames[ix] = "limit-work-in-progress.html";
 ix++;
-qfilename[ix] = "documentation-is-not-an-end-unto-itself.html";
+fileNames[ix] = "make-problems-visible.html";
 ix++;
-qfilename[ix] = "create-value-for-customers.html";
+fileNames[ix] = "remain-open-to-fresh-learning.html";
 ix++;
-qfilename[ix] = "do-not-place-excessive-faith-in-project-and-program-management.html";
+fileNames[ix] = "dont-wait-to-integrate.html";
 ix++;
-qfilename[ix] = "let-the-buyer-beware.html";
+fileNames[ix] = "software-is-different.html";
 ix++;
-qfilename[ix] = "stay-focused-on-the-creation-of-working-software-for-real-people.html";
+fileNames[ix] = "software-development-is-a-craft.html";
 ix++;
-qfilename[ix] = "automate-repetitive-tasks.html";
+fileNames[ix] = "documentation-is-not-an-end-unto-itself.html";
 ix++;
-qfilename[ix] = "use-things-already-known-to-work.html";
+fileNames[ix] = "do-not-place-excessive-faith-in-project-and-program-management.html";
 ix++;
-qfilename[ix] = "simplify-and-generalize.html";
+fileNames[ix] = "let-the-buyer-beware.html";
 ix++;
-qfilename[ix] = "decomposition.html";
+fileNames[ix] = "stay-focused-on-the-creation-of-working-software-for-real-people.html";
 ix++;
 var max = ix;
 
 var now = new Date();
 var seed = now.getTime() % 0xffffffff;
+let results = document.querySelector('#random-note');
 
-randomIdea()
+randomNote();
 
 function rand(n) {
   seed = (0x015a4e35 * seed) % 0x7fffffff;
   return (seed >> 16) % n;
 }
 
-function randomIdea() {
-  rq = rand(max);
+function randomNote() {
+  var rq = rand(max);
   if (rq < 0) {
     rq = 0;
   }
   if (rq >= max) {
     rq = max - 1;
   }
-  var page = qfilename[rq];
-	window.location.replace(page);
+  var fileName = fileNames[rq];
+  let html = '<p>Click to go to <a href="' + fileName + '">random page</a>.</p>';
+  results.innerHTML = html;
 }
 
+
 </script>
-    
+
+
+
+
+<hr>
+
+
+
+<p>Next: <a href="bibliography.html" class="nav-link">Bibliography</a></p>
+
+  </main>
+  
+  <footer>
+		<p>Copyright &copy; 2009 - 2023 Herb Bowie 
+			<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">
+				CC BY-NC-SA 4.0
+			</a> except where noted 
+		</p>
+	</footer>
+	
 </body>
 </html>

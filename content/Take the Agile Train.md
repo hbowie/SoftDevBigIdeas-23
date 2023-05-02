@@ -69,4 +69,4 @@ For those interested in learning more about Marsalis, jazz and technology, see t
 [harvard]: https://wyntonmarsalis.org/blog/entry/on-receiving-an-honorary-doctorate-at-harvard-university
 [harvard-pic]: https://news.harvard.edu/wp-content/uploads/2011/03/060409_com_jc_309_605.jpg
 [marsalis-google]: http://www.youtube.com/watch?v=_qsVApXwCqA
-[marsalis-2008]: http://www.amazon.com/gp/product/1400060788?ie=UTF8&tag=pagantuna-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1400060788
+[marsalis-2008]: http://www.amazon.com/gp/product/1400060788

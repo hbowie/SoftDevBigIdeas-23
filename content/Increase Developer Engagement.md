@@ -6,7 +6,7 @@ Idea Number: 25
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160531214816
 
@@ -68,7 +68,7 @@ There seem to be three possible approaches here:
 
 	In this third way, managers don't take themselves out of the game and reduce their roles to cheerleaders on the sidelines, but instead act with their own sense of purpose, autonomy and mastery to help their teams succeed.
 
-For more on the similarities between Jazz and Agile, see the Pagan Tuna post, &ldquo;[[Take the Agile Train]].&rdquo;
+For more on the similarities between Jazz and Agile, see the Pagan Tuna post, &#8220;[[Take the Agile Train]].&#8221;
 
 ----
 

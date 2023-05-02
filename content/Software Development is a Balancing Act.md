@@ -10,7 +10,7 @@ Idea Number: 4
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160614152009
 
@@ -26,7 +26,7 @@ The pros and cons of a polarity are often represented in the form of a polarity 
 
 ![Sample Polarity Map](images/polarity-map.jpg)
 
-If you are facing a polarity, then you will want to engage in <a href="http://www.polaritypartnerships.com/" class="reflink" target="ref">Polarity Management</a>, rather than trying to pick one pole or the other.
+If you are facing a polarity, then you will want to engage in [Polarity Management](https://www.polaritypartnerships.com/), rather than trying to pick one pole or the other.
 
 ##### Polarity Examples
 

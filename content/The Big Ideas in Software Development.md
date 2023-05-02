@@ -2,7 +2,7 @@ Title:  The Big Ideas in Software Development
 
 Level:  1 - Book
 
-Class:  front
+Class:  title-page
 
 Timestamp: 20230209174449
 

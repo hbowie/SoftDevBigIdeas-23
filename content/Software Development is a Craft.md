@@ -6,7 +6,7 @@ Idea Number: 48
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160531192600
 
@@ -39,4 +39,3 @@ The other problem with the idea of a software factory is the implicit notion tha
 {:include-quote:No magic answer to the software crisis}
 
 {:include-quote:Simplistic schemes to eliminate programmers}
-

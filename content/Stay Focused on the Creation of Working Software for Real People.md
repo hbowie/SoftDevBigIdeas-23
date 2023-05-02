@@ -6,7 +6,7 @@ Idea Number: 52
 
 Level:  3 - Article
 
-Class:  article
+Class:  idea
 
 Timestamp: 20160503152510
 
@@ -24,7 +24,7 @@ As noted in the SEI paper, "[[CMMI or Agile: Why Not Embrace Both!]]":
 
 The point here is that well-intentioned improvement efforts, whether initiated by management or by consultants, can all too easily prove a distraction to the actual production of working software to be used by real people, often to the detriment of everyone involved.
 
-In particular, you would do well to avoid any sort of zealotry concerning any particular model being peddled by management consultants: while most such models can be useful, all are imperfect representations of reality, and most tend to take on a life of their own after a certain period of time. For more on this topic, see the Pagan Tuna post, &ldquo;[[Model Mania]].&rdquo;
+In particular, you would do well to avoid any sort of zealotry concerning any particular model being peddled by management consultants: while most such models can be useful, all are imperfect representations of reality, and most tend to take on a life of their own after a certain period of time. For more on this topic, see the Pagan Tuna post, &#8220;[[Model Mania]].&#8221;
 
 It would be wise to pay heed to the advice on this subject from <cite>[[Steve Jobs: The Lost Interview]]</cite>:
 

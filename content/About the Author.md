@@ -12,7 +12,7 @@ Index:  author;
 
 Body:
 
-<img class="pic-right" src="images/herb-bowie.jpg" alt="Pic of Herb Bowie" title="Picture of Herb Bowie" ></img>
+<img class="pic-right" src="images/herb-bowie.jpg" alt="Pic of Herb Bowie" title="Picture of Herb Bowie" />
 
 *The Big Ideas in Software Development* was written by Herb Bowie.
 

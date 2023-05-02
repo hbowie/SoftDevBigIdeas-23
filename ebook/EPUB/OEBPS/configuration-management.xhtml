@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Configuration Management</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="css/styles.css" type="text/css" />
+</head>
+<body>
+
+<main>
+<h3 id="configuration-management">No. 42 &#8211; Configuration Management</h3>
+<p>As with many safety and quality practices, <a href="https://en.wikipedia.org/wiki/Configuration_management" class="reflink" target="ref">configuration management</a> is often most visible by its absence. </p>
+
+<p>As in&#8230; </p>
+
+<blockquote>
+
+<p>What do you mean, you can&#8217;t find the source code? </p>
+</blockquote>
+
+<p>Or&#8230; </p>
+
+<blockquote>
+
+<p>You know that nasty bug we discovered last week? </p>
+
+<p>Well, that&#8217;s been fixed now. </p>
+
+<p>Unfortunately, we&#8217;ve also somehow lost the last three enhancements we made. </p>
+</blockquote>
+
+<p>While the following list of suggested CM practices is not exhaustive, it&#8217;s a good place to start. </p>
+<ol>
+<li><p>Make sure you have multiple backups of your source code &#8211; in development as well as in production. </p></li>
+<li><p>Use a version control system that automatically maintains prior versions of all of your programs and modules. </p></li>
+<li><p>For each release of your application, maintain a complete list of all the application&#8217;s components, with the version level of each. </p></li>
+<li><p>Always create executables to be released via an automated build process using configuration-controlled source code. </p></li>
+<li><p>Maintain records that always allow you to trace back from any given change in the source code to the original request that provided the rationale for the change. </p></li>
+<li><p>Always maintain some <a href="https://en.wikipedia.org/wiki/Separation_of_duties" class="reflink" target="ref">separation of duties</a> (SoD) between the developers and the folks responsible for implementing a release to production. </p></li>
+</ol>
+
+<hr />
+
+<h5 id="words-from-others-on-this-topic">Words from Others on this Topic</h5>
+
+<figure class="notenik-quote-attrib"><blockquote><p>Chris seems excited. “Brent, if it’s okay with you and everyone else, I’d like to invite you to our team sprints, so that we can get environment creation integrated into the development process as early as possible. Right now, we focus mostly on having deployable code at the end of the project. I propose we change that requirement. At each three-week sprint interval, we not only need to have deployable code but also the exact environment that the code deploys into, and have that checked into version control, too.” </p></blockquote><figcaption><p>&#8211; <a href="kim-gene-behr-kevin-and-spafford-george.xhtml" class="wiki-link">Gene Kim and Kevin Behr and George Spafford</a>, <em><a href="the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win.xhtml" class="wiki-link">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></em>, 2013 </p></figcaption></figure>
+
+
+</main>
+</body>
+</html>

@@ -10,7 +10,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 22
+Last Index Selected: 257
 
 Mirror Auto Index: false
 
@@ -30,15 +30,19 @@ Curly Apostrophes: true
 
 Ext Links Open in New Windows: true
 
-Web Book Folder: /Users/hbowie/Sites/SoftDevBigIdeas-23/web
-
-Web Book EPUB: false
+Web Book Folder: /Users/hbowie/Sites/SoftDevBigIdeas-23/ebook
 
 Note File Format: nnk
 
 Hash Tags: false
 
-Window Numbers: 881.0;108.0;1509.0;1268.0;448.0;
+Window Numbers: 1263.0;147.0;1297.0;1268.0;448.0;
 
-Column Widths: dateadded: 100, 180, 250; date: 80, 120, 500; tags: 50, 100, 1200; statusdigit: 20, 30, 50; author: 100, 200, 1000; title: 200, 351, 1500; rank: 50, 80, 250; datemod: 100, 180, 250; x: 12, 20, 50; klass: 60, 80, 150; seq: 30, 80, 1500; 
+Column Widths: rank: 50, 80, 250; date: 80, 120, 500; x: 12, 20, 50; author: 100, 200, 1000; dateadded: 100, 180, 250; klass: 60, 80, 150; title: 200, 351, 1500; statusdigit: 20, 30, 50; tags: 50, 100, 1200; datemod: 100, 180, 250; seq: 30, 80, 1500; 
+
+header Note ID: headerpage
+
+metadata Note ID: epubmetadata
+
+nav Note ID: navpage
 
