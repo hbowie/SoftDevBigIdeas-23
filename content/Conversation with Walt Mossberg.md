@@ -6,7 +6,7 @@ Work Major Title: D8 Conference
 
 AKA:    jobs-2010
 
-Seq:    12.54.7
+Seq:    11.54.7
 
 Level:  4 - Subsection
 
@@ -16,7 +16,7 @@ Author: Jobs, Steve
 
 Work Type: Interview
 
-Pub Date: Jun 7, 2010
+Pub Date: 2010-06-07
 
 Link:   https://youtu.be/i5f8bqYYwps
 

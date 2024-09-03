@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    kahneman-2011
 
-Seq:    12.56.1
+Seq:    11.56.1
 
 Level:  4 - Subsection
 

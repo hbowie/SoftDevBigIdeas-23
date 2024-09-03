@@ -1,6 +1,6 @@
 Title:  footer-page
 
-Seq:    13.4
+Seq:    12.4
 
 Level:  3 - Article
 

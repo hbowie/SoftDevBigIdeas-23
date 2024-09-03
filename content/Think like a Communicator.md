@@ -1,6 +1,6 @@
 Title:  Think like a Communicator
 
-Seq:    12.47.1.1
+Seq:    11.47.1.1
 
 Level:  5 - Detail
 

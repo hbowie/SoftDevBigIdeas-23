@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Bo Schembechler
 
-Seq:    12.87
+Seq:    11.87
 
 Level:  3 - Article
 

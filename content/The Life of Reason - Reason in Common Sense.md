@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    santayana-1906
 
-Seq:    12.86.1
+Seq:    11.86.1
 
 Level:  4 - Subsection
 

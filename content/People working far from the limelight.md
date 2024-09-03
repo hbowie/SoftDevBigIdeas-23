@@ -1,6 +1,6 @@
 Title:  People working far from the limelight
 
-Seq:    12.9.1.1
+Seq:    11.9.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Joseph L. Badaracco]], *[[Leading Quietly: An Unorthodox Guide
 Body:
 
 The vast majority of difficult, important human problems — both inside and outside organizations — are not solved by a swift, decisive stroke from someone at the top. What usually matters are careful, thoughtful, small, practical efforts by people working far from the limelight.
+

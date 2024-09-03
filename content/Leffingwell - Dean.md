@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Dean Leffingwell
 
-Seq:    12.63
+Seq:    11.63
 
 Level:  3 - Article
 

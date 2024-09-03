@@ -1,6 +1,6 @@
 Title:  Share Early and Share Often
 
-Seq:    12.80.2.1
+Seq:    11.80.2.1
 
 Level:  5 - Detail
 

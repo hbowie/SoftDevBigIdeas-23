@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    cockburn-2007
 
-Seq:    12.25.4
+Seq:    11.25.4
 
 Level:  4 - Subsection
 
@@ -14,7 +14,7 @@ Author: Cockburn, Alistair
 
 Work Type: Article
 
-Pub Date: Aug 7 2007
+Pub Date: 2007-08-07
 
 Link:   https://www.se.rit.edu/~swen-256/resources/UsingBothIncrementalandIterativeDevelopment-AlistairCockburn.pdf
 

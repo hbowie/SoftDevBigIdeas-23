@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    schembechler-1983
 
-Seq:    12.87.1
+Seq:    11.87.1
 
 Level:  4 - Subsection
 

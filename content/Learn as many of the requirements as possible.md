@@ -2,7 +2,7 @@ Title:  Learn as many of the requirements as possible
 
 Tags:   quotes
 
-Seq:    12.27.2.1
+Seq:    11.27.2.2
 
 Level:  5 - Detail
 

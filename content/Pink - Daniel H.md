@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Daniel H. Pink
 
-Seq:    12.79
+Seq:    11.79
 
 Level:  3 - Article
 

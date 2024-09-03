@@ -1,6 +1,6 @@
 Title:  Alphabetical Index
 
-Seq:    10.3
+Seq:    10.2
 
 Level:  3 - Article
 

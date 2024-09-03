@@ -1,6 +1,6 @@
 Title:  Churchill Speech to House of Commons 7 Mar 1916
 
-Seq:    12.24.1
+Seq:    11.24.1
 
 Level:  4 - Subsection
 
@@ -10,7 +10,7 @@ Author: Winston Churchill
 
 Work Type: Speech
 
-Pub Date: 7 Mar 1916
+Pub Date: 1916-03-07
 
 Link:   https://winstonchurchill.org/publications/finest-hour/finest-hour-100/wit-wisdom-12/
 

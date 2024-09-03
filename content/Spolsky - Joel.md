@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Joel Spolsky
 
-Seq:    12.90
+Seq:    11.90
 
 Level:  3 - Article
 

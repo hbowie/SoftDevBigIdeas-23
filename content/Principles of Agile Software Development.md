@@ -6,7 +6,7 @@ Work Major Title: Manifesto for Agile Software Development
 
 AKA:    beck-et-al-2001-p
 
-Seq:    12.10.2
+Seq:    11.10.2
 
 Level:  4 - Subsection
 

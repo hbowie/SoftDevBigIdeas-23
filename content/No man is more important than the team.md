@@ -1,6 +1,6 @@
 Title:  No man is more important than the team
 
-Seq:    12.87.1.1
+Seq:    11.87.1.1
 
 Level:  5 - Detail
 

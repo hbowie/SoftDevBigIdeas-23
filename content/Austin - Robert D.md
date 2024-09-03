@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Robert D. Austin
 
-Seq:    12.6
+Seq:    11.6
 
 Level:  3 - Article
 

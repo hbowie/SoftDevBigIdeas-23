@@ -2,7 +2,7 @@ Title:  Technology married with the liberal arts
 
 Tags:   quotes
 
-Seq:    12.54.8.1
+Seq:    11.54.8.1
 
 Level:  5 - Detail
 
@@ -15,3 +15,4 @@ Attribution: -- [[Steve Jobs]], "[[Steve Jobs's Ultimate Lesson for Companies]]"
 Body:
 
 Technology alone is not enough. It’s technology married with the liberal arts, married with the humanities, that yields the results that makes our hearts sing.
+

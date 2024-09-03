@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Donald Knuth
 
-Seq:    12.60
+Seq:    11.60
 
 Level:  3 - Article
 

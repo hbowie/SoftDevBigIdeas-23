@@ -2,7 +2,7 @@ Title:  People who often change their minds
 
 Tags:   quotes
 
-Seq:    12.39.2.1
+Seq:    11.39.1.1
 
 Level:  5 - Detail
 

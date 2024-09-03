@@ -21,7 +21,7 @@ This book provides a broad overview of the most important ideas to consider when
 + Citing relevant wisdom from over 100 different sources...
 + Impeccably organized and indexed. 
 
-Read it straight through or consult the Navigation section to access the content in other ways.
+Read it straight through or consult the [[Navigation]] section to access the content in other ways.
 
 ----
 

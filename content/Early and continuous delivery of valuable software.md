@@ -1,6 +1,6 @@
 Title:  Early and continuous delivery of valuable software
 
-Seq:    12.10.2.1
+Seq:    11.10.2.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Kent Beck et al.]], "[[Principles of Agile Software Developmen
 Body:
 
 Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+

@@ -1,6 +1,6 @@
 Title:  Six impossible things before breakfast
 
-Seq:    12.30.1.2
+Seq:    11.30.1.2
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Tom DeMarco and Timothy Lister]], *[[Waltzing with Bears: Mana
 Body:
 
 There is probably no job on earth for which an ability to believe six impossible things before breakfast is more of a requirement than software project management. We are routinely expected to work ourselves into a state of believing in a deadline, a budget, or a performance factor that time subsequently may prove to be impossible.
+

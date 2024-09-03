@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    kim-et-al-2013
 
-Seq:    12.59.1
+Seq:    11.59.1
 
 Level:  4 - Subsection
 

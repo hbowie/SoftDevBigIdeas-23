@@ -2,7 +2,7 @@ Title:  Churchill, Winston
 
 AKA:    Winston Churchill
 
-Seq:    12.24
+Seq:    11.24
 
 Level:  3 - Article
 

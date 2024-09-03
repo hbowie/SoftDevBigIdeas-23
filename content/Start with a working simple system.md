@@ -2,7 +2,7 @@ Title:  Start with a working simple system
 
 Tags:   quotes
 
-Seq:    12.40.1.1
+Seq:    11.40.1.1
 
 Level:  5 - Detail
 

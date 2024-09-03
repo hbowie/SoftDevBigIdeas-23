@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    George Santayana
 
-Seq:    12.86
+Seq:    11.86
 
 Level:  3 - Article
 

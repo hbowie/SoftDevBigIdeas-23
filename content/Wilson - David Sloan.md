@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    David Sloan Wilson
 
-Seq:    12.95
+Seq:    11.95
 
 Level:  3 - Article
 

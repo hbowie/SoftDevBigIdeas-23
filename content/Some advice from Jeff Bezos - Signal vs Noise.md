@@ -2,7 +2,7 @@ Title:  Some advice from Jeff Bezos: Signal vs. Noise
 
 Tags:   works
 
-Seq:    12.39.2
+Seq:    11.39.1
 
 Level:  4 - Subsection
 
@@ -10,7 +10,7 @@ Class:  work
 
 Work Type: Interview
 
-Pub Date: 27 Aug 2018
+Pub Date: 2018-08-27
 
 Link:   https://m.signalvnoise.com/some-advice-from-jeff-bezos/
 

@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    William J. Brown - Hays W. McCormick III - Scott W. Thomas
 
-Seq:    12.19
+Seq:    11.19
 
 Level:  3 - Article
 

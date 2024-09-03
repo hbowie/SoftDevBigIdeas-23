@@ -6,7 +6,7 @@ Work Major Title: Forrester Blogs
 
 AKA:    gualtieri-2009
 
-Seq:    12.45.1
+Seq:    11.45.1
 
 Level:  4 - Subsection
 
@@ -20,7 +20,7 @@ Work Rights: Copyright
 
 Publisher: Forrester Research
 
-Pub Date: Sep 27, 2009
+Pub Date: 2009-09-27
 
 Link:   https://blogs.forrester.com/mike_gualtieri/09-09-27-excuses_excuses_business_doesnt_know_what_it_wants
 

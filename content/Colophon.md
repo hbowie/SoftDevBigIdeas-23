@@ -23,6 +23,7 @@ The following tools were used in the making of this site.
 * [Macintosh][mac]
 * [Markdown][]
 * [Notenik][]
+* [Nova][]
 * [Tower][]
 * [Transmit][]
 
@@ -42,6 +43,7 @@ The following tools were used in the making of this site.
 [markdown]: https://daringfireball.net/projects/markdown/
 [mbfonts]: https://mbtype.com
 [notenik]: https://notenik.app
+[nova]: https://nova.app
 [PSTextMerge]: https://www.powersurgepub.com/products/pstextmerge/index.html
 [tower]: https://www.git-tower.com/
 [transmit]: https://panic.com/transmit/

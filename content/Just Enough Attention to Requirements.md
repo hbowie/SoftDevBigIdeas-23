@@ -1,6 +1,6 @@
 Title:  Just Enough Attention to Requirements
 
-Seq:    12.27.2.2
+Seq:    11.27.2.3
 
 Level:  5 - Detail
 

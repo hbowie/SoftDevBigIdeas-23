@@ -1,6 +1,6 @@
 Title:  Do what is necessary
 
-Seq:    12.24.1.1
+Seq:    11.24.1.1
 
 Level:  5 - Detail
 
@@ -13,3 +13,4 @@ Attribution: -- [[Winston Churchill]], 1916
 Body:
 
 It’s no use saying, ‘We are doing our best.’ You have got to succeed in doing what is necessary.
+

@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    weinberg-1971
 
-Seq:    12.94.1
+Seq:    11.94.1
 
 Level:  4 - Subsection
 

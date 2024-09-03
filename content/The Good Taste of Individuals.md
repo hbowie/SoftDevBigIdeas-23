@@ -1,6 +1,6 @@
 Title:  The Good Taste of Individuals
 
-Seq:    12.70.1.1
+Seq:    11.70.1.1
 
 Level:  5 - Detail
 

@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    jobs-2004
 
-Seq:    12.54.5
+Seq:    11.54.5
 
 Level:  4 - Subsection
 
@@ -20,7 +20,7 @@ Work Rights Holder: Mansueto Ventures
 
 Publisher: Fast Company
 
-Pub Date: October, 2004
+Pub Date: 2004-10
 
 Link:   https://www.fastcompany.com/magazine/165/steve-jobs-highlights
 

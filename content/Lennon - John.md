@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    John Lennon
 
-Seq:    12.64
+Seq:    11.64
 
 Level:  3 - Article
 

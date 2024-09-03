@@ -2,7 +2,7 @@ Title:  Diversity helps your business
 
 Tags:   quotes
 
-Seq:    12.78.1.1
+Seq:    11.78.1.1
 
 Level:  5 - Detail
 

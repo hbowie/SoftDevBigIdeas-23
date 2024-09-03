@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Jason Fried
 
-Seq:    12.39
+Seq:    11.39
 
 Level:  3 - Article
 

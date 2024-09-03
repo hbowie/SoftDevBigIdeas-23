@@ -1,6 +1,6 @@
 Title:  Refactoring as continuous improvement
 
-Seq:    12.80.1.2
+Seq:    11.80.1.2
 
 Level:  5 - Detail
 

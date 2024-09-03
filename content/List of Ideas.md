@@ -1,14 +1,16 @@
-Title: List of Ideas 
+Title:  List of Ideas
 
-AKA: Table of Ideas
+AKA:    Table of Ideas
 
-Seq: 10.2 
+Seq:    10.1
 
-Level: 3 - Article
+Level:  3 - Article
 
-Class: back 
+Class:  back
 
-Body:  
+Timestamp: 20230223180144
+
+Body:
 
 Following is a complete list of all the Big Ideas. Click on a column heading to sort by that column; click again to reverse the sort. 
 

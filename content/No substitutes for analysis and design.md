@@ -1,6 +1,6 @@
 Title:  No substitutes for analysis and design
 
-Seq:    12.26.1.1
+Seq:    11.26.1.1
 
 Level:  5 - Detail
 

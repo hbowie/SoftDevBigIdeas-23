@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    cockburn-2006
 
-Seq:    12.25.3
+Seq:    11.25.3
 
 Level:  4 - Subsection
 
@@ -14,7 +14,7 @@ Author: Cockburn, Alistair
 
 Work Type: Article
 
-Pub Date: Sep 6 2006
+Pub Date: 2006-09-06
 
 Link:   https://www.researchgate.net/publication/285748372_What_engineering_has_in_common_with_manufacturing_and_why_it_matters
 

@@ -4,7 +4,7 @@ module	action	modifier	object	value
 
 input	set		xpltags	false
 input	set		dirdepth	1
-input	open	notenik-defined		/Users/hbowie/Sites/SoftDevBigIdeas-23/content
+input	open	notenik-defined		#PATH#../../content
 
 <!-- Filter to keep only the actual ideas -->
 
@@ -21,14 +21,14 @@ sort	set		params
 
 <!-- Now let's generate the random idea picker -->
 
-template	open			/Users/hbowie/Sites/SoftDevBigIdeas-23/factory/templates/random-idea-template.html
+template	open			#PATH#../templates/random-idea-template.html
 template	generate			
 
 <!-- Load the content into memory -->
 
 input	set		xpltags	false
 input	set		dirdepth	1
-input	open	notenik-defined		/Users/hbowie/Sites/SoftDevBigIdeas-23/content
+input	open	notenik-defined		#PATH#../../content
 
 <!-- Sort by Seq -->
 
@@ -39,14 +39,14 @@ sort	set		params
 
 <!-- Generate the content pages -->
 
-template	webroot			/Users/hbowie/Sites/SoftDevBigIdeas-23/web
-template	open			/Users/hbowie/Sites/SoftDevBigIdeas-23/factory/templates/content-page-template.html
+template	webroot			#PATH#../../web
+template	open			#PATH#../templates/content-page-template.html
 template	generate			
 
 <!-- Now generate the home page (index.html) -->
 
-template	webroot			/Users/hbowie/Sites/SoftDevBigIdeas-23/web
-template	open			/Users/hbowie/Sites/SoftDevBigIdeas-23/factory/templates/index-page-template.html
+template	webroot			#PATH#../../web
+template	open			#PATH#../templates/index-page-template.html
 template	generate			
 
 <!-- Now reveal the output -->

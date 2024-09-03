@@ -6,7 +6,7 @@ Work Major Title: Harvard Business Review
 
 AKA:    jobs-2011
 
-Seq:    12.54.8
+Seq:    11.54.8
 
 Level:  4 - Subsection
 
@@ -16,7 +16,7 @@ Author: Jobs, Steve
 
 Work Type: unknown
 
-Pub Date: Aug 2011
+Pub Date: 2011-08
 
 Link:   https://blogs.hbr.org/cs/2011/08/steve_jobss_ultimate_lesson_fo.html
 

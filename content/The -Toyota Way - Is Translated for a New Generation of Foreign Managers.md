@@ -6,7 +6,7 @@ Work Major Title: The New York Times
 
 AKA:    nytimes-2007
 
-Seq:    12.37.1
+Seq:    11.37.1
 
 Level:  4 - Subsection
 
@@ -16,7 +16,7 @@ Author: Fackler, Martin
 
 Work Type: unknown
 
-Pub Date: 39128
+Pub Date: 3912-08
 
 Link:   https://www.nytimes.com/2007/02/15/business/worldbusiness/15toyota.html
 

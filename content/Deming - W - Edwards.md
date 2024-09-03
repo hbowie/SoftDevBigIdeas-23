@@ -2,7 +2,7 @@ Title:  Deming, W. Edwards
 
 AKA:    W. Edwards Deming, Deming
 
-Seq:    12.32
+Seq:    11.32
 
 Level:  3 - Article
 

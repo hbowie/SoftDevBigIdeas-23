@@ -6,7 +6,7 @@ Work Major Title: SEI Technical Notes
 
 AKA:    sei-2008
 
-Seq:    12.44.1
+Seq:    11.44.1
 
 Level:  4 - Subsection
 
@@ -18,7 +18,7 @@ Work Type: Article
 
 Publisher: Software Engineering Institute
 
-Pub Date: Nov-08
+Pub Date: -11-08
 
 Link:   https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=8533
 

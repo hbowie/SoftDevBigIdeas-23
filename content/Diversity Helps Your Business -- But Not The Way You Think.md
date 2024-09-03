@@ -6,7 +6,7 @@ Work Major Title: Forbes
 
 AKA:    phillips-2009
 
-Seq:    12.78.1
+Seq:    11.78.1
 
 Level:  4 - Subsection
 
@@ -18,7 +18,7 @@ Work Type: Article
 
 Publisher: Forbes Media
 
-Pub Date: June 2, 2009
+Pub Date: 2009-06-02
 
 Link:   https://www.forbes.com/2009/06/02/diversity-collaboration-teams-leadership-managing-creativity.html
 

@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    innes-1936
 
-Seq:    12.52.1
+Seq:    11.52.1
 
 Level:  4 - Subsection
 

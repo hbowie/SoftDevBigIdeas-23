@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    jobs-1998
 
-Seq:    12.54.2
+Seq:    11.54.2
 
 Level:  4 - Subsection
 
@@ -14,7 +14,7 @@ Author: Jobs, Steve
 
 Work Type: Article
 
-Pub Date: May 25, 1998
+Pub Date: 1998-05-25
 
 Link:   https://web.archive.org/web/19991110003323/http://www.businessweek.com/1998/21/b3579165.htm
 

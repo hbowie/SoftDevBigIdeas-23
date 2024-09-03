@@ -16,7 +16,7 @@ The content itself changed very little, but I've improved the overall organizati
 
 Also, where I had been sometimes referencing my own content at PaganTuna.com, I've now pulled those referenced posts into a separate section at the back of this work. 
 
-Perhaps my favorite improvement is the new ability to consult one of the 52 big ideas [at random](random-idea.html); I can envision this being used in a somewhat oracular fashion, much as one might [consult the I Ching](https://en.wikipedia.org/wiki/I_Ching_divination); or, in perhaps a less fanciful vision, as something to be exercised as part of a weekly staff meeting. 
+Perhaps my favorite improvement is the new ability to consult one of the 52 big ideas from the [[Random Idea]] page; I can envision this being used in a somewhat oracular fashion, much as one might [consult the I Ching](https://en.wikipedia.org/wiki/I_Ching_divination); or, in perhaps a less fanciful vision, as something to be exercised as part of a weekly staff meeting. 
 
 However you choose to use this content, though, I hope that these changes will make the site easier and more enjoyable to use. 
 
@@ -24,5 +24,3 @@ However you choose to use this content, though, I hope that these changes will m
 
 Seattle, Washington  <br />
 April, 2023
-
-

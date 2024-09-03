@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Alistair Cockburn
 
-Seq:    12.25
+Seq:    11.25
 
 Level:  3 - Article
 

@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    lopp-2007, Managing Humans
 
-Seq:    12.69.1
+Seq:    11.69.1
 
 Level:  4 - Subsection
 

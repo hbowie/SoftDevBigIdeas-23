@@ -1,6 +1,6 @@
 Title:  Random Idea
 
-Seq:    10.6
+Seq:    10.5
 
 Level:  3 - Article
 

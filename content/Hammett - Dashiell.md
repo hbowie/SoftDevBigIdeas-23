@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Dashiell Hammett
 
-Seq:    12.46
+Seq:    11.46
 
 Level:  3 - Article
 

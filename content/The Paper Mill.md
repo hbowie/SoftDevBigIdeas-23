@@ -2,7 +2,7 @@ Title:  The Paper Mill
 
 Tags:   quotes
 
-Seq:    12.31.1.2
+Seq:    11.31.1.2
 
 Level:  5 - Detail
 
@@ -19,5 +19,3 @@ If you keep probing, and ask ‘Precisely what is in the document? What is it fo
 If you recognize this behavior on your project, you may be working in a paper mill.
 
 In a paper mill, every activity is marked by the production of a document, and progress is measured by how many of the documents have been produced -- not by what the documents contain. The paper mill principle says: Just in case anyone needs anything, let’s give everbody everything.
-
-

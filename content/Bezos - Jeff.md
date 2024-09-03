@@ -2,7 +2,7 @@ Title:  Bezos, Jeff
 
 AKA:    Jeff Bezos
 
-Seq:    12.12
+Seq:    11.12
 
 Level:  3 - Article
 

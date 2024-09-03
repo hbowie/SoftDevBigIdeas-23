@@ -1,6 +1,6 @@
 Title:  Outcomes are what matter
 
-Seq:    12.59.1.2
+Seq:    11.59.1.2
 
 Level:  5 - Detail
 
@@ -13,5 +13,4 @@ Attribution: -- [[Gene Kim and Kevin Behr and George Spafford]], *[[The Phoenix 
 Body:
 
 He continues, “Remember, outcomes are what matter—not the process, not controls, or, for that matter, what work you complete.”
-
 

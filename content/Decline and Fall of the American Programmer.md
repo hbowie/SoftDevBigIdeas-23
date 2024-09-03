@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    yourdon-1992
 
-Seq:    12.96.2
+Seq:    11.96.2
 
 Level:  4 - Subsection
 

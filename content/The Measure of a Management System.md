@@ -6,7 +6,7 @@ Work Major Title: Better Software Magazine
 
 AKA:    highsmith-2007-11
 
-Seq:    12.48.4
+Seq:    11.48.4
 
 Level:  4 - Subsection
 
@@ -18,7 +18,7 @@ Work Type: Article
 
 Publisher: Sticky Minds
 
-Pub Date: Nov-07
+Pub Date: -11-07
 
 Link:   https://www.stickyminds.com/better-software-magazine/measure-management-system
 

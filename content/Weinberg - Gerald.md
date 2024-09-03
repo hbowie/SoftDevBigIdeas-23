@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Gerald Weinberg
 
-Seq:    12.94
+Seq:    11.94
 
 Level:  3 - Article
 

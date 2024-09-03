@@ -1,6 +1,6 @@
 Title:  Managers should know what's going on
 
-Seq:    12.73.1.1
+Seq:    11.73.1.1
 
 Level:  5 - Detail
 

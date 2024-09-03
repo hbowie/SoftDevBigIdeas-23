@@ -4,7 +4,7 @@ Tags:   works
 
 AKA:    gall-1975
 
-Seq:    12.40.1
+Seq:    11.40.1
 
 Level:  4 - Subsection
 

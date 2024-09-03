@@ -1,6 +1,6 @@
 Title:  Appreciations and Criticisms of the Works of Charles Dickens
 
-Seq:    12.23.1
+Seq:    11.23.1
 
 Level:  4 - Subsection
 

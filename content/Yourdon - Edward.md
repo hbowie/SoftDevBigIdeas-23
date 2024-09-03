@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Edward Yourdon
 
-Seq:    12.96
+Seq:    11.96
 
 Level:  3 - Article
 

@@ -1,6 +1,6 @@
 Title:  EPUB Metadata
 
-Seq:    13.1
+Seq:    12.1
 
 Level:  3 - Article
 

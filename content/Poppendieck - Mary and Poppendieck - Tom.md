@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Mary and Tom Poppendieck
 
-Seq:    12.80
+Seq:    11.80
 
 Level:  3 - Article
 

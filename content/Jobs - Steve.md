@@ -4,7 +4,7 @@ Tags:   authors
 
 AKA:    Steve Jobs
 
-Seq:    12.54
+Seq:    11.54
 
 Level:  3 - Article
 
