@@ -11,7 +11,6 @@ Timestamp: 20230426161154
 Body:
 
 {:nav}
-+ [[Table of Contents|Contents]]
 + [[Alphabetical Index|Index]]
 + [[List of Ideas|Ideas]]
 + [[Random Idea|Random]]
